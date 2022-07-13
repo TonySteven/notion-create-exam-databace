@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "gnbxanwrs7pppr5y-loamw",
+    "title": "Reading Comprehension",
+    "remark": "",
+    "totalScore": 60,
+    "stuQuestions": [
+      {
+        "id": "sbamaasrqlzpbiore4mgsg",
+        "questionType": 8,
+        "title": "<p>The good news we get from TV and radio makes us feel more kindly toward other people, but bad news — especially news of cruelty and violence — stirs up suspicion and a sense of competition toward others.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These are the findings of 10 years of experiments by research psychologists (心理学家) at Columbia University, who conclude that broadcasters encourage hostile (敌对的) behavior by stressing bad news.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"We found that the news people are exposed to either encourages them to concentrate on the differences between themselves and others, or on the common problems that make them feel, 'We're all in this together,' \" explained Dr. Harvey Hornstein.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"'News about one human being helping another … brings out feelings of trust and cooperation. But news about one personactually doing harm to another changes our estimate of other people for the worse.\"”</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In an early experiment in 1968, Dr. Hornstein and his associates, who had been dropping wallets (钱包) for two years to test the honesty of people, discovered that on June 4, 1968, not one wallet was returned.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"That was the night Robert F. Kennedy was shot,\" he recalled. \"Strangers suddenly seemed dangerous, and nobody wanted to return a lost wallet to a stranger.\"</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"But good news on the other hand, lifts us up,\" he stressed, citing the date of July 4, 1976, America’s Bicentennial (两百年的) celebration. \"On that day, we all felt safe and good. Being American was the thing. We all felt as if we all belonged together.\"</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recent tests support these conclusions. In one experiment, 60 subjects were exposed to good news, bad news or music. Then they were told to play a game with a non-existent person supposedly in another room. It was a game of choice that emphasized cooperation or competition.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After hearing good news, the overwhelming majority, 91 percent, played cooperatively. But after hearing bad news, competitive responses were over three times as high — up to 28 percent, from 9 percent.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"If we watch television and see a lot of blood,\" said Dr. Hornstein, \"we’re probably assuming that the world is a dirtier place than we assumed before we saw that TV violence. And we’ll deal with the next individual we come upon as if he is part of that grim (冷酷的) picture of humanity. After the good news, it’s the reverse.\"</p><p><br></p>",
+        "resultAnalysis": "",
+        "stuSubQuestion": [
+          {
+            "id": "tbamaasrn5pb0ug6-btj1w",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\n微软雅黑;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-font-kerning:0pt;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">&nbsp;According to the findings of researchers at\nColumbia University, when people hear good news, they feel _______.</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "happier",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "more kindly toward others",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "safer than they really are",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "more competitive",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "0",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "zbamaasrdkxhdtu4-wld2w",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\n微软雅黑;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-font-kerning:0pt;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">Dr. Harvey Hornstein found\nthat when people hear news about one person actually doing harm to another,\nthey tend to _______.</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "regard other people as worse than they really are",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": " treat total strangers as suspects of cruel crimes",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": " become hostile towards neighbors and friends",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "think about the common problems facing mankind",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "0",
+            "isRight": 1,
+            "isAssignmented": 1,
+            "stuAnswer": "0",
+            "totalScore": 3,
+            "giveScore": 3,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "zbamaasrjo1ohr7fwhchhw",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\n微软雅黑;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-font-kerning:0pt;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">What did Dr. Harvey Hornstein\nand his associates discover on the night of June 4, 1968?</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "Robert F. Kennedy was shot.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "Their wallets were lost.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "People in America suddenly became dishonest.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "Nobody returned the wallets they dropped.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "3",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "zbamaasreabinlwxyvfiba",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\n微软雅黑;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-font-kerning:0pt;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">We can infer from the\npassage that on July 4, 1976, most probably _______.</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "people drank and sang and danced",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "lost wallets were returned to their owners",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "everybody wanted to be American",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "even criminals were friendly to others",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "aramaasrrqnbjpffi8-3lg",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\n微软雅黑;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-font-kerning:0pt;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">We can conclude from the\npassage that _______.</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "violence on TV leads to more violence on the streets",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": " broadcasters should emphasize good news rather than bad news",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "the world is a dirtier place than we assume it to be",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": " people are more competitive when they are faced with challenges",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          }
+        ],
+        "answer": "",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 15,
+        "giveScore": 3,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "z-qnaasr775d7wmwt5pcea",
+        "questionType": 8,
+        "title": "<p>&nbsp;&nbsp;&nbsp;How do young children learn to have good values How can parents teach their children about the importance of kindness, patience, and self-discipline At a time when more and more parents worry about the negative and violent images (暴力形象) their children see on TV, in the movies and, on the Internet, some are turning to fairy tales (童话) as a way to teach their young ones how to behave in society.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fairy tales were not always intended for children. We know this because some of these stories have existed for hundreds of years and were passed down from generation to generation through songs and drama. They were considered entertainment for everyone, not only for young people. In these ancient stories, the heroes were extremely clever, fiercely independent, and never gave up. Over the years, some of the heroes' qualities and story lines have been changed to fit the times.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Psychologists think that fairy tales have a positive influence on children because they present the two sides of good and evil very clearly. When children hear the stories, they develop sympathetic feelings for the heroic characters. In each tale, they can see that there are many different kinds of people in the world and that we all have a choice about what kind of person we want to be. We can choose to do good actions, rather than bad ones, in our lives.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What kind of values can children learn from fairy tales in \"The Princess and the Pea,\" a poorly dressed girl who insists she is a princess is given a difficult test by the Queen. When she passes the test, we learn that she is rewarded because she stayed true to herself. In \"The Little Mermaid,\" the mermaid (美人鱼) who lives under the sea longs to be with the humans on land. Through her experiences, we learn about the importance of living with and accepting other cultures. In \"Pinocchio,\" a wooden puppet (木偶) turns into a boy when he finally learns how to tell the truth.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teaching values is the reason most often given for teaching literature and encouraging reading. These old stories can indeed teach us lessons about human relationships that are universal (普遍的) enough to survive throughout the centuries. This might be the reason why they have been around for so long and are unlikely to disappear any time soon.</p><p><br></p>",
+        "resultAnalysis": "",
+        "stuSubQuestion": [
+          {
+            "id": "z-qnaasr265irmwg-iqjlw",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:\nminor-fareast;color:#333333;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;\nmso-bidi-language:AR-SA\">What do we learn about fairy tales from the passage?</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "They are written solely for children.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "They teach universal lessons about human relationships.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "They are all passed down through songs and drama.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "They are adapted to TV and movies as entertainment.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 1,
+            "isAssignmented": 1,
+            "stuAnswer": "1",
+            "totalScore": 3,
+            "giveScore": 3,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "5uqnaasropzi1j8sfu18qw",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:12.0pt;font-family:\n&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:\nminor-fareast;color:#333333;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;\nmso-bidi-language:AR-SA\">Why do fairy tales have a positive influence on\nchildren?</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "Good and evil are presented in a way they can easily understand.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "The characters are all good examples for them to follow.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "The heroes go through all kinds of hardships but never give up.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "There are many different kinds of characters for them to imitate.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "0",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "-eqnaasrurfmwcxfw2hvxg",
+            "title": "<p style=\"margin: 0cm 0cm 7.5pt; text-align: justify; text-indent: 24pt; background: white;\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;\ncolor:#333333\">Some of the heroes&#39; qualities in fairy tales have been changed\nover the years________.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "to reflect the change of values",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "to suit the tastes of different people",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": " to arouse the interest of little children",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": " to adapt to the change of the times",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "3",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "-uqnaasrn7xkcvcb68luwa",
+            "title": "<p style=\"margin: 0cm 0cm 7.5pt; text-align: justify; text-indent: 24pt; background: white;\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;\ncolor:#333333\">Children who have heard about the story of the little mermaid\nmight ________.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "learn to be better self-disciplined",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "be more likely to tell the truth than to tell lies",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": " learn to stay true to themselves all their lives",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "be better able to accept foreign cultures",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "3",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "a-unaasrtjhfsyogkbuowg",
+            "title": "<p style=\"margin: 0cm 0cm 7.5pt; text-align: justify; text-indent: 24pt; background: white;\"><span lang=\"EN-US\" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;\ncolor:#333333\">Parents encourage children to read fairy tales so that they\n________.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "can entertain themselves without bothering others",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": " can get to know great literature of the world",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "can stay away from violence shown on TV",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "can learn how to behave in society",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "3",
+            "isRight": 1,
+            "isAssignmented": 1,
+            "stuAnswer": "3",
+            "totalScore": 3,
+            "giveScore": 3,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          }
+        ],
+        "answer": "",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 15,
+        "giveScore": 6,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lfgsakwr9l5nh9mzxdzb7q",
+        "questionType": 8,
+        "title": "<p><span style=\"color: rgb(0, 0, 0);\">　Many of us believe that a person's mind becomes less active as he grows older. But this is not true, according to Dr. Jarvik, professor of psychiatry at the University of California. She has studied the mental functioning of aging persons for several years. For example, one of her studies concerns 136 pairs of identical twins, who were first examined when they were already 60 years old. As Dr. Jarvik continued the study of the twins into their 70s and 80s, their minds did not generally decline as was expected.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> However, there was some decline in their psycho-motor speed. This means that it took them longer to accomplish mental tasks than it used to. But when speed was not a factor, they lost very little intellectual ability over the years. In general, Dr. Jarvik 's studies have shown that there is no decline in knowledge or reasoning ability. This is true not only with those in their 30s and 40s, but with those in their 60s and 70s as well.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> It is true that older people themselves often complain that their memory is not as good as it once was. However, much of what we call \"loss of memory\" is not that at all. They usually are incomplete learning in the first place. For example, the older person perhaps had trouble hearing, or poor vision, or inattention, or was trying to learn the new thing at too fast a pace. In the cases where the older person's mind really seems to decay, it’s not necessarily a sign of decay due to old age. Often it is simply a sign of depressed emotional state.</span></p>",
+        "resultAnalysis": "",
+        "stuSubQuestion": [
+          {
+            "id": "fyytakwrorfgmnv1fiflxa",
+            "title": "<p class=\"MsoNormal\"><span lang=\"EN-US\">According to Dr. Jarvik&#39;s studies,\nmiddle-aged and older persons would expected to ___<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "remember less ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "reason better ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "lose no intellectual ability ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "learn fewer new things",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "2",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "0",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "n1gtakwrk4jeapbtfzrjaa",
+            "title": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Mental decay due to aging is ___<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "common ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "much more common than most people believe ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "much less common than most people believe ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "true of those over sixty",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "2",
+            "isRight": 1,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 3,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "in-takwro41pvkfa83jkya",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:10.5pt;font-family:\n&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">A long-term study of 136\npairs of twins showed that ___</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "they lost a little ability to reason over the years.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "the only factor， which declined over the years， was their speed with which to perform mental tasks.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "their memory was not as good as it had once been.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "their minds became a bit more active as they grew older.",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "f6stakwr8rhg-usvuqa1tq",
+            "title": "<p class=\"MsoNormal\"><span lang=\"EN-US\">According to the passage, all the following\nare instances of &quot;incomplete learning&quot; except ___<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "poor hearing ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "bad eyebright",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": " the attempt to learn many new things",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "lack of attention",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "2",
+            "isRight": 1,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 3,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "8dctakwrmi1aoggugkckrg",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:10.5pt;font-family:\n&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">What we call mental decay\nis usually a sign of ___</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "old age",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "a worsening state of health",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": " a low-spirited state ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "nervous tension",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "2",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "0",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          }
+        ],
+        "answer": "",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 15,
+        "giveScore": 6,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "f9oqakwrtidcqbfdvcnepq",
+        "questionType": 8,
+        "title": "<p><span style=\"color: rgb(0, 0, 0);\">　Perhaps you are an average student with average intelligence. You do well enough in school, but you probably think you will never be a top student. This is not necessarily the case, however. You can receive better grades if you want to. Yes, even students of average intelligence can be top students without additional work. Here’s how:</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 1. Plan your time carefully. Make a list of your weekly tasks. Then make a schedule or chart of your time. Fill in committed time such as eating, sleeping, meetings, classes, etc. Then decide on good, regular times for studying. Be sure to set aside enough time to complete your normal reading and work assignments. Of course, studying shouldn’t occupy all of the free time on the schedule. It’s important to set aside time for relaxation, hobbies, and entertainment as well. This weekly schedule may not solve all of your problems, but it will make you more aware of how you spend your time. Furthermore, it will enable you to plan your activities so that you have adequate time for both work and play.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 2. Find a good place to study. Choose one place for your study area. It may be a deck or a chair at home or in the school library, but it should be comfortable, and it should not have distractions. When you begin to work, you should be able to concentrate on the subject.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 3. Skim before you read. This means looking over a passage quickly before you begin to read it more carefully. As you preview the material, you get some idea of the content and how it is organized. Later when you begin to read you will recognize less important material and you may skip some of these portions. Skimming helps double your reading speed and improves your comprehension as well.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 4. Make good use of your time in class. Listening to what the teacher says in class means less work later. Sit where you can see and hear well. Take notes to help you remember what the teacher says.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 5. Study regularly. Go over your notes as soon as you can after class. Review important points mentioned in class as well as points you remain confused about. Read about these points in your textbook. If you know what the teacher will discuss the next day, skim and read that material too. This will help you understand the next class. If you review your notes and textbook regularly, the material will become more meaningful and you will remember it longer. Regular review leads to improved performance on tests.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 6. Develop a good attitude about tests. The purpose of a test is to show what you have learned about a subject. The world won’t end if you don’t pass a test, so don’t worry excessively about a sin le test. Tests provide grades, but they also let you know what you need to spend more time studying, and they help make your new knowledge permanent.</span></p><p><span style=\"color: rgb(0, 0, 0);\"> There are other techniques that might help you with your studying. Only a few have been mentioned here. You will probably discover many others after you have tried these. Talk with your classmates about their study techniques. Share with them some of the techniques you have found to be helpful. Improving your study habits will improve your grades.</span></p>",
+        "resultAnalysis": "",
+        "stuSubQuestion": [
+          {
+            "id": "0ysrakwrrlxmqdalj71b8a",
+            "title": "<p><span lang=\"EN-US\" style=\"font-size:10.5pt;font-family:\n&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-ansi-language:EN-US;\nmso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\">An average student with\naverage intelligence is a student who _________.</span><br/></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "is neither very bright nor very dull",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "has a normal ability to learn and understand",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "does sufficiently well but wins no distinction",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "all of the above",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "3",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "1",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "qlarakwr35nc9q0djvrozq",
+            "title": "<p class=\"MsoNormal\" style=\"text-indent: 21.75pt;\"><span lang=\"EN-US\">According to the author, a weekly schedule id\nof great importance in that it helps you _________.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "reserve as much time as possible for your homework",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "spend most of your time fulfilling your obligations as a college student",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "effectively plan all your activities on campus",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "have adequate time for both work and play",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "3",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "yoarakwrvqlnizdak9fyka",
+            "title": "<p class=\"MsoNormal\" style=\"text-indent: 21.75pt;\"><span lang=\"EN-US\">&nbsp;“Committed time” is the time ________-.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "reserved for a particular purpose",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": " required to fulfill one’s obligations and take care of the necessities of life",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "one has to make full use of",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "during which something meaningful is done",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "2",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "y6-rakwrhzvblpqwxlf8gq",
+            "title": "<p class=\"MsoNormal\" style=\"text-indent: 21pt;\"><span lang=\"EN-US\">“The world will not end” can be\nbest be interpreted as __________.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "“it doesn’t matter whether you pass the test or not”",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "“don’t take it too seriously; it is， after all， a common occurrence”",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "“don’t feel much too upset; it is not the worst thing that could happen”",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "“work hard and you will make it next time”",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "2",
+            "isRight": 2,
+            "isAssignmented": 1,
+            "stuAnswer": "3",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          },
+          {
+            "id": "hnorakwr9bhmgtgjwpaupa",
+            "title": "<p class=\"MsoNormal\" style=\"text-indent: 21pt;\"><span lang=\"EN-US\">This article is intended for\n_______.<o:p></o:p></span></p>",
+            "options": [
+              {
+                "sortOrder": "0",
+                "content": "students who are hared working but with poor performance on tests",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "1",
+                "content": "students in general ",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "2",
+                "content": "students who are eager to improve their academic performance",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              },
+              {
+                "sortOrder": "3",
+                "content": "language students at college",
+                "pictureAddress": "",
+                "answer": "",
+                "stuAnswer": ""
+              }
+            ],
+            "answer": "1",
+            "isRight": 2,
+            "isAssignmented": 2,
+            "stuAnswer": "",
+            "totalScore": 3,
+            "giveScore": 0,
+            "subQuestionType": 1,
+            "answerPicUrl": ""
+          }
+        ],
+        "answer": "",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 15,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "gsxwanwrapfcsrgmsntvwa",
+    "title": "Vocabulary and Structure",
+    "remark": "",
+    "totalScore": 40,
+    "stuQuestions": [
+      {
+        "id": "l6j1anwrgo9h3ff-ithnjq",
+        "questionType": 1,
+        "title": "Would you______turn down the radio?",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "kindness",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "kindly",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "kind",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "unkind",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oaj1anwrdkde9zzdmo36hq",
+        "questionType": 1,
+        "title": "It took years for Einstein’s theory to gain______.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "accept",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "acceptance",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "acceptable",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "acceptably",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qqj1anwrt7lni0b0ngowyq",
+        "questionType": 1,
+        "title": "After______so many defeats, I found the final victory doubly sweet.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "inexperienced",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "experiencing",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "experience",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "experienced",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oaj1anwrx4paoruc0ym-yg",
+        "questionType": 1,
+        "title": "Nobody can work well if he is______ .",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "distraction",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "distracted",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "distracting",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "distracts",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qqj1anwrsonps0knqe0jqg",
+        "questionType": 1,
+        "title": "In the past two years the young man has made great progress and now he can work as______as a skilled worker.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "efficiently",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "efficient",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "efficiency",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "inefficiently",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "paj1anwra49dkv5mbybviw",
+        "questionType": 1,
+        "title": "During his solo voyage, Chichester had______experienced fear like many other adventurers.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "doubtful",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "doubt",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "undoubtedly",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "doubtfully",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oaj1anwreotpaindut3ntq",
+        "questionType": 1,
+        "title": "Jenny is very ______ ——if she says she’ll do something she’ll do it.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "rely",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "reliant",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "reliance",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "reliable",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "paj1anwr9jtmvv4ysseisw",
+        "questionType": 1,
+        "title": "He likes classical music ever since ______.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "childhood",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "childish",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "child",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "childishly",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qqj1anwr7oxb7-pk8ay1ag",
+        "questionType": 1,
+        "title": "John was______ to go out in the storm, but he went anyway.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "reluctance",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "reluctant",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "reluctantly",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "irreluctant",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "r6j1anwrw7pkdmivizqqbg",
+        "questionType": 1,
+        "title": "After reading the novel he was too ______ to go to sleep that night.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "excite",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "exciting",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "excited",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "excitement",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "naj1anwru5xcpojzxrmefw",
+        "questionType": 1,
+        "title": "We had better move forward, for it will not do us any good to ______the past.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "shrug off",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "dwell on",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "live on",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "single out",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tkj1anwrh4xo2ycoruexvg",
+        "questionType": 1,
+        "title": "Can you list a few problems likely to ______ the human race in the next few decades?",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "fracture",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "confront",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "occupy",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "frustrate",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tkj1anwrmbti0jzaqvhihw",
+        "questionType": 1,
+        "title": "Disposable income is steady and consumption has barely fallen, though people have become more ____about buying luxuries.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "cautious",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "dreary",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "reluctant",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "alert",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uaj1anwrayxp9xphpqjvsg",
+        "questionType": 1,
+        "title": "They took emergency steps to protect themselves from the ________ disease.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "conveyed",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "dreaded",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "dispersed",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "exploded",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "mkj1anwrl7jntpngy9mhyq",
+        "questionType": 1,
+        "title": "We never lose heart when we _______ difficulties in our work.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "engage",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "conflict",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "catch",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "encounter",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "naj1anwrj7jpqevtbeyy1a",
+        "questionType": 1,
+        "title": "They started to place the bombs, but as the aircraft were widely _______, this took time in the dark.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "reinforced",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "dispersed",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "relayed",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "displayed",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pqj1anwrzjxi95eznrcjxa",
+        "questionType": 1,
+        "title": "Susan is never known to be ___to follow fashions, however attractive they may seem.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "granted",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "prompted",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "tempted",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "addicted",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "skj1anwrvyjbmg-8xm5lbq",
+        "questionType": 1,
+        "title": "If doing one thing gives you an unpleasant feeling, the normal _______ would be to stop doing it.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "perspective",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "emotion",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "reaction",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "function",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "skj1anwrmz1oz596j-sdmq",
+        "questionType": 1,
+        "title": "I feel _____ you will extend a helping hand to those who are suffering from cold and hunger.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "unlike",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "complacent",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "apparent",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "confident",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "mkj1anwrdbzgwduyv6qylg",
+        "questionType": 1,
+        "title": "With determination and hard work, you are _______ succeed eventually.",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "bound to",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "sure of",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "necessary to",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "free to",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]
