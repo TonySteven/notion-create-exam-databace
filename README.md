@@ -25,6 +25,44 @@
 
 ```
 
-### 参考文档
+### 使用文档
+
+---
+
+#### 1. 直接用建好的notion数据库 (山师的同学们可以复用并持续更新)
+
+[notion考试题库](https://genesisorgcn.notion.site/f406642b43ba49ff99844e621608f8d3?v=35e6eb4671e34683825a47cc2e050cc3)
+
+#### 2. 通过项目搭建自己notion数据库 (其他学校的同学)
+
+##### 2.1 环境准备
+
+###### 2.1.1 申请notion_API (参考最后项目实现文档)
+
+###### 2.1.2 pull下main分支代码后,通过requirements.txt还原Python环境(记得新建项目环境)
+
+```shell
+pip install -r requirements.txt
+```
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46hhe5xqej21c80u0416.jpg)
+
+##### 2.2 使用
+
+##### 2.2.1 获取Json数据并放入origin_json_data文件夹 (参考最后项目实现文档)
+
+##### 2.2.2 获取Json数据 (参考最后项目实现文档)
+
+##### 2.2.3 analysis.py的两处替换
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46htnbjilj20yp0u0gol.jpg)
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46hut8dvvj20u00wvq6f.jpg)
+
+##### 2.2.4 analysis.py运行即可
+
+---
+
+### 项目实现文档
 
 - [项目实现文档](https://genesisorgcn.notion.site/1-afb97748bd2344d18c2feffb0eb384cf)
