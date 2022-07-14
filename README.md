@@ -49,6 +49,8 @@ pip install -r requirements.txt
 
 ##### 2.2 使用
 
+##### 2.2.0 查看本地按照redis布隆过滤器环境文档,并安装本地按照redis布隆过滤器环境.
+
 ##### 2.2.1 获取Json数据并放入origin_json_data文件夹 (参考最后项目实现文档)
 
 ##### 2.2.2 获取Json数据 (参考最后项目实现文档)
@@ -63,6 +65,9 @@ pip install -r requirements.txt
 
 ---
 
-### 项目实现文档
+### 项目文档
 
-- [项目实现文档](https://genesisorgcn.notion.site/1-afb97748bd2344d18c2feffb0eb384cf)
+- [项目逐步实现文档](https://genesisorgcn.notion.site/1-afb97748bd2344d18c2feffb0eb384cf)
+
+- [本地按照redis布隆过滤器环境文档(docker)](https://genesisorgcn.notion.site/redis-0fbf0fc39601438eae72d67b4ead9227)
+
