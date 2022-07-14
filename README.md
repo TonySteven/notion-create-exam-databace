@@ -1,12 +1,12 @@
-# notion-create-exam-databace
+# 和学在线作业题库整理到notion数据库
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1h453yzdmctj21rv0u040u.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1h46gwh86roj21id0u0wmu.jpg)
 
 ## 简介
 
-> 时间: 2022/07/13 项目版本 
-> 
-> 解析Json,调用notion-API创建考试数据库.
+> 时间: 2022/07/13 项目版本
+>
+> 和学在线作业题库整理到notion数据库
 
 ### 内容简介
 
