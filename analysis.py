@@ -14,8 +14,8 @@ from redisbloom.client import Client as RedisBloomClient
 from utils.utils import stu_question2options
 
 # 加载文件
-file_name = '英语_2'
-subject = file_name.split('_', 1)[0]
+file_name = '毛概-9'
+subject = file_name.split('-', 1)[0]
 path = r"/Users/steven/PycharmProjects/notion-create-exam-databace/origin_json_data/" + file_name + ".json"
 file = open(path, 'r', encoding='utf-8')
 
