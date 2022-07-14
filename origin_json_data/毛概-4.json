@@ -1,0 +1,3264 @@
+[
+  {
+    "id": "njatadgrn7nb7-zels8x4q",
+    "title": "单项选择题",
+    "remark": "",
+    "totalScore": 50,
+    "stuQuestions": [
+      {
+        "id": "giv0akora5jn2uxglpymmq",
+        "questionType": 1,
+        "title": "贯彻“三个代表”重要思想，关键在( )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "坚持与时俱进",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "保持党的先进性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "坚持执政为民",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "巩固党的执政地位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akor3y1mc6e2eo4smq",
+        "questionType": 1,
+        "title": "（）是人民军队的立军之本",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "政治建军",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "改革强军",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "科技兴军",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "依法治军",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akor469pyt-ectcpaa",
+        "questionType": 1,
+        "title": "党的政治建设的首要任务是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "保证全党服从中央，坚持党中央权威和集中统一领导",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "尊崇党章，加强党性锻炼",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "完善和落实民主集中制的各项制度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "不断提高政治觉悟和政治能力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akorypzomyllqd3era",
+        "questionType": 1,
+        "title": "正式提出“邓小平理论”这一科学概念的会议是：(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "党的十二大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "党的十三大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "党的十四大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "党的十五大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akor2jlbyepgwlsn1a",
+        "questionType": 1,
+        "title": "全面深化改革的出发点和落脚点是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "解放和发展生产力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "固党的执政地位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "促进社会公平正义、增进人民福祉",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "破除一切不合时宜的思想观念和体制机制弊端",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ecv0akorxqvgom-5ha8knw",
+        "questionType": 1,
+        "title": "近代中国的社会性质是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "封建社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "前资本主义社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "半殖民地半封建社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "资本主义社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorbidalipukucy5w",
+        "questionType": 1,
+        "title": "必须认识到，我国社会主要矛盾的变化，没有改变我们对我国社会主义所处历史阶段的判断，我国仍处于并将长期处于（    ）的基本国情没有变，我国是世界最大发展中国家的国际地位没有变。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "社会主义阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "社会主义初级阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "社会主义中级阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "社会主义高级阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akorljrocvqrhieiaa",
+        "questionType": 1,
+        "title": "2015年9月，习近平在纽约联合国总部发表重要讲话，提出要构建新型国际关系，打造（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一带一路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "人类命运共同体",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "和谐世界",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "世界经济统一体",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akorpq1nhs-p-urjoa",
+        "questionType": 1,
+        "title": "在中国的外交工作布局中，（）是首要。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "大国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "发展中国家",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "周边",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "多边",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akorxofdq88vzkxf1w",
+        "questionType": 1,
+        "title": "实现民族复兴，关键在（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "军队",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "群众",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "经济实力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akorl5ndakwqkh5iig",
+        "questionType": 1,
+        "title": "统领党的建设的是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "政治建设",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "思想建设",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "组织建设",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "制度建设",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akorvavhahf-xauk-g",
+        "questionType": 1,
+        "title": "爱国统一战线是党的事业取得胜利的（），将继续巩固和发展。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "主要动力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "根本力量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "重要法宝",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "基本思路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorgpjdq362y9-x4g",
+        "questionType": 1,
+        "title": "科学发展观的根本方法是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "统筹兼顾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "全面协调可持续",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "以人为本",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akore4pnkjssacc8ug",
+        "questionType": 1,
+        "title": "我国改革开放之所以能取得巨大成功，关键是我们",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "把党的基本路线作为党和国家的生命线",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "坚持四项基本原则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "坚持全面从严治党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "坚持自力更生艰苦奋斗",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorpltomv8nwudubw",
+        "questionType": 1,
+        "title": "科学发展观的第一要义是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "以人为本",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "协调",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "可持续",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akorg5tfswbo8aexxw",
+        "questionType": 1,
+        "title": "“四个全面”战略布局中具有突破性和先导性的关键环节是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "全面建成小康社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "全面深化改革",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "全面依法治国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "全面从严治党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akoralrnhagno0ahxg",
+        "questionType": 1,
+        "title": "（）标准始终是军事领域衡量利弊得失的重要标准",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "执行力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "领导力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "战斗力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "凝聚力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akorw4jfozssg9vllq",
+        "questionType": 1,
+        "title": "中国的新民主主义社会是属于（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "封建主义体系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "资本主义体系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "社会主义体系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "共产主义体系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akorbpzj-0fhixctua",
+        "questionType": 1,
+        "title": "下列不属于三大改造过程中出现的失误和偏差的是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "工作过粗",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "要求过急",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "循序渐进",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "形式单一",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akorlkfkjoapnhzk4q",
+        "questionType": 1,
+        "title": "对资本主义工商业进行改造的方法是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一次买断",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "暴力掠夺",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "和平赎买",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "谈判解决",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akorsrtk4zy6ogb-dg",
+        "questionType": 1,
+        "title": "习近平强军思想深刻回答了",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "建设一支什么样的强大军队，怎样建设强大军队的时代课题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "新时代建设一支什么样的强大军队，怎样建设强大军队的时代课题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "建设一支什么样的军队，怎样建设军队的时代课题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "新时代建设一支什么样的军队，怎样建设军队的时代课题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ecv0akors4dewt8tmn66jw",
+        "questionType": 1,
+        "title": "下列不属于毛泽东思想成熟时期的著作是(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "《＜共产党人＞发刊词》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "《反对本本主义》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "《中国革命和中国共产党》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "《中国革命和中国共产党》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akora6rfqs7pz1j2ig",
+        "questionType": 1,
+        "title": "社会主义制度在中国基本确立是在( )年",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1949年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1956年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "1978年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1992年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorpz9mtbg-mpuvhw",
+        "questionType": 1,
+        "title": "关于发展的本质、目的、内涵和要求的总体看法和根本观点是（ ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "发展战略",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "发展道路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "发展模式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "发展观",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akor76vmv0xntfa7yq",
+        "questionType": 1,
+        "title": "1956年底毛泽东发表的《论十大关系》成为探索中国特色的社会主义建设道路的先声，文章中提出我国社会主义建设必须围绕着一个基本方针，就是(   )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "正确区分和处理两类不同性质的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "调动一切积极因素为社会主义事业服务",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "中国共产党和民主党派“长期共存、互相监督\"",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "“调整、巩固、充实、提高\"的方针",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akorsazm19tmsh8ugq",
+        "questionType": 1,
+        "title": "中国特色社会主义理论体系的开创之作是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "邓小平理论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "“三个代表\"重要思想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "科学发展观",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "毛泽东思想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akorryxpb-k4uo-ylq",
+        "questionType": 1,
+        "title": "军队最高领导权和指挥权属于党中央和中央军委，中央军委实行(     )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "集体负责制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "主席负责制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "个人负责制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "分工负责制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akordktd7aans0wwhg",
+        "questionType": 1,
+        "title": "《论十大关系》的发表标志着（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "社会主义制度基本建立",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "社会主义改造完成",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "党探索中国社会主义建设道路的良好开端",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "社会主义建设道路的开始",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akorqy1byzcutu8dma",
+        "questionType": 1,
+        "title": "近代中国贫困落后和一切灾祸的总根源是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "帝国主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中国民族资产阶级的软弱",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "封建主义的腐朽",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "反动势力的联合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akorrixduzwzsrdb-q",
+        "questionType": 1,
+        "title": "贯彻“三个代表”重要思想，核心在（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "坚持与时俱进",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "保持党的先进性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "坚持执政为民",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "巩固党的执政地位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fsv0akorskxlod1hft7wkq",
+        "questionType": 1,
+        "title": "毛泽东在《论十大关系》的报告中指出，中国工业化道路最重要的问题是(   )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "处理好沿海工业和内地工业的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "处理好重工业和轻工业、农业的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "处理好中央和地方的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "处理好工业现代化和农业现代化的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akorojrejps7jbfdxq",
+        "questionType": 1,
+        "title": "新时代党的建设的根本方针是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "坚持和加强党的全面领导",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "坚持党要管党、全面从严治党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "以加强党的长期执政能力建设、先进性和纯洁性建设为主线",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以党的政治建设为统领",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akori5xdyotcshvjyw",
+        "questionType": 1,
+        "title": "马克思主义同中国实际相结合第二次历史性飞跃的理论成果是:(    )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "社会主义市场经济理论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中国特色社会主义理论体系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "邓小平理论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "毛泽东思想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorri9f-ucx5swgla",
+        "questionType": 1,
+        "title": "确定科学发展观的现实依据是（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "社会主义初级阶段的基本国情和新的阶段性特征",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "社会主义和谐社会的内在要求",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "新世纪新阶段的阶段性特征",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "全球化时代的国际环境",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akor1bjljoc82dggqa",
+        "questionType": 1,
+        "title": "贯彻“三个代表”重要思想，本质在（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "坚持与时俱进",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "保持党的先进性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "坚持执政为民",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "巩固党的执政地位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akordzvmkggnppfxcg",
+        "questionType": 1,
+        "title": "中国外交政策的宗旨是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "广交朋友",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "维护世界和平，促进共同发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "促进自己发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "为中国崛起服务",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lsv0akorubxi0fh-rze9sw",
+        "questionType": 1,
+        "title": "推动建立新型国际关系，要（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "坚决维护社会主义意识形态",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "坚决反对霸权主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "坚决维护国家核心利益",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "坚决维护联合国宪章",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dcv0akoruz5akldfm55s6g",
+        "questionType": 1,
+        "title": "第一个明确提出“马克思主义中国化”科学命题的领导人是：(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "邓小平",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "毛泽东",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "习近平",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "胡锦涛",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akorajzoafgawcmiww",
+        "questionType": 1,
+        "title": "新时代中国特色社会主义思想，明确坚持和发展中国特色社会主义，总任务是实现社会主义现代化和中华民族伟大复兴，在全面建成小康社会的基础上，分（  ）在本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "两步走",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "三步走",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "四步走",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "五步走",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorabtprdtw4dn-9g",
+        "questionType": 1,
+        "title": "经过长期的努力，中国特色社会主义进入了（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "新时期",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "新阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "新时代",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "新环境",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akor6rrhnyuqkwjwmw",
+        "questionType": 1,
+        "title": "新时代中国特色社会主义思想，明确坚持和发展中国特色社会主义，总任务是实现社会主义现代化和中华民族伟大复兴，在全面建成小康社会的基础上，分两步走在本世纪中叶建成（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "富强民主文明和谐的社会主义现代化国家",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "富强民主文明和谐的社会主义现代化强国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "富强民主文明和谐美丽的社会主义现代化国家",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "富强民主文明和谐美丽的社会主义现代化强国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorbjxlyjsancu6gg",
+        "questionType": 1,
+        "title": "十九大的主题是：不忘初心，（   ）高举中国特色社会主义伟大旗帜，决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利，为实现中华民族伟大复兴的中国梦不懈奋斗。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "继续前进",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "牢记使命",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "方得始终",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "砥砺前行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akoruq5dmnzjqbdigq",
+        "questionType": 1,
+        "title": "具有中国特色的制度安排，是社会主义协商民主的重要渠道和专门协商机构的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "人民政协",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "党代表大会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "人民代表大会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "人大常委会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ecv0akora5fc2i8c53fvmg",
+        "questionType": 1,
+        "title": "马克思主义中国化第一次历史性飞跃的理论成果是(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "毛泽东思想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "邓小平理论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "“三个代表\"重要思想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "科学发展观",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kcv0akoror5noplps8cpzw",
+        "questionType": 1,
+        "title": "改革的倡导者、推动者、领导者是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "人民",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "政府",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "giv0akorqytev8adlmwmpq",
+        "questionType": 1,
+        "title": "邓小平理论首要的基本理论问题是：(    )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "发展才是硬道理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "发展是党执政兴国的第一要务",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "解放生产力，发展生产力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "什么是社会主义，怎样建设社会主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorxjnhfneix-f0ow",
+        "questionType": 1,
+        "title": "科学发展观创造性回答的重大问题是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "什么是社会主义改造、怎样进行社会主义改造",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "什么是社会主义、怎样建设社会主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "建设什么样的党、怎样建设党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "实现什么样的发展、怎样发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akorgrlpitv4wusbna",
+        "questionType": 1,
+        "title": "我国是人民民主专政的社会主义国家，国家一切权力属于（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "人民",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "公务员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "工人阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hiv0akorkr1p8x-cb65zaq",
+        "questionType": 1,
+        "title": "中国特色社会主义进入新时代，我国社会主要矛盾已经转化为人民日益增长的（   ）需要和（    ）的发展之间的矛盾。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "美好生活不充足不平衡",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "幸福生活不平衡不充分",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "幸福生活不充分不平衡",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "美好生活不平衡不充分",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iyv0akor-zdar3l2ehdg5a",
+        "questionType": 1,
+        "title": "（）是我国根本政治制度。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "民族区域自治制度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "政治协商制度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "基层群众自治制度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "人民代表大会制度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "4aebdace-771a-44d0-a0c8-dc49a53f946c",
+    "title": "多项选择题",
+    "remark": "",
+    "totalScore": 50,
+    "stuQuestions": [
+      {
+        "id": "-jz0akorvjvpbqdfylxfzw",
+        "questionType": 2,
+        "title": "党的十九大对全面推进国防和军队现代化作出的新的战略是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "到2020年，国防和军队建设要基本实现现代化，信息化建设取得重大进展，战略能力有大的提升",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "到2035年，基本实现国防和军队现代化，",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "到2020年，国防和军队建设要基本实现机械化，信息化建设取得重大进展，战略能力有大的提升",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "到本世纪中叶，把人民军队全面建成世界一流军队",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0zz0akorw5vmrgnpusbhjw",
+        "questionType": 2,
+        "title": "科学发展观是对党的三代中央领导集体关于发展的重要思想的继承和发展，是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "马克思主义关于发展的世界观和方法论的集中体现",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "同马克思列宁主义、毛泽东思想、邓小平理论和“三个代表\"重要思想既一脉相承又与时俱进的科学理论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "我国经济社会发展的重要指导方针",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "我国文化发展的重要指导方针",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pz30akorn41dxdh2yro7jq",
+        "questionType": 2,
+        "title": "新民主主义社会存在的经济成份有（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "社会主义性质的国营经济",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "半社会主义性质的合作社经济",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "资本主义私营经济",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "多种形式的国家资本主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "个体经济",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3,4",
+        "stuAnswer": "1,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "st30akorqzzg0abiznwn0w",
+        "questionType": 2,
+        "title": "建国初期对民族工商业采取的政策是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "利用",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "限制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "教育",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "改造",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,3",
+        "stuAnswer": "2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "szz0akorzo9damntke5rga",
+        "questionType": 2,
+        "title": "近代中国社会主要矛盾是：（ ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "帝国主义和中华民族的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "封建主义和人民大众的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "资产阶级和无产阶级的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "资产阶级和农民之间的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1",
+        "stuAnswer": "0,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4tz0akoru4jcw-8u-ndafq",
+        "questionType": 2,
+        "title": "坚持和发展中国特色社会主义的总任务是（  ） 。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "发展生产力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "改革开放",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "实现社会主义现代化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "实现中华民族伟大复兴",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2,3",
+        "stuAnswer": "2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4tz0akoro4xdu2aujx0phg",
+        "questionType": 2,
+        "title": "实现中国梦必须（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "走资本主义道路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "走中国道路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "弘扬中国精神",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "凝聚中国力量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rt30akor6rzdywrj4uglfg",
+        "questionType": 2,
+        "title": "中国共产党根据马克思列宁主义关于农业社会主义改造的思想，从我国的实际出发，开创了一条有中国特色的合作化道路，成功地实现了对个体农业的社会主义改造，其历史经验主要有( )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "国家用先进的技术和装备发展农业经济",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "遵循自愿互利、典型示范和国家帮助的原则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "在土地改革后不失时机地引导个体农民走互助合作道路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "采取从互助到初级社再到高级社的逐渐过渡形式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vdz0akorm6rnyrv6-1gnnw",
+        "questionType": 2,
+        "title": "在中共八大上，陈云提出了关于我国社会主义经济体制的设想，主要包括“三个主体，三个补充”的思想，它们是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "以国营经济为主体，以私营经济为补充",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "以国家与集体经营为主体，以个体经营为补充",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "以计划生产为主体，以自由生产为补充",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以国家市场为主体，以自由市场为补充",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "1,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "et30akorkidf5j-0enqadg",
+        "questionType": 2,
+        "title": "党面临的四大考验是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "执政考验",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "改革开放考验",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "市场经济考验",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "外部环境考验",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "脱离群众考验",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rjz0akoryahcwjczsufcha",
+        "questionType": 2,
+        "title": "中国红色政权存在和发展的条件有（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "近代中国社会政治经济发展的不平衡",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "革命的群众基础好",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "全国革命形势的继续向前发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "相当力量的正式红军的存在；党的领导的有力量及其政策的不错误",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0zz0akordifdmkygqohk3w",
+        "questionType": 2,
+        "title": "科学发展观同邓小平理论、“三个代表”重要思想在（ ）一以贯之",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "理论主题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "思想基础",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "政治理想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "根本立场",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tzz0akoriqpfvsjj4ftggq",
+        "questionType": 2,
+        "title": "毛泽东指出，从建设社会主义基本制度到建成一个伟大的社会主义国家，至少需要五十年到一百年的时间，这是由于（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "我国进入社会主义的特殊历史条件决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "我国的现实状况决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "我国现代化建设所处的国际环境和时代特点决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "社会发展的自身规律决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-jz0akoroltkhm-uvujclw",
+        "questionType": 2,
+        "title": "新时代要保证军队对党的",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "绝对服从",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "绝对忠诚",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "绝对纯洁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "绝对可靠",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "0,1,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uz30akorh71mtodcjssqyg",
+        "questionType": 2,
+        "title": "七届二中全会提出的“两个转变”的思想是指（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "由农业国转变为工业国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "由新民主主义国家转变为社会主义国家",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "由半殖民地半封建社会转变为新民主主义国家",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "由新民主主义革命转变为新民主主义社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1",
+        "stuAnswer": "0,1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iz30akorckde-5-xo-dikq",
+        "questionType": 2,
+        "title": "建设社会主义生态文明要建设以（）为基础，以（）为准则，以（）为目标的资源节约型、环境友好型社会。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "资源环境承载力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "自然规律",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "可持续发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "人与自然和谐发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2",
+        "stuAnswer": "0,1,2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hz30akorda1kdvpot6pilq",
+        "questionType": 2,
+        "title": "党要增强政治领导本领，不断提高（）的能力",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "把方向",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "谋大局",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "定政策",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "促改革",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-tz0akorqb9at-kknhhyqq",
+        "questionType": 2,
+        "title": "正确处理改革、发展、稳定关系需要",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "把改革的力度、发展的速度和社会可承受的程度统一起来",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "把改善人民生活作为正确处理改革发展稳定关系的结合点",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "在保持社会稳定中推进改革发展",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "通过改革发展促进社会稳定",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "st30akorb7tmfsgo4m9z1g",
+        "questionType": 2,
+        "title": "在资本主义工商业改造中，初级形式的国家资本主义包括了以下形式（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "委托加工",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "统购包销",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "计划订货",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "经销代销",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "公私合营",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "1,2,4",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tzz0akorvyhbbjncqglnsg",
+        "questionType": 2,
+        "title": "上个世纪60年代，党提出了实现四个现代化的战略目标，并提出了要分两步走的发展战略，这两步走是指（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "第一步，用15年的时间，即在1980年以前，建成一个独立的比较完整的工业体系和国民经济体系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "第二步，在本世纪内，全面实现工业、农业、国防和科学技术的现代化，使我国国民经济走在世界的前列",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "不发达的社会主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "比较发达的社会主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1",
+        "stuAnswer": "0,1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kjz0akorr4nl1gguj9laag",
+        "questionType": 2,
+        "title": "马克思主义中国化的科学内涵是指（    ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "运用马克思主义理论解决中国的具体问题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "将中国革命的实践经验、历史经验提升为理论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "把马克思主义融入中国优秀文化之中",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "实现中国优秀文化的创造性转换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6zz0akor5bhdpnubrsndrg",
+        "questionType": 2,
+        "title": "巩固和发展爱国统一战线，坚持（），支持民主党派按照中国特色社会主义参政党要求更好履行职能。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "长期共存",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "互相监督",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "肝胆相照",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "荣辱与共",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rjz0akorizlfilpj-ytshg",
+        "questionType": 2,
+        "title": "毛泽东在《新民主主义论》中指出：“我们共产党人，多年以来，不但为中国的政治革命和经济革命而奋斗，而且为中国的文化革命而奋斗；一切这些的目的，在于建设一个中华民族的新社会和新国家。在这个新社会和新国家中，不但有新政治、新经济，而且有新文化。”这里提到的“新文化”的内涵是",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "民族的文化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "科学的文化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "大众的文化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "中国化的文化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "odz0akorfandwpvnjqu6kq",
+        "questionType": 2,
+        "title": "中国特色社会主义理论体系形成的条件包括（      ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A.和平与发展成为时代主题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B.改革开放和现代化建设面临新的实践",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C.总结我国自身建设经验",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D.汲取其它社会主义国家经验教训",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "szz0akor4j1j8hrsyrwxwq",
+        "questionType": 2,
+        "title": "新民主主义革命时期，中国共产党对民族资本主义实行保护政策，主要原因是 （）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "由新民主主义革命性质决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "由民族资本的特点决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "由民族资产阶级在民主革命中的表现决定的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "巩固和扩大统一战线的需要",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,1523 @@
+[
+  {
+    "id": "4fb7f8c3-3760-4e13-9742-a71b57856e4b",
+    "title": "单项选择题",
+    "remark": "",
+    "totalScore": 40,
+    "stuQuestions": [
+      {
+        "id": "2be7f3b7-b8a4-4eb6-9154-28aee45176b1",
+        "questionType": 1,
+        "title": "毛泽东提出“两个务必”的思想是在（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "《论持久战》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "重庆谈判",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "中共七届二中全会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "《论人民民主专政》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "31f2fb80-d9a4-4cb4-8d7b-62fecbedc010",
+        "questionType": 1,
+        "title": "1938年3月，指挥实施台儿庄战役取得大捷的国民党爱国将领是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "张自忠",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "李宗仁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "冯玉祥",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "戴安澜",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0a7d9825-73bc-42b9-960b-feed3808817e",
+        "questionType": 1,
+        "title": "将毛泽东思想规定为党的一切工作的指针是在（      ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "中共四大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中共六大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "中共七大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "中共八大",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dd4829cf-2c2d-4b06-892d-5afaa6f22d5d",
+        "questionType": 1,
+        "title": "抗日民族统一战线策略总方针不包括（      ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "发展进步势力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "孤立顽固势力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "争取中间势力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "一切服从统一战线",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "1e228054-7c8b-4fdd-b2ea-aae1be5b52f2",
+        "questionType": 1,
+        "title": "全面内战爆发的起点是1946年6月国民党军队进攻（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "中原解放区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "山东解放区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "陕甘宁边区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "东北解放区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "2c5073ec-9735-41f9-9313-e7cc8ac17fef",
+        "questionType": 1,
+        "title": "下列选项中，属于20世纪初年建立的资产阶级革命团体是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "兴中会、华兴会、岳王会、科学补习所",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "华兴会、光复会、兴中会、岳王会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "华兴会、光复会、科学补习所、岳王会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "强学会、兴中会、华兴会、科学补习所",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "e2523707-94e0-429c-9969-58c89280c580",
+        "questionType": 1,
+        "title": "下列著作中，提出“师夷长技以制夷”思想的是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "《四洲志》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "《海国图志》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "《盛世危言》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "《地理大全》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5878a7d5-59dd-4505-85d4-ae4c9b9b5636",
+        "questionType": 1,
+        "title": "中国共产党历史上第一个土地法是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "《兴国土地法》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "《井冈山土地法》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "《中国土地法大纲》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "《中华苏维埃共和国土地法大纲》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5e536e69-f1ad-45cc-8ab2-db3c9aae5eff",
+        "questionType": 1,
+        "title": "<p>资本—帝国主义列强对中国的侵略，首先和主要的是（&nbsp;&nbsp;&nbsp;&nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "政治控制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "经济掠夺",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "文化渗透 ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "军事侵略",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "9870da97-4ceb-46aa-8f20-dc62382b01da",
+        "questionType": 1,
+        "title": "近代中国人开始有了普遍的民族意识的觉醒是在（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "鸦片战争以后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中日甲午战争以后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "八国联军侵华战争以后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "新文化运动以后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "a86e9afb-fa6d-4155-829f-85ebc7ebe55c",
+        "questionType": 1,
+        "title": "1845年，第一个在中国设立租界的资本主义国家是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "英国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "法国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "德国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "俄国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "1e585e16-914c-43c3-9dcf-33cf11ddaf08",
+        "questionType": 1,
+        "title": "1931年11月成立的中华苏维埃共和国临时中央政府的主席是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "周恩来",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "瞿秋白",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "毛泽东",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "王明",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6ff625f7-e5f4-4e4b-bb73-e196699bb560",
+        "questionType": 1,
+        "title": "标志着毛泽东思想得到多方面展开而达到成熟的是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "中国革命新道路的系统论述",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "统一战线理论的提出",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "新民主主义理论的系统阐明",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "毛泽东思想成为全党指导思想",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cb31e027-8bcd-4b57-9076-f584dea40dd0",
+        "questionType": 1,
+        "title": "近代中国第一个资产阶级革命团体是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "兴中会   ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "华兴会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "光复会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "科学补习所",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dd99b785-f3e4-4cc3-9c6a-cc08eaff48ac",
+        "questionType": 1,
+        "title": "近代中国最革命的阶级是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "工人阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "农民阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "民族资产阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "地主阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "44fcc1bd-33a5-4017-b257-472041bc3097",
+        "questionType": 1,
+        "title": "新文化运动的基本口号是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "民主、共和",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "民主、科学",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "民主、自由",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "全盘西化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "0",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "93e860d6-dad6-4cb7-a6ca-bb0e58e4f7e6",
+        "questionType": 1,
+        "title": "在1911年掀起的保路风潮中，斗争开展的最激烈的省份是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "湖北",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "湖南",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "广东",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "四川",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "84ca9481-8bd8-4106-a81c-291a0520ffbb",
+        "questionType": 1,
+        "title": "中国改革开放的总设计师是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "毛泽东",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "周恩来",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "邓小平",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "刘少奇",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "f06d233e-b039-49ca-b856-a99539276b10",
+        "questionType": 1,
+        "title": "中国恢复在联合国的一切合法权力是在（      ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1971年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1978年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "1956年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1982年",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0bc125bd-31c5-4ebf-93eb-0f3875c88e7e",
+        "questionType": 1,
+        "title": "最能体现太平天国社会理想的纲领性文件是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "《天朝田亩制度》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "《资政新篇》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "《原道救世歌》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "《大同书》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "65c3e2b2-383d-4ee8-befd-a3e9456667fd",
+    "title": "多项选择题",
+    "remark": "",
+    "totalScore": 60,
+    "stuQuestions": [
+      {
+        "id": "a1b69a4c-891d-4f90-a249-20ff96583aca",
+        "questionType": 2,
+        "title": "鸦片战争以后，中国社会的主要矛盾有（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "帝国主义与中华民族的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "封建主义与人民大众的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "资产阶级与无产阶级的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "地主阶级与农民阶级的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1",
+        "stuAnswer": "0,1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 4,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "1d430aa9-9747-4588-a5d7-b34b89f78616",
+        "questionType": 2,
+        "title": "1922年中共二大制定的党在当前阶段纲领的内容是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "打倒军阀",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "推翻国际帝国主义的压迫",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "统一中国为真正民主共和国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "实现社会主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2",
+        "stuAnswer": "0,1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "957980b8-976c-4cdc-8725-dee15f37d9a1",
+        "questionType": 2,
+        "title": "1948年9月至1949年1月，中国人民解放军先后发动的三大战役是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "莱芜战役",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "辽沈战役",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "淮海战役",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "平津战役",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 4,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "e899e764-28b5-4620-8f17-c78fc9e3588f",
+        "questionType": 2,
+        "title": "中国革命取得胜利的三大法宝是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "土地革命",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "统一战线",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "武装斗争",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "党的建设",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "0,1,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "a60c955f-d32f-41db-a4bd-1e8029964992",
+        "questionType": 2,
+        "title": "辛亥革命失败的原因是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "资本主义的建国方案行不通",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中外反动势力相勾结",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "资产阶级革命派自身的弱点和错误",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "没有开展武装斗争",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2",
+        "stuAnswer": "2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "65c426c4-addb-461e-b7e5-b824b811f6c2",
+        "questionType": 2,
+        "title": "1927年8月7日，中共召开八七会议确定的总方针是（      ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "土地革命",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "武装反抗国民党反动统治",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "建立抗日民族统一战线",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "保护民族工商业",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1",
+        "stuAnswer": "0,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "7086d491-c2a8-400b-a23b-a26cd56f8993",
+        "questionType": 2,
+        "title": "中共十一届三中全会的主要内容是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "彻底否定“两个凡是”",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "高度评价关于真理标准问题的讨论",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "停止使用“以阶级斗争为纲”口号",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "把全党工作重心转移到社会主义现代化建设上来",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "1,2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5f1a71a1-7748-4520-84c0-503b7c24d46a",
+        "questionType": 2,
+        "title": "我国正处在社会主义初级阶段这一论断的含义是（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "我国社会已经是社会主义社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "我们必须坚持社会主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "我国的社会主义还处在初级阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "我们必须从初级阶段的实际出发",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "a7bd8685-e983-47b2-a499-c4b482703931",
+        "questionType": 2,
+        "title": "“四个全面”战略布局是指（     ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "全面建成小康社会",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "全面深化改革",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "全面依法治国",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "全面从严治党",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 4,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6bd3637e-cdb4-41dd-b7ef-690141e82f51",
+        "questionType": 2,
+        "title": "19世纪下半叶，沙俄侵占中国150多万平方公里的领土，是通过下列哪些不平等条约实现的？",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "中俄《瑷珲条约》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中俄《北京条约》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "中俄《勘分西北界约记》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "中俄《改订伊犁条约》",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "556dcfcb-2667-4ff2-804e-8b9da2d9058a",
+        "questionType": 2,
+        "title": "西方列强通过战争，强迫中国签订了一系列不平等条约，破坏了中国的（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "领土主权",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "领海主权",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "关税主权",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "司法主权",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "767e100d-e5d4-4057-a321-d917c54e9334",
+        "questionType": 2,
+        "title": "下列对太平天国评价正确的是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "在一定程度上削弱了封建统治的精神支柱",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "代表了中国农民战争的最高水平",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "沉重打击了中外反动势力",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "提出了学习西方发展资本主义的方案",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "8f3f2a93-e51d-4ad5-b426-13771f9bdda9",
+        "questionType": 2,
+        "title": "抗日民族统一战线中的中间势力包括()",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "民族资产阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "城市小资产阶级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "开明绅士",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "地方实力派",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,2,3",
+        "stuAnswer": "0,1,2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "51ca9f1a-b567-4837-a73e-7bb7cc33faf9",
+        "questionType": 2,
+        "title": "顽固派和维新派论战的焦点是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "要不要变法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "要不要发展资本主义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "要不要兴民权、设议院，实行君主立宪",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "要不要废八股、改科举和兴西学",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,2,3",
+        "stuAnswer": "0,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "00a3dcf0-01cb-4108-98ba-f7e10fe28563",
+        "questionType": 2,
+        "title": "对中国近代社会的发展变化起着决定性作用的主要矛盾是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "无产阶级和资产阶级的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "帝国主义和中华民族的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "封建主义和人民大众的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "资产阶级和地主阶级的矛盾",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2",
+        "stuAnswer": "0,1,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 4,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]

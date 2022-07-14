@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "i3l-avyqq5jjssnf53xc-q",
+    "title": "单项选择题",
+    "remark": "<p>下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。</p>",
+    "totalScore": 87,
+    "stuQuestions": [
+      {
+        "id": "1jwjassqq5pahbxpqxae9g",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@6614093F7D507ED35E0076426E07556F.png/download?time=636899044076645164&token=080F088398393140E80CF1EE183D71CB&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "8dnracsq2kholxznpkoayq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@AF084419D8A0222DF9E4C4867FC73FE7.png/download?time=636898922299214739&token=34CB7AC27A58C1D9B802CFDFA0B3364E&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "aovbacsqz59egip-t6mepg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@72C68D2F7BBE3A44865288F40A185DBE.png/download?time=636898944275988231&token=8AF0B105C511B9051373D3F52BFA8A9F&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ccovaa2qn6th14fe20ayag",
+        "questionType": 1,
+        "title": "<p><img data-url=\"doc/a@D8E5D06713E60112FE6D6469F46F0C93.png\" data-preview_url_ueditor=\"doc/a@D8E5D06713E60112FE6D6469F46F0C93.png\" src=\"http://dianbo.upol.upc.edu.cn/doc/a@D8E5D06713E60112FE6D6469F46F0C93.png/download?time=636878975704646622&token=7810380DB7B93F2C78D6A3EBBE6C30EF&filename=png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "da7aacsq2zza32rtmyozzg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@F376A2AC6AF043B85F3B8DBDE4303BEC.png/download?time=636898941561108184&token=D39E2414FF38738AA2303B028ABD7B38&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dgvpacsqsjbmdyzhko3tsg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@EA9AC9FB5CB401FDF0C6F20AA6D55478.png/download?time=636898916145035592&token=F65643CB716E8AF1B0B0CE65D0863A1D&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ebbdacsqzbnfibtmsxuj9g",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@82C579D1521E09B5DDBE84D9A638EF4A.png/download?time=636898946773273292&token=E9BE8AC18772183F79EA31546B99BD02&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ekxbacsq9ltcoun6rpf8bq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@5C7BD021D71E05D7F93BD37F05310068.png/download?time=636898942902961626&token=E2C892FC33FBB17659783897C24CDD70&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "eudoacsqyrxc0mv-rnb-3w",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@016B3E58D60F0B096BA5712FA700D4FF.png/download?time=636898915788177886&token=45C8E450DEC7589C80778F3507A7D40E&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fbhracsqhiliysdwrzz8qg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@5F91A3776A990B2F45273D011790147D.png/download?time=636898921949160718&token=3545E7B30E39B102143CE5A8E4997188&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "flxaacsqwjxasqzuecprfg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@9C993F6B7352B818F0CBAAC930FDD6C1.png/download?time=636898940684579828&token=F72061BD48A954691878A4FEF8635D55&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "（5）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "5",
+            "content": "（6）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fm0jassqnljp-u1j3ueawg",
+        "questionType": 1,
+        "title": "<p>一棵无向树T有7片树叶，3个3度顶点，其余顶点均为4度。则T有（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;）4度结点。</p><p><br/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "gulpacsqja5ck1nlq9o0pg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@0271A8F37F485D1B89E825D905318012.png/download?time=636898917440746751&token=4D7DB5C499A06AD6F6247649E3B6FDEC&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iapsacsqe6nb5npgmg8fcw",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@8EEDEC3087D5FA3B18A71493D49A02BF.png/download?time=636898922672602789&token=AFCFDA56F6AB5164FC086BE49962EB0B&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jodaacsqqyxdeoaanwfywg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@36A11E0EB3DB88B275548207366EBD2F.png/download?time=636898941231597023&token=FFF20BDF30951EFC85E178C6A707B117&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kjlcacsqd5rggu6zmkm1vq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@0EAA62CCD1231D5C0B95C822F61C6B29.png/download?time=636898945732428943&token=E3B6D18E6914EF1851C8E9680DA2DD8B&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "l2ftacsqoovomf0sj2xb9a",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@D1B8522D1C1F83635D8C68CDF8CE1F1E.png/download?time=636898925720475819&token=C8A291DF927A39248326937814ED7F71&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "l73cacsqn51ccoohquensa",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@E7B0FF4A0520478E20158094CD30D45D.png/download?time=636898946090899013&token=744C94FEDFE49FA5524DB04FAC2893B3&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lebcacsqb4xjvgnhusi5nw",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@BBC7EE54727FF38FB7D224C1D897A03B.png/download?time=636898946417550816&token=EC275F8D70C6415C8C1B67EA1A9B265B&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oe4jassqha9o1ylg5sabeg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@4B9AE1DC2B59934D616E4821B28E84CD.png/download?time=636899044824243926&token=8B6BEB3D51EAFD19214FBAD1C4A1B79E&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "owgjassqprjhl-rquv5ang",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@D84D1834DF3AEEBE797AE33A028D3226.png/download?time=636899043590804647&token=22A81DCD609ED6F1599BE520831CB64D&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pzzsacsqro1cfqpbbu7hdq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@82AAF3482F2BF902B51C04FC3654D5E0.png/download?time=636898923138774691&token=659CE2F91A3C7052B0F1DB14CE9373F0&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rdbaacsqhapgyyorf3bxla",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@C9B80C39DD49E41E5A4DD62A76C8F392.png/download?time=636898941956964049&token=9D50AB9A4461C8EE0F91C773C976CA3B&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rhmkassqfyxpy5ulm-ritw",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@F1DF2FA42D9E654D61782757C24408C0.png/download?time=636899045129345858&token=D57F95C7D83C1871D4D9BBF5ACAB33E4&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rmppacsq4phimldmcdx62w",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@E2B9787C3CE8B6A216A4FBA7CD82C3C5.png/download?time=636898916801959811&token=792CFBB5B8AF9D9A5F0D38857CCB9CF2&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sf3sacsq4o5keenh7iwdxq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@9CCEDD9D7722F0B1AA8AEF2D9D8A8292.png/download?time=636898924755606263&token=2D8C51E550160ED5921543C729C66CA9&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "v5ptacsqd6dd4jhnmtrwvw",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@EECFBE79DC7174D65EC5E6E5EB69B17F.png/download?time=636898926039231383&token=AF2B8263D4DEAFF90AF5FA6EF40A543C&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wbfbacsq2yfkzm0-fg1d1w",
+        "questionType": 1,
+        "title": "<p><br/><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@B30667A5E9F29A5A43A59454414D9AFD.png/download?time=636898942516042372&token=6FA016BD328FEAE6530EDAB1F878F15A&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ytptacsqflno8dcifzuoaa",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@EE583B5A51E8BB2BD06B4C56A6C39835.png/download?time=636898925245864976&token=30EB0655ADE4C51822C856B5AF30FCF0&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 3,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "mph-avyqh6lafg8qgnukaw",
+    "title": "多项选择题",
+    "remark": "<p>下列各题，有两个或两个以上正确答案，多选、错选、不选、少选均不得分。</p>",
+    "totalScore": 13,
+    "stuQuestions": [
+      {
+        "id": "5n3racsqxldp3v28qoxqwg",
+        "questionType": 2,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@737C09687659D581BAFB1A752A04EBDB.png/download?time=636898921347216378&token=D3B0A4C569F29EBBF9FD24E91F1678EF&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（1）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（2）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "（3）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "（4）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 13,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]
