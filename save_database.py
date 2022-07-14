@@ -5,11 +5,13 @@
 # @Email   : stevenl365404@gmail.com
 # @File    : save_database.py
 
+# 测试类: 通过API能否save到notion数据库 (可以)
+
 from notion_client import Client
 
 # 创建 API 客户端
 # notion = Client(auth=os.environ['NOTION_TOKEN'])
-notion = Client(auth='secret_zjmsB5oeXEGw25ndV7JVN1j2C8EwE9jMbaUpGvVtZ6I')
+notion = Client(auth='替换成自己的token')
 
 # 写入数据库
 notion.pages.create(
