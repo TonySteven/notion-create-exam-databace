@@ -16,12 +16,12 @@ from utils.utils import stu_question2options
 # 加载文件
 file_name = '毛概-8'
 subject = file_name.split('-', 1)[0]
-path = r"/Users/steven/PycharmProjects/notion-create-exam-databace/origin_json_data/" + file_name + ".json"
+path = r"../notion-create-exam-databace/origin_json_data/" + file_name + ".json"
 file = open(path, 'r', encoding='utf-8')
 
 # 创建 API 客户端
 # notion = NotionClient(auth=os.environ['NOTION_TOKEN'])
-notion = NotionClient(auth='secret_替换成自己的token')
+notion = NotionClient(auth='替换成自己的token')
 
 # 创建redis_client
 redis_client = RedisBloomClient(host='localhost', port=6379, db=0)
