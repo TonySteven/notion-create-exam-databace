@@ -1,0 +1,2160 @@
+[
+  {
+    "id": "pes-afyqj5jo-mic2apqna",
+    "title": "单项选择题",
+    "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
+    "totalScore": 100,
+    "stuQuestions": [
+      {
+        "id": "h3k7acuquypfdm5d3vffqg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@395BDF338919695DE0063A1CD715194B.png/download?time=636904921231586381&token=877081CC99D5BFE07AF3CED124465B80&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qz3iacuqszzbnctg05arog",
+        "questionType": 1,
+        "title": "以下不正确的C语言标识符是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "ABC",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "abc",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "a_bc",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "ab.c",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qz3iacuqyozodujanuzwsw",
+        "questionType": 1,
+        "title": "C++程序是由    构成的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "主程序与子程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "主函数与若干子函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "一个主函数与一个其它函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "主函数与子函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rp3iacuqepnexacccanpjg",
+        "questionType": 1,
+        "title": "以下说法中正确的是：。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "在C++语言中，实参与其对应的形参各占独立的存储单元",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "在C++语言中，实参与其对应的形参共占同一个存储单元",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "在C++语言中，只有当实参与其对应的形参同名时，才共占同一个存储单元",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "在C++语言中，形参是虚拟的，不占存储单元",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rp3iacuqeynldabdu1lhwa",
+        "questionType": 1,
+        "title": "设n=3;则n++的结果是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rp3iacuqo7ddgggvdks8eg",
+        "questionType": 1,
+        "title": "设整型变量n=10,i=4,则赋值运算n%=i+1执行后，n的值是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sp3iacuqm7pgaf1pdbx38q",
+        "questionType": 1,
+        "title": "在while（x）语句中的x与下面条件表达式等价的是：。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "x==0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "x==1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "x!=1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "x!=0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sp3iacuqn4zi3w5glvbftq",
+        "questionType": 1,
+        "title": "设inta=1,b=2;，则(a++)+b和a+++b这两个表达式的值分别为()。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3，3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3，4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4，3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "4，4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sp3iacuqpyvemjoi-z0-ja",
+        "questionType": 1,
+        "title": "凡是函数中未指定存储类别的局部变量其隐含的存储类别是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "自动（auto）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "静态（static）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "外部（extern）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "寄存器（register）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sp3iacuqvqdijfqgn9irmw",
+        "questionType": 1,
+        "title": "以下对二维数组进行正确初始化的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "inta[2][3]={{1，2}，{3，4}，{5，6}}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "inta[][3]={1，2，3，4，5，6}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "inta[2][]={1，2，3，4，5，6}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "inta[2][]={{1，2}，{3，4}}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "06paafyq-5xgul1iw8irka",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;设a=1,b=2,c=3,d=4,则表达式：a&lt;b?a:c&lt;d?a:d的结果是（ &nbsp;）</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "b4kmavaqd4npwqm2lnckeq",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;设a、b均为整型变量，下列表达式中不是赋值表达式的是（ &nbsp; ）</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "a=3，4，5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "a=3*2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "a=a&&b",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "a=b=4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kee-acuqhrrnbgwesizeog",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@20FBABCB2E767CD7F6AAF9C5EC2487A4.png/download?time=636904930989511799&token=1FBE5E31F6855C678C6A5549090E0BA9&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "on7uafyqkp9c3wqxbcn-aw",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;设有定义：char s[12]={“string”};则cout&lt;&lt;strlen(s);的输出是（ &nbsp;）</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "7",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "11",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "12",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sp3iacuq-jvjzps0nxuxpa",
+        "questionType": 1,
+        "title": "下列不正确的转义字符是（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "\\\\",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "\\’",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "074",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "\\0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "t53iacuq-49ipdivzrnbbw",
+        "questionType": 1,
+        "title": "char型常量在内存中存放的是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "ASCII码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "BCD码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "内码值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "十进制代码值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "t53iacuqijphzpha9fz86q",
+        "questionType": 1,
+        "title": "下列字符中属于键盘符号的是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "\\",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "\\n",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "\\t",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "\\b",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "t53iacuql5bbttfvudrqow",
+        "questionType": 1,
+        "title": "下列数据中属于“字符串常量”的是（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "ABC",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "“ABC\"",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "‘ABC’",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "‘A’",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "t53iacuqo6pgbravlzrbza",
+        "questionType": 1,
+        "title": "设a为5，执行下列语句后，b的值不为2的是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "b=a/2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "b=6-(--a)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "b=a%2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "b=a>3?2:2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "t53iacuqtivfmio47zrtkg",
+        "questionType": 1,
+        "title": "正确的标识符是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "?a",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "a=2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "a.3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "a_3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "t53iacuqybbdlm71pk3dtw",
+        "questionType": 1,
+        "title": "不是C语言提供的合法关键字是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "switch",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "cher",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "case",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "default",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vj3iacuq9pvcszpzz-7quq",
+        "questionType": 1,
+        "title": "设整型变量i的值为3，则计算表达式i---i后表达式的值是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "表达式出错",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vj3iacuqdbxlfeguc-ts8g",
+        "questionType": 1,
+        "title": "在以下一组运算符中，优先级最高的运算符是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "<=",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "=",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "%",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "&&",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vj3iacuqob5orgugyxxa7q",
+        "questionType": 1,
+        "title": "设整型变量a,b,c均为2，表达式a+++b+++c++的结果是（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "9",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "8",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "表达式出错",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vj3iacuqojhptlyauf-7cg",
+        "questionType": 1,
+        "title": "若已定义x和y为double类型，则表达式x=1,y=x+3/2的值是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2.0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "2.5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vpggavaq9kpgdqfgn-q-yw",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@1D99502D7C4E620A5DCBEF73DD6D3BC5.png/download?time=636942238426644776&token=CDEB5AF0154A3CF013A8D48214582EA1&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vu7vafyqli9jwtamq0c3ew",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;设a为整型变量，不能正确表达数学关系：10&lt;a&lt;15的C语言表达式是（ &nbsp;）</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "10&lt;a&lt;15",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "a= =11 || a= =12 || a= =13 || a= =14",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "a&gt;10&amp;&amp;a&lt;15",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "!(a&lt;=10)&amp;&amp;!(a&gt;=15)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wj3iacuqo4viqd-6lx3uxg",
+        "questionType": 1,
+        "title": "循环语句 for (x=0,y=0; (y!=123)|| (x<4);x++);的循环执行（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "无限次",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "不确定次",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4次",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "3次",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wj3iacuqvlfef2ccfc9eaq",
+        "questionType": 1,
+        "title": "表达式“10！=9”的值是（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "true",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "非零值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wj3iacuqw7xnz9sc1vkuuq",
+        "questionType": 1,
+        "title": "若有以下定义：char a、 int b 、 float c 、 double d，则表达式a*b+d-c值的类型为（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "float",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "int",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "char",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "double",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wj3iacuqx4zohpa31trkfa",
+        "questionType": 1,
+        "title": "在C语言中，下列说法中正确的是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "不能使用“do while\"的循环",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "“do while\"的循环必须使用break语句退出循环",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "“do while\"的循环中，当条件为非0时将结束循环",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "“do while\"的循环中，当条件为0时将结束循环。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wj3iacuqyqboedfxay-z3w",
+        "questionType": 1,
+        "title": "设a,b为字符型变量，执行scanf(“a=%c,b=%c”,&a,&b)后使a为’A’，b为’B’，从键盘上的正确输入是（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "’A’ ‘B’",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "’A’，’B’",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "A=A，B=B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "a=A，b=B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xxemavaqybpntyd-sct1lq",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;执行语句“f=(3.0,4.0,5.0),(2.0,1.0,0.0);”后，单精度变量f的值是（ &nbsp; ）</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2.0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xz3iacuq05beygmnhnnfrw",
+        "questionType": 1,
+        "title": "合法的数组定义是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "int a[]={“string\"}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "int a[5]={0，1，2，3，4，5}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "char a={“string\"}；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "char a[]={0，1，2，3，4，5}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xz3iacuqhqxobqns9ja1oa",
+        "questionType": 1,
+        "title": "函数调用strcat(strcpy(str1,str2),str3)的功能是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "将字符串str2复制到字符串str1中后再将字符串str3连接到字符串str1之后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "将字符串str1复制到字符串str2中后再连接到字符串str3之后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "将字符串str1复制到字符串str2中后再复制到字符串str3之后",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "将字符串str2连接到字符串str1中后再将字符串str1复制到字符串str3中",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xz3iacuqmzpd0q0ig9cmkg",
+        "questionType": 1,
+        "title": "设有单精度变量f，其值为13.8。执行语句“n=((int)f)%3;”后，n的值是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4.333333",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "4.6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ykm-acuqizdmvgqwuevqdq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@F865DF09DFACDBFF4A470E84623710D1.png/download?time=636904930463268684&token=CAAB01B219EDDF9093A2481EE3D04B82&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yp3iacuq8jvojocswnujfg",
+        "questionType": 1,
+        "title": "表达式“1?(0?3:2): (10?1:0)”的值为（   ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yp3iacuqlbfhtfv7kzoshw",
+        "questionType": 1,
+        "title": "sizeof(double)的结果值是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "8",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "出错",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yp3iacuqoaxnkbqtq0cg2g",
+        "questionType": 1,
+        "title": "指出下面正确的输入语句是（    ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "scanf (“a=b=%d\"，&a，&b)；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "scanf(“a=%d，b=%f\"，&m，&f)；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "scanf(“%3c\"，c)；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "scanf(“%5.2f，&f)；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uhxdacuqlkpg4mgaxe39kg",
+        "questionType": 1,
+        "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@846EDFC1E1651B301F3DA4AC84C1A439.png/download?time=636904937954375522&token=739A031F0A7701987428185C9749F6D6&filename=image.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yp3iacuqa5xpdat3le2jww",
+        "questionType": 1,
+        "title": "以下定义语句中正确的是(    )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "char a=u0027Au0027b=u0027Bu0027；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "float a=b=10.0；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "int a=10，*b=&a；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "float *a，b=&a；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yp3iacuqbyhf-1bidzdpdg",
+        "questionType": 1,
+        "title": "一个C程序的执行是从(   )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "本程序的main函数开始，到main函数结束",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "本程序文件的第一个函数开始，到本程序文件的最后一个函数结束",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "本程序的main函数开始，到本程序文件的最后一个函数结束",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "本程序文件的第一个函数开始，到本程序main函数结束",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yp3iacuqgyzdiscjfeqpga",
+        "questionType": 1,
+        "title": "下列选项中，不能用作标识符的是(    )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "_1234_",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "_1_2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "int_2_",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "2_int_",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zp3iacuq5a5dv472cpx2kg",
+        "questionType": 1,
+        "title": "有以下定义语句 double a,b; int w; long c;若各变量已正确赋值，则下列选项中正确的表达式是(    )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "a=a+b=b++",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "w%(int)a+",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "(c+w)%(int)a",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "w=a==b；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zp3iacuq84xofv7igcksxg",
+        "questionType": 1,
+        "title": "设有定义：int n=0,*p=&n,**q=&p;则以下选项中，正确的赋值语句是(   )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "p=1；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "*q=2；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "q=p；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "*p=5；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zp3iacuqhrrj5mcpgymjaa",
+        "questionType": 1,
+        "title": "执行语句for(i=1;i++<4;);后变量i的值是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "不定",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zp3iacuqrj5mynlcjaoaog",
+        "questionType": 1,
+        "title": "若有说明：char *language[]={”FORTRAN”,”BASIC”,”PASCAL”,”JAVA”,”C”};则表达式*language[1]>*language[2]比较的是（    ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "字符B和字符P",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "字符串FORTRAN和字符串BASIC",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "字符F和字符B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "字符串BASIC和字符串PASCAL",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zp3iacuqsyhn-plil5qr3q",
+        "questionType": 1,
+        "title": "以下4个选项中，不能作为一条C语句的是(    )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "{；}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "a=0，b=0，c=0；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "if(a>0)；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "if(b==0) m=1；n=2；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zp3iacuqy7pfcoupb5fz2q",
+        "questionType": 1,
+        "title": "设有定义：int a,*pa=&a; 以下scanf语句中能正确为变量a读入数据的是( )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "scanf(“%d\"，p ；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "scanf(“%d\"，a) ；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "scanf(“%d\"，&pa) ；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "scanf(“%d\"，*pa)；",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]

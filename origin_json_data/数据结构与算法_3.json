@@ -1,0 +1,2728 @@
+[
+    {
+        "id": "l8jfafeqmbfm81rnxbthsw",
+        "title": "单选题",
+        "remark": "",
+        "totalScore": 90,
+        "stuQuestions": [
+            {
+                "id": "ppxqaswqjpblfkebjan7cq",
+                "questionType": 1,
+                "title": "排序方法中，从未排序序列中依次取出元素与已排序序列中的元素进行比较，将其放入已排序序列的正确位置上的方法，称为(     ) 。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "希尔排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "冒泡排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "插入排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "选择排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "1",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "fvxqaswq2brmox5uwln6jq",
+                "questionType": 1,
+                "title": "对矩阵进行压缩存储是为了(     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "方便运算",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "方便存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "提高运算速度",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "减少存储空间",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "xpxqaswqx75opfzxvtxlba",
+                "questionType": 1,
+                "title": "设数组data[m]作为循环队列SQ的存储空间，front为队头指针，rear为队尾指针，则执行出队操作后其头指针front值为（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "front=front+1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "front=(front+1)%(m-1)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "front=(front-1)%m",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "front=(front+1)%m",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "svxqaswq8anl5w-ngvmbtg",
+                "questionType": 1,
+                "title": "广义表（（a），a）的表头是C，表尾是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "a",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "（）",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "（a）",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "（（a））",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "u-xqaswqujpmrj-2umvkpa",
+                "questionType": 1,
+                "title": "在以下的叙述中，正确的是（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "线性表的顺序存储结构优于链表存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "二维数组是其数据元素为线性表的线性表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "栈的操作方式是先进先出",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "队列的操作方式是先进后出",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tvxqaswqobfkublowq13jw",
+                "questionType": 1,
+                "title": "采用折半查找法查找长度为n的线性表时，每个元素的平均查找长度为（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "O(n2)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "O(nlog2n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "O(n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "O(log2n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "xpxqaswq25ndykayabevag",
+                "questionType": 1,
+                "title": "一个非空广义表的表头（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "不可能是子表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "只能是子表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "只能是原子",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "可以是子表或原子",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "cpxqaswqqona-7m1h5a0cq",
+                "questionType": 1,
+                "title": "数据结构在计算机内存中的表示是指 (     ) 。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "数据的存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "数据结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "数据的逻辑结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "数据元素之间的关系",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "svxqaswq9qrcpxt3obk5mg",
+                "questionType": 1,
+                "title": "采用邻接表存储的图的深度优先遍历算法类似于二叉树的（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "先序遍历",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "中序遍历",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "后序遍历",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "按层遍历",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "fvxqaswqxbnjmmmdckeo1g",
+                "questionType": 1,
+                "title": "稀疏矩阵一般的压缩存储方式有两种，即(     )  。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "二维数组和三维数组",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "三元组和散列",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "三元组和十字链表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "散列和十字链表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "yfxqaswqtjllv-c0upcypa",
+                "questionType": 1,
+                "title": "引起循环队列队头位置发生变化的操作是（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "出队",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "入队",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "取队头元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "取队尾元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "isugavwqqybojxgdyy5tsq",
+                "questionType": 1,
+                "title": "<p>在头指针为head且表长大于1的单循环链表中，指针p指向表中某个结点，若p→next→next=head,则（&nbsp;&nbsp;&nbsp; ）。&nbsp;</p>",
+                "resultAnalysis": "<p>无</p>",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "p指向头结点",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "p指向尾结点",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "*p的直接后继是头结点",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "*P的直接后继是尾结点",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "qpxqaswqa6bmshepdm-row",
+                "questionType": 1,
+                "title": "非空的循环单链表head的尾结点（由p所指向）满足（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "p->next=='",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "p=='",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "p->next==head",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "p==head",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "a-xqaswqy6jpfuxtohweia",
+                "questionType": 1,
+                "title": "递归通常选用的存储结构是（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "栈",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "线性表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "队列",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "二叉排序树",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "n-xqaswq9z1epigvotiohg",
+                "questionType": 1,
+                "title": "查找效率最高的二叉排序树是(     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "所有结点的左子树都为空的二叉排序树",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "所有结点的右子树都为空的二叉排序树",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "平衡二叉树",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "没有左子树的二叉排序树",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tvxqaswqmolc-uwnjkfdjw",
+                "questionType": 1,
+                "title": "在所有的排序方法中，关键字比较的次数与记录的初始排列次序无关的是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "希尔排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "冒泡排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "直接插入排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "直接选择排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "zvxqaswqsilfx785tifijg",
+                "questionType": 1,
+                "title": "设一组初始关键字记录关键字为(20，15，14，18，21，36，40，10)，则以20为基准记录的一趟快速排序结束后的结果为（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "10，15，14，18，20，36，40，21",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "10，15，14，18，20，40，36，21",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "10，15，14，20，18，40，36，2l",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "15，10，14，18，20，36，40，21",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "u-xqaswqjrhlvy89aqp4tw",
+                "questionType": 1,
+                "title": "下面程序的时间复杂为（    ）。\nfor（i=1，s=0； i<=n； i++） {t=1；for(j=1；j<=i；j++) t=t*j；s=s+t；}",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "O(n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "O(n2)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "O(n3)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "O(n4)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswqx7bks6qoq48o4a",
+                "questionType": 1,
+                "title": "在决定选取何种存储结构时，一般不考虑（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "各结点的值如何",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "结点个数的多少",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "对数据有哪些运算",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "所用的编程语言实现这种结构是否方便",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "dfxqaswq05vifc-30sucrq",
+                "questionType": 1,
+                "title": "在循环双链表的p所指的结点之前插入s所指结点的操作是(     )  。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "p->prior = s；s->next = p；p->prior->next = s；s->prior = p->prior",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "p->prior = s；p->prior->next = s；s->next = p；s->prior = p->prior",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "s->next = p；s->prior = p->prior；p->prior = s；p->prior->next = s",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "s->next = p；s->prior = p->prior；p->prior->next = s；p->prior = s",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "svxqaswqz71jqornvyrj7w",
+                "questionType": 1,
+                "title": "设有两个串p和q，求q在p中首次出现的位置的运算称为（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "连接",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "模式匹配",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "求子串",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "求串长",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "svxqaswqr7hm-nnpqumadw",
+                "questionType": 1,
+                "title": "对于一个具有N个顶点的图,若用邻接矩阵表示,则该矩阵的大小为（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "N",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "(N-1)2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "(N+1)2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "N2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "zvxqaswqfjvgcg6hgtnugw",
+                "questionType": 1,
+                "title": "对于线性表（7，34，55，25，64，46，20，10）进行散列存储时，若选用H（K）=K %9作为散列函数，则散列地址为1的元素有（    ）个，",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "3",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "4",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "ppxqaswqkahe-i-nfakvgw",
+                "questionType": 1,
+                "title": "设某二叉树中度数为0的结点数为N0，度数为1的结点数为Nl，度数为2的结点数为N2，则下列等式成立的是(     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "N0=N1+1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "N0=Nl+N2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "N0=N2+1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "N0=2N1+l",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "yfxqaswqn6zhe-seud7okw",
+                "questionType": 1,
+                "title": "线性表的顺序存储结构是一种（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "随机存取的存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "顺序存取的存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "索引存取的存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "Hash存取的存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rfxqaswqf6dku-i3c-h73q",
+                "questionType": 1,
+                "title": "一个栈的进栈序列是a，b，c，d，e，则栈的不可能的输出序列是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "edcba",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "decba",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "dceab",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "abcde",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "xpxqaswqtylbpzbjcexvha",
+                "questionType": 1,
+                "title": "设一组初始记录关键字序列(5，2，6，3，8)，以第一个记录关键字5为基准进行一趟快速排序的结果为（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "2，3，5，8，6",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "3，2，5，8，6",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "3，2，5，6，8",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "2，3，6，5，8",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "qpxqaswqsy1fm2fdjptejq",
+                "questionType": 1,
+                "title": "以下说法正确的是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "数据项是数据的基本单位",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "数据元素是数据的最小单位",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "数据结构是带结构的数据项的集合",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "一些表面上很不相同的数据可以有相同的逻辑结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "1",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rfxqaswqx4ve0zd5u8ctoa",
+                "questionType": 1,
+                "title": "设二维数组A[1?m,1?n]按行存储在数组B中，则二维数组元素A[i,j]在一维数组B中的下标为（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "n*(i-1)+j",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "n*(i-1)+j-1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "i*(j-1)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "j*m+i-1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tvxqaswqzkfldyk-dp9e0w",
+                "questionType": 1,
+                "title": "下面关于B树和B+树的叙述中，不正确的结论是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "B树和B+树都能有效的支持顺序查找",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "B树和B+树都能有效的支持随机查找",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "B树和B+树都是平衡的多叉树",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "B树和B+树都可用于文件索引结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "fvxqaswqzz9okhulwr-yag",
+                "questionType": 1,
+                "title": "在下述论述中，正确的是(     )。 ①只有一个结点的二叉树的度为0；②二叉树的度为2；③二叉树的左右子树可任意交换； ④深度为K的顺序二叉树的结点个数小于或等于深度相同的满二叉树。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "①②③",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "②③④",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "②④",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "①④",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswqoipjifrv7lb1mg",
+                "questionType": 1,
+                "title": "设指针变量p指向单链表中结点A，若删除单链表中结点A，则需要修改指针的操作序列为（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "q=p->next；p->data=q->data；p->next=q->next；free(q)；",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "q=p->next；q->data=p->data；p->next=q->next；free(q)；",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "q=p->next；p->next=q->next；free(q)；",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "q=p->next；p->data=q->data；free(q)；",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "1",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "zvxqaswq4bvipbuazgor2w",
+                "questionType": 1,
+                "title": "字符串通常采用的两种存储方式是（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "散列存储和索引存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "索引存储和链式存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "顺序存储和链式存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "散列存储和顺序存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswqd6tgfwx685j9-g",
+                "questionType": 1,
+                "title": "在一个有向图中，所有顶点的入度之和等于所有顶点的出度之和的（    ）倍。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "43467",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "4",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "yfxqaswqyihbgufvacfmpq",
+                "questionType": 1,
+                "title": "串的长度是指（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "串中所含不同字母的个数",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "串中所含字符的个数",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "串中所含不同字符的个数",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "串中所含非空格字符的个数",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "yfxqaswqqbjfck-gaakkaq",
+                "questionType": 1,
+                "title": "若不带头结点的单链表的头指针为head，则该链表为空的判定条件是（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "head=='",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "head->next=='",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "head!='",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "head->next==head",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rfxqaswq4otm3hidt62p9w",
+                "questionType": 1,
+                "title": "下面关于线性表的叙述中，错误的是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "线性表采用顺序存储，必须占用一片连续的存储单元",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "线性表采用顺序存储，便于进行插入和删除操作",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "线性表采用链式存储，不必占用一片连续的存储单元",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "线性表采用链式存储，便于进行插入和删除操作",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "2",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "g-xqaswqjzta292f8w-0bw",
+                "questionType": 1,
+                "title": "具有n 个结点的连通图至少有(     )条边。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "n-1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "n",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "n(n-1)/2",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "2n",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "efxqaswqrzbf6ihfffrmrg",
+                "questionType": 1,
+                "title": "串是一种特殊的线性表，其特殊性体现在(     )  。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "可以顺序存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "数据元素是一个字符",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "可以链式存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "数据元素可以是多个字符",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswqulhdmcakxp99sa",
+                "questionType": 1,
+                "title": "需要分配较大空间，插入和删除不需要移动元素的线性表，其存储结构是（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "单链表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "静态链表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "线性链表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "顺序存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "fvxqaswqzq5kbgtv9wqaqw",
+                "questionType": 1,
+                "title": "对一个满二叉树，m个叶子，n个结点，深度为h，则  (     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "n = h+m",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "h+m = 2n",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "m = h-1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "n = 2h-1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswqzqffzhcfj3fxzq",
+                "questionType": 1,
+                "title": "具有10个叶子结点的二叉树中有（    ）个度为2的结点。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "8",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "9",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "10",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "11",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "7snfaswqdipcyausinpxuq",
+                "questionType": 1,
+                "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@0BEACE08AEB56A040520E770B5769006.png/download?time=636900037974069153&token=415A266FAC40C919A4AB28A0574FA4F8&filename=image.png\"/></p>",
+                "resultAnalysis": "",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "a c e f b d",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "a c b d f e",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "a c b d e f",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "a c d b f e",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswq441bdtrry0-26w",
+                "questionType": 1,
+                "title": "设有一个栈，元素依次进栈的顺序为A、B、C、D、E，下列（     ）是不可能的出栈序列。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "A，B，C，D，E",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "B，C，D，E，A",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "E，A，B，C，D",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "E，D，C，B，A",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "zvxqaswqhibgvk8mma-m0g",
+                "questionType": 1,
+                "title": "若在9阶B-树中插入关键字引起结点分裂，则该结点在插入前含有的关键字个数为（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "4",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "5",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "8",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "9",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "dfxqaswqkl9cpe08kevidq",
+                "questionType": 1,
+                "title": "在以下的叙述中，正确的是(     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "线性表的顺序存储结构优于链表存储结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "二维数组是其数据元素为线性表的线性表",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "栈的操作方式是先进先出",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "队列的操作方式是先进后出",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "efxqaswqszhhdvodrbp27a",
+                "questionType": 1,
+                "title": "栈和队列的共同点是(     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "都是先进后出",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "都是先进先出",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "只允许在端点处插入和删除元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "没有共同点",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "efxqaswqp7blcb71lanjcw",
+                "questionType": 1,
+                "title": "在长度为n的顺序表的第i个位置上插入一个元素（1≤ i ≤n+1），元素的移动次数为：(     )。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "n-i+1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "n-i",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "i",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "i-1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tvxqaswqkbhpl1zlfvlt7a",
+                "questionType": 1,
+                "title": "在数据结构中，与所使用的计算机无关的是数据的（    ）结构。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "逻辑",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "逻辑和存储",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "物理",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "wpxqaswq8onii6ngrydfpa",
+                "questionType": 1,
+                "title": "直接选择排序的时间复杂度为（    ）。（n 为元素个数）",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "O（n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "O(log2n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "O(nlog2n)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "O(n2)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "2",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "qpxqaswq4kpf8hqfh-x2fq",
+                "questionType": 1,
+                "title": "链表不具备的特点是（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "可随机访问任一结点",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "插入删除不需要移动元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "不必事先估计存储空间",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "所需空间与其长度成正比",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "snygavwq875oxvisjcxezg",
+                "questionType": 1,
+                "title": "<p>&nbsp; &nbsp;数组A[0…4，-1…-3，5…7]中含有的元素个数是（ &nbsp; &nbsp;）。</p>",
+                "resultAnalysis": "<p>无</p>",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "55",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "45",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "36",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "16",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "zvxqaswqmk9baipblp4nua",
+                "questionType": 1,
+                "title": "对广义表L=((a,b),(c,d),(e,f))执行操作tail(tail(L))的结果是（    ）",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "(e，f)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "((e，f))",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "(f)",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "( )",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "n-xqaswq-61oqd7zohtcqw",
+                "questionType": 1,
+                "title": "有一个有序表为｛1，3，9，12，32，41，45，62，75，77，82，95，100｝，当折半查找值为82的结点时，(     )次比较后查找成功。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "11",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "5",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "4",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "8",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "xpxqaswqvlhg9cs00wne-a",
+                "questionType": 1,
+                "title": "若串S=‘software’，其子串的数目是（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "8",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "37",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "36",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "9",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "ppxqaswqijtayfurohjpdq",
+                "questionType": 1,
+                "title": "在数据结构中，从逻辑上可以把数据结构分为（）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "动态结构和静态结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "紧凑结构和非紧凑结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "线性结构和非线性结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "内部结构和外部结构",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "2",
+                "stuAnswer": "2",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "xpxqaswqsbvjw-ndia8poa",
+                "questionType": 1,
+                "title": "在线索化树中，每个结点必须设置一个标志来说明它的左、右链指向的是树结构信息，还是线索化信息，若0标识树结构信息，1标识线索，对应叶结点的左右链域，应标识为（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "0",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "1",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "10",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "11",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "yq9laswq-i1farn3-1woqa",
+                "questionType": 1,
+                "title": "<p><img src=\"http://dianbo.upol.upc.edu.cn/doc/a@DB83D181DE6FB52F8428735FC2C4AC4F.png/download?time=636900050773768482&token=C01814F6939849F7657F62F0FBF47345&filename=image.png\"/></p>",
+                "resultAnalysis": "",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "v1  v4  v6  v2  v5  v3  ",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "v1  v2  v3  v4  v5  v6",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "v1  v4  v2  v3  v6  v5 ",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "v1  v2  v4  v6  v3  v5",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "xpxqaswq-o1iwvaa-igaiq",
+                "questionType": 1,
+                "title": "以下说法错误的是（     ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "散列法存储的思想是由关键字值决定数据的存储地址",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "散列表的结点中只包含数据元素自身的信息，不包含指针",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "负载因子是散列表的一个重要参数，它反映了散列表的饱满程度",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "散列表的查找效率主要取决于散列表构造时选取的散列函数和处理冲突的方法。",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "u-xqaswqcojpytavnskwvw",
+                "questionType": 1,
+                "title": "允许对队列进行的操作有（    ）。",
+                "resultAnalysis": "无",
+                "options": [
+                    {
+                        "sortOrder": "0",
+                        "content": "对队列中的元素排序",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "1",
+                        "content": "取出最近进队的元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "2",
+                        "content": "在队头元素之前插入元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    },
+                    {
+                        "sortOrder": "3",
+                        "content": "删除队头元素",
+                        "pictureAddress": "",
+                        "answer": "",
+                        "stuAnswer": ""
+                    }
+                ],
+                "answer": "3",
+                "stuAnswer": "3",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1.5,
+                "giveScore": 1.5,
+                "answerPicUrl": ""
+            }
+        ]
+    },
+    {
+        "id": "lniraaqrq5tpzsr7bjxiew",
+        "title": "判断题",
+        "remark": "请选择正确的答案。",
+        "totalScore": 10,
+        "stuQuestions": [
+            {
+                "id": "rxldaseqnolooq8fufi00a",
+                "questionType": 3,
+                "title": "直接选择排序算法在最好情况下的时间复杂度为O(n)。（）",
+                "resultAnalysis": "无",
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rxldaseq-qfh8a8hjbia7g",
+                "questionType": 3,
+                "title": "二叉树的后序遍历序列中，任意一个结点均处在其孩子结点的后面。（）",
+                "resultAnalysis": "无",
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tbldaseqrjff4jekanmhqq",
+                "questionType": 3,
+                "title": "广义表(((a),b),c)的表头是((a),b)，表尾是(c)。（）",
+                "resultAnalysis": "无",
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tbldaseqy4tleenq3higww",
+                "questionType": 3,
+                "title": "用一维数组存储二叉树时，总是以前序遍历顺序存储结点。（）",
+                "resultAnalysis": "无",
+                "answer": "0",
+                "stuAnswer": "1",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rxldaseqbj9ksbydlafg1g",
+                "questionType": 3,
+                "title": "在待排序的记录集中，存在多个具有相同键值的记录，若经过排序，这些记录的相对次序仍然保持不变，称这种排序为稳定排序。（）",
+                "resultAnalysis": "无",
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rxldaseqdalk0aewlkld6w",
+                "questionType": 3,
+                "title": "散列法存储的思想是由关键字值决定数据的存储地址。（）",
+                "resultAnalysis": "无",
+                "answer": "1",
+                "stuAnswer": "1",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rxldaseqqqjpynd0dqdpfq",
+                "questionType": 3,
+                "title": "对于任意一个图，从它的某个结点进行一次深度或广度优先遍历可以访问到该图的每个顶点。（）",
+                "resultAnalysis": "无",
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tbldaseqd6pk6lxseo22bw",
+                "questionType": 3,
+                "title": "二叉树为二叉排序树的充分必要条件是其任一结点的值均大于其左孩子的值、小于其右孩子的值。（）",
+                "resultAnalysis": "无",
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "tbldaseqnb5c2u2g-whklg",
+                "questionType": 3,
+                "title": "强连通图的各顶点间均可达。（）",
+                "resultAnalysis": "无",
+                "answer": "1",
+                "stuAnswer": "0",
+                "isRight": 2,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 0,
+                "answerPicUrl": ""
+            },
+            {
+                "id": "rxldaseq96vbh303pbw8yw",
+                "questionType": 3,
+                "title": "拓扑排序是按AOE网中每个结点事件的最早发生时间对结点进行排序。（）",
+                "resultAnalysis": "无",
+                "answer": "0",
+                "stuAnswer": "0",
+                "isRight": 1,
+                "isAssignmented": 1,
+                "totalScore": 1,
+                "giveScore": 1,
+                "answerPicUrl": ""
+            }
+        ]
+    }
+]

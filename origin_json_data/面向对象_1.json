@@ -1,0 +1,2728 @@
+[
+  {
+    "id": "5-msaaqrwibl7kj24s6jdw",
+    "title": "单项选择题",
+    "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
+    "totalScore": 90,
+    "stuQuestions": [
+      {
+        "id": "xjegaa2r7b9cmfsgxdarpa",
+        "questionType": 1,
+        "title": "<p>下列关于类和对象的叙述中，错误的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一个类只能有一个对象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "对象是类的具体实例",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "类是对某一类对象的抽象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "类和对象的关系是一种数据类型与变量的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "bmcgaa2rglncmnxvdzng2w",
+        "questionType": 1,
+        "title": "<p>在C++中，用于实现运行时多态性的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "内联函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "重载函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "模板函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "虚函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ve-laa2rtb5k1hgyevwlxa",
+        "questionType": 1,
+        "title": "<p>在main函数中可以用p.a的形式访问派生类对象p的基类成员a，其中a是（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "私有继承的公有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "公有继承的私有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "公有继承的保护成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "公有继承的公有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kgwiaqurci5do9bo3k1gjw",
+        "questionType": 1,
+        "title": "<p>文档负责将数据存储到永久存储介质中，通常是磁盘文件或数据库，存取过程称为（&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "文件访问",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "串行化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "文件读写",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "格式化",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5viiaa2rsb9mwamhsn3uqq",
+        "questionType": 1,
+        "title": "<p>执行如下的程序段后，输出结果是(&nbsp;&nbsp;&nbsp; )。</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/09/094949_7204_uQlDFMi.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "###123",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "123###",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "***123",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "123***",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wc1uaqurmk9hmal9ef-vqa",
+        "questionType": 1,
+        "title": "<p>下面说法正确的是（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "构造函数可以重载，析构函数不能重载",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "构造函数不能重载，析构函数可以重载",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "构造函数可以重载，析构函数也可以重载",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "构造函数和析构函数都不可以重载",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "opqzaa2ryi9llvocg8lbhq",
+        "questionType": 1,
+        "title": "<p>关于友元下列说法错误的是（ ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "类的友元函数可以访问类的所有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "类的友元函数只能访问类的私有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "类A是类B的友元类，则A的所有成员函数可访问B的任何成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "类的友元函数不属于类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "m0veaqurpqljuh2frcodfg",
+        "questionType": 1,
+        "title": "<p>对于消息队列的描述正确的是（&nbsp;&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "在Windows中只有一个消息系统，即系统消息队列。消息队列是一个系统定义的数据结构，用于临时存储消息",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "系统可从消息队列将信息直接发给窗口。另外，每个正在Windows下运行的应用程序都有自己的消息队列",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "系统消息队列中的每个消息最终都要被USER模块传送到应用程序的消息队列中去。应用程序的消息对列中存储了程序的所有窗口的全部消息",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以上都正确",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oobtaqurt6liyyh9p78eua",
+        "questionType": 1,
+        "title": "<p>一个类的友元函数或友元类能够通过成员操作符访问该类的（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "私有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "所有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "公用成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "保护成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zobeaqurtbbm7bjmo9bjrg",
+        "questionType": 1,
+        "title": "<p>一个视图对象能连接（&nbsp;&nbsp;&nbsp; ）文档对象，一个文档对象能连接（&nbsp;&nbsp;&nbsp; ）视图对象。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一个，多个",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "多个，一个",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "一个，一个",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "多个，多个",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "7gztaqurabbpkna-dtxjrg",
+        "questionType": 1,
+        "title": "<p>对于类中定义的成员，其隐含访问权限为（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "protected",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "private",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "public",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "static",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wohfaqurx5rc3mqyhvehug",
+        "questionType": 1,
+        "title": "<p>更新菜单状态的消息是（&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "WM_COMMAND",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "UPDATE",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "ON_UPDATE_COMMAND_UI",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "INVALIDATE",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "acokaa2rblbhc2v4pbuw2q",
+        "questionType": 1,
+        "title": "<p>在类的定义中，用于为对象分配内存空间，对类的数据成员进行初始化并执行其他内部管理操作的函数是（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "友元函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "虚函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "构造函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "析构函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qiafaqurdkdjjbslb4u90q",
+        "questionType": 1,
+        "title": "<p>假定AB为一个类，则执行“”AB a(4)，b(3)，*p[2];”语句时，自动调用该类构造函数的次数为（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-3dfaquruqdd2msnscmn0w",
+        "questionType": 1,
+        "title": "<p>以下控件中，（&nbsp;&nbsp;&nbsp; ）没有Caption属性。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "按钮",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "群组框",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "编辑控件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "静态控件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tqlfaqurmozpgjnzoes8pq",
+        "questionType": 1,
+        "title": "<p>可以利用控件的（&nbsp;&nbsp;&nbsp; ）属性和Tab键顺序来为控件分组。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "ID",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "Tab stop",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "Group",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "Caption",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "bpiaaa2rplfp4txwr86caa",
+        "questionType": 1,
+        "title": "<p>下列不属于面向对象程序设计的3大机制的是（ ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "多态",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "封装",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "重载",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "继承",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "doqgaqurcirdlqhptu8xbq",
+        "questionType": 1,
+        "title": "<p>在类外定义类的成员函数时，应当使用（&nbsp;&nbsp;&nbsp; ）来标识该函数为特定类的成员。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "：",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "：：",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "->",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "this",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kejfaqurozfk1vmb1k-38g",
+        "questionType": 1,
+        "title": "<p>根据对话框的行为性质，对话框可以分为两类：（&nbsp;&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "对话框资源和对话框类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "模式对话框和非模式对话框",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "对话框资源和对话框模板",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "消息对话框和模式对话框",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rf-kaa2rroli-8rs4msc9a",
+        "questionType": 1,
+        "title": "<p>所有在函数中定义的变量，都是（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "全局变量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "局部变量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "静态变量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "寄存器变量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "gl5eaqurrptpkov9rmyzsg",
+        "questionType": 1,
+        "title": "<p>MFC类库中的类按层次关系可知，CStatic 的直接父类为(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "CObject",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "CWnd",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "CcmdTarget",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "CFrameWnd",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nmazaa2rvr1hkm322q321a",
+        "questionType": 1,
+        "title": "<p>用于类中虚成员函数说明的关键字是（ ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "virtual",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "public",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "protected",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "private",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "m45daqur-kdjxpshulvoeq",
+        "questionType": 1,
+        "title": "<p>已知类A是类B的友元，类B是类C的友元，则(&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "类A一定是类C的友元",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "类C一定是类A的友元",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "类C的成员函数可以访问类B的对象的任何成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "类A的成员函数可以访问类B的对象的任何成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pqpfaqurg7bm9-goyu2k6w",
+        "questionType": 1,
+        "title": "<p>菜单项助记符前用（&nbsp;&nbsp;&nbsp; ）引导。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "%",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "&",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "#",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "$",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zoajaa2rbzpjucxpjkceka",
+        "questionType": 1,
+        "title": "<p>有如下类声明：</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/09/095534_17031_sVFgQWi.png\"/></p><p>在构造函数XB的下列定义中，正确的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "XB::XB(int a，int b): x(a)，y(b){ }",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "XB::XB(int a，int b): XA(a)，y(b){ }",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "XB::XB(int a，int b): x(a)，XB(b){ }",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "XB::XB(int a，int b): XA(a)，XB(b){ }",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "n2qgaa2rma5iqy627e007q",
+        "questionType": 1,
+        "title": "<p>下列关于C++函数的叙述中，正确的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "每个函数至少要具有一个参数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "每个函数都必须返回一个值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "函数在被调用之前必须先声明",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "函数不能自己调用自己",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "up2yaa2rgrbikmqmaxv7rq",
+        "questionType": 1,
+        "title": "<p>关于对象，下列说法中不正确的是（ ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "对象是类的一个实例",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "任何一个对象只能属于一个类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "一个类只能有一个对象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "类与对象的关系和数据类型与变量间的关系类似",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "soehaa2ruorfnl9-qerjcw",
+        "questionType": 1,
+        "title": "<p>已知在一个类体中包含如下函数原型: Volume operator-(Volume)const;，下列关于这个函数的叙述中，错误的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "这是运算符-的重载运算符函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "这个函数所重载的运算符是一个一元运算符",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "这是一个成员函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "这个函数不改变类的任何数据成员的值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "viwlaa2r9jpgbfypqinicg",
+        "questionType": 1,
+        "title": "<p>一个函数功能不太复杂，但要求被频繁调用，则应把它定义为（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "内联函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "重载函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "递归函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "嵌套函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uyukaa2rs6pkjmb3ywziya",
+        "questionType": 1,
+        "title": "<p>应在下列程序划线处填入的正确语句是(&nbsp;&nbsp;&nbsp; )。</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/09/095808_26832_ktbDqui.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "fun();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "Base.fun();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "Base::fun();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "Base->fun();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5iujaa2rnrxp8bfpvdjcnq",
+        "questionType": 1,
+        "title": "<p>要实现动态联编，必须通过(&nbsp;&nbsp;&nbsp; )调用虚函数。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "对象指针",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "成员名限定",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "对象名",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "派生类名",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-soaaa2r-klpzpkturxx7w",
+        "questionType": 1,
+        "title": "<p>程序对资源的调用主要是靠（ ）来识别。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "资源名称",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "资源类型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "资源的ID号",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以上都可以",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "th6haa2razzgkmdaqpbp0q",
+        "questionType": 1,
+        "title": "<p>对于语句 cout&lt;&lt;x&lt;&lt;endl;错误的是描述是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "“cout\"是一个输出流对象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "“endl\"的作用是输出回车换行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "“x\"是一个变量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "“<<\"称作提取运算符",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ziuhaqurrotggb0p5ev0ga",
+        "questionType": 1,
+        "title": "<p>Windows操作系统主要基本内核元件中，_______支持与操作系统密切相关的功能：如进程加载、文本切换、文件I/O以及内存管理、线程管理等</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "GDI",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "KERNEL",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "USER",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以上都不是",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ffddaqurs6npzhxrcoqsfw",
+        "questionType": 1,
+        "title": "<p>以下不属于成员函数的是(&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "静态成员函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "友元函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "构造函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "析构函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "e6sfaquri5jkjugg6gnp8a",
+        "questionType": 1,
+        "title": "<p>实现运行时的多态性，必须通过（&nbsp;&nbsp;&nbsp; ）来完成</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "虚函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "重载函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "构造函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "析构函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nsyiaa2rgihb9abpijuidg",
+        "questionType": 1,
+        "title": "<p>下面四个选项中，(&nbsp;&nbsp;&nbsp; )是用来声明虚函数的。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "virtual",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "public",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "include",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "using namespace",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "musgaquryb1odlyuvo4ljw",
+        "questionType": 1,
+        "title": "<p>在面向对象编程中，对象的抽象集合称为（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "对象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "实例",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "prjdaqur7otosupfxsztxq",
+        "questionType": 1,
+        "title": "<p>类AB的缺省构造函数和析构函数是（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "AB( )和~AB( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "AB(int)和~AB( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "AB( )和~AB(delete )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "AB( )和int~AB( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "amogaqurerxkr691tavhhw",
+        "questionType": 1,
+        "title": "<p>下面(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )是函数重载</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "void play(int) 和void play(float)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "play( ) 和 ~play()",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "void play(int) 和int play(int)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "void play( ) 和int play( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hlxgaqurb7rodjnilpi0la",
+        "questionType": 1,
+        "title": "<p>使用GetWindowDC( )和GetDC( )获取的设备上下文在退出时，必须调用（&nbsp;&nbsp;&nbsp; ）释放设备上下文。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "ReleaseDC( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "Delete( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "DeleteDC( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "Detach( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vvldaqurj5blbe1ppg3gjg",
+        "questionType": 1,
+        "title": "<p>在C++中，若对函数未加说明，则函数的隐含类型是（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "int",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "double",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "void",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "char",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lf5caqurfyvk0yemyva4wq",
+        "questionType": 1,
+        "title": "<p><img src=\"http://file.zhaomingedu.com/data/test/2009/0924/21/210753_25053_dbxgSii.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "21",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fhzgaquroatmpzuzj6edlg",
+        "questionType": 1,
+        "title": "<p>关于工具栏、菜单和加速键的关系，正确的说法是（&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "工具按钮与菜单必须一一对应",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "工具按钮与加速键一一对应",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "工具按钮不必与菜单一一对应",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "菜单与加速键一一对应",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "eziiaa2r1rjcz-gtsunknw",
+        "questionType": 1,
+        "title": "<p>在下列函数原型中，可以作为类AA构造函数的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "void AA(int);",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "int AA();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "AA(int)const;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "AA(int);",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vmejaqur1itkkhl12l3ogq",
+        "questionType": 1,
+        "title": "<p>下列对模板的声明，正确的是（&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "<p>template&lt;T&gt;</p>",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "<p>template&lt;class T1;class T2&gt;</p>",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "<p>template&lt;class T1，T2&gt;</p>",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "<p>template&lt;class T1，class T2&gt;</p>",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "sadjaquro7zjc81ecqsjzw",
+        "questionType": 1,
+        "title": "<p>假定MyClass为一个类，则执行“MyClass a[3]，*p[2];“ 语句时，自动调用该类构造函数的次数为（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "mvazaa2ruyzmcia2jguatg",
+        "questionType": 1,
+        "title": "<p>应用程序类CWinApp完成以下（）工作。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "程序的初始化、运行和结束工作",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "消息的发送和执行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "程序的框架、窗口",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "事件的发生与处理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "3x6kaa2rl6vd9lycntfeaa",
+        "questionType": 1,
+        "title": "<p>在表达式 x+y*z中， + 是作为成员函数重载的运算符，* 是作为非成员函数重载的运算符。则 operator+ 有&nbsp;&nbsp;&nbsp; 个参数，operator* 有&nbsp;&nbsp;&nbsp; 参数。(&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "2、2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2、1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "1、2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1、1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "i3shaqurw7ndtql-wnfn4g",
+        "questionType": 1,
+        "title": "<p>所有的控件都是 (&nbsp;&nbsp;&nbsp; ) 类的派生类，都可以作为一个特殊的窗口来处理。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "CView",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "CWnd",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "CWindow",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "CDialog",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ufmfaquryo1k7iejswwmgg",
+        "questionType": 1,
+        "title": "<p>类CNum的缺省构造函数和析构函数是（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "CNum ( )和~CNum ( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "CNum (int)和~CNum( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "CNum ( )和~CNum (delete ) ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "CNum ( )和int~CNum ( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "89shaqurcr9hat-vkkgulw",
+        "questionType": 1,
+        "title": "<p>MFC中的集合类包括（&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "对象、列表和映射",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "数组、列表和对象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "数组、列表和映射",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "数组、列表和链表",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "8v6jaa2rs6jlrtghrylmww",
+        "questionType": 1,
+        "title": "<p>以下(&nbsp;&nbsp;&nbsp; )成员函数表示纯虚函数。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "virtual int vf(int); ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "void vf(int)=0;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "virtual void vf()=0; ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "virtual void vf(int){}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "56ghaa2rzz9mdpuqz0dm5q",
+        "questionType": 1,
+        "title": "<p>有如下类声明，则类MyDERIVED中保护的数据成员和成员函数的个数是(&nbsp;&nbsp;&nbsp; )。</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/09/094734_36883_YLWqNHi.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qcmzaa2rq7ngjmfgdyuw7g",
+        "questionType": 1,
+        "title": "<p>MFC主要由（ ）组成</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "基础类库、全局函数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "基础类库、全局变量、宏",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "基础类库、宏",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "基础类库、全局变量、全局函数、宏",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "x-kgaa2r3jbcjwsnipxdba",
+        "questionType": 1,
+        "title": "<p>下列关于运算符重载的叙述中，正确的是(&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "通过运算符重载，可以定义新的运算符",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "有的运算符只能作为成员函数重载",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "若重载运算符+，则相应的运算符函数名是+",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "重载二元运算符时，必须声明两个形参",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "qjwzaa2reyffowzzcckt4a",
+        "questionType": 1,
+        "title": "<p>关于类的成员，下列正确的说法是（ ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "数据成员必须定义为私有的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "成员函数必须定义为公有的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "数据成员和成员函数都可以为private public protect属性之一",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "公有成员函数只能访问类的公有成员，私有成员函数只能访问类的私有成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "icfdaqurmztfibqp-znzua",
+        "questionType": 1,
+        "title": "<p>下列说法中正确的是(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "类定义中只能说明函数成员的函数头，不能定义函数体",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "类中的函数成员可以在类体中定义，也可以在类体之外定义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "类中的函数成员在类体之外定义时必须要与类声明在同一文件中",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "在类体之外定义的函数成员不能操作该类的私有数据成员",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zl-faqurxrbkvqfugz3krw",
+        "questionType": 1,
+        "title": "<p>对于结构中定义的成员，其隐含访问权限为（&nbsp;&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "protected",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "private",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "public",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "static",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-qosaa2riq1csg1rf0vxra",
+        "questionType": 1,
+        "title": "<p>&nbsp;关于类，下列说法不正确的是（ ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "在类中，成员的默认访问特性是私有的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "类实现了数据的封装",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "类实质上是一种数据类型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "在类的定义中，必须包含private、public、protect对应部分",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "cqytaaqr5iplbw3k6rn6bw",
+    "title": "判断题",
+    "remark": "请选择正确答案。",
+    "totalScore": 10,
+    "stuQuestions": [
+      {
+        "id": "4ykbaa2rajrk00a2o1seda",
+        "questionType": 3,
+        "title": "<p>运算符重载是一种特殊的函数重载。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6sgaaa2rz7ne6vmizx3mya",
+        "questionType": 3,
+        "title": "<p>类实现了数据的封装。 （&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "aiwbaa2r7ibj24-i4b0hzg",
+        "questionType": 3,
+        "title": "<p>当用户在键盘上按下一个键时，只有一个窗口能接收到该消息。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "c-aaaa2ra5lkadzweiynig",
+        "questionType": 3,
+        "title": "<p>当使用指针变量访问类的成员须使指针变量指向该类的某个对象。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dzebaa2rz49nn2f5hcpmqg",
+        "questionType": 3,
+        "title": "<p>接收鼠标消息的窗口不一定是活动窗口。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "gf-baa2ri5bix9wfl3t2kq",
+        "questionType": 3,
+        "title": "<p>类的消息映射不可以被继承。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "k0ubaa2rkkbdcnwvcra6vq",
+        "questionType": 3,
+        "title": "<p>调用对话框类的成员函数DoModal()显示模态对话框。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lf6aaa2r7pjmlaqdy9zj0a",
+        "questionType": 3,
+        "title": "<p>友元函数是类的成员函数。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "shgbaa2ralrps7u-vw0n9g",
+        "questionType": 3,
+        "title": "<p>模态对话框允许用户切换到本应用程序的其他窗口。（&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vdebaa2r0kfh7oqjorm2ag",
+        "questionType": 3,
+        "title": "<p>析构函数没有返回值类型。 （&nbsp;&nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]

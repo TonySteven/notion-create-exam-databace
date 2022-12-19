@@ -14,14 +14,14 @@ from redisbloom.client import Client as RedisBloomClient
 from utils.utils import stu_question2options
 
 # 加载文件
-file_name = '毛概-8'
-subject = file_name.split('-', 1)[0]
+file_name = '数据结构与算法_3'
+subject = file_name.split('_', 1)[0]
 path = r"../notion-create-exam-databace/origin_json_data/" + file_name + ".json"
 file = open(path, 'r', encoding='utf-8')
 
 # 创建 API 客户端
 # notion = NotionClient(auth=os.environ['NOTION_TOKEN'])
-notion = NotionClient(auth='替换成自己的token')
+notion = NotionClient(auth='secret_zjmsB5oeXEGw25ndV7JVN1j2C8EwE9jMbaUpGvVtZ6I')
 
 # 创建redis_client
 redis_client = RedisBloomClient(host='localhost', port=6379, db=0)
