@@ -70,7 +70,4 @@ pip install -r requirements.txt
 
 ### 项目文档
 
-- [项目逐步实现文档](https://genesisorgcn.notion.site/notion-afb97748bd2344d18c2feffb0eb384cf)
-
-- [本地按照redis布隆过滤器环境文档(docker)](https://genesisorgcn.notion.site/redis-0fbf0fc39601438eae72d67b4ead9227)
-
+- [项目逐步实现文档 - notion](https://genesisorg.notion.site/Json-API-notion-0e28fa9199ce4ea681b823239c235d2b)
