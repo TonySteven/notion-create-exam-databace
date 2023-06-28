@@ -1,0 +1,2848 @@
+[
+  {
+    "id": "pnfxafyqwjbcae9abcu59a",
+    "title": "单项选择题",
+    "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
+    "totalScore": 90,
+    "stuQuestions": [
+      {
+        "id": "wf0eaq2qlbdfu8ngedfcmg",
+        "questionType": 1,
+        "title": "原语是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一条机器指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "若干条机器指令组成",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "一条特定指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "中途能打断的指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zl0eaq2qpydhuemr1kna-a",
+        "questionType": 1,
+        "title": "如果I/O设备与存储设备进行数据交换不经过CPU来完成，这种数据交换方式是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "程序查询",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中断方式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "DMA方式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "无条件存取方式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6l0eaq2qokveu-32bgfrkg",
+        "questionType": 1,
+        "title": "动态重定位是在作业的（）中进行的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "编译过程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "装入过程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "连接过程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "执行过程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "u10eaq2qfl1ntnncdlfrpq",
+        "questionType": 1,
+        "title": "系统调用是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一条机器指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "用户子程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "中断子程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "提供编程人员的接口",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "710eaq2qskxnjfrnueipxq",
+        "questionType": 1,
+        "title": "（）的物理结构对文件随机存取时必须按指针进行，但效率较低。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "连续文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "索引文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "链接文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "多级索引文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "f-bvafwqljlh-zeofvr2vw",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;位示图方法可用于( &nbsp;)</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "盘空间的管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "盘的驱动调度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "文件目录的查找",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "页式虚拟存储管理中的页面调度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cfztafwqzy1i5e-o7oiw3g",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;UNIX系统中，文件存储器的管理采用的是（）。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "位图法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "空闲块表法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "成组连接法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "单块连接法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "010eaq2qmipnupbmuhuyrw",
+        "questionType": 1,
+        "title": "操+32:51作系统是一组（）的程序集合。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "文件管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中断处理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "资源管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "设备管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5v0eaq2q0azjphzwah9nga",
+        "questionType": 1,
+        "title": "当前运行的进程（），将引发系统进行进程调度。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "执行了一条转移指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "要求增加主存空间，经系统调用银行家算法进行测算认为是安全的。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "执行了一条I/O指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "执行程序期间发生了I/O完成中断",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4v0eaq2q1afdp-20vtv5oq",
+        "questionType": 1,
+        "title": "下面对索引文件描述不正确的选项是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "索引文件和主文件配合使用",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "一般来说主文件为变长记录文件，使用索引文件是为了加快对主文件的检索速度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "索引文件和顺序文件没有什么联系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "可以说利用索引文件，是用空间来换时间",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tl0eaq2qlivpb2ibyiolsg",
+        "questionType": 1,
+        "title": "引入进程概念的关键在于（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "独享资源",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "共享资源",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "顺序执行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "便于执行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-f0eaq2qrkjcytdiepsrlw",
+        "questionType": 1,
+        "title": "MS—DOS中用于软盘整盘复制的命令是(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "COMP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "DISKCOPY",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "SYS",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "BACKUP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "45p0afwqrk5gcoqikbs4qw",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;在分时系统中当用户数一定时，影响响应时间的主要因素是（）。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "时间片",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "调度算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "存储分配方式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "作业的大小",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "010eaq2q9rdd9n21-d4ltw",
+        "questionType": 1,
+        "title": "如果文件采用直接存取方式且文件的大小不固定，则宜选择（）文件结构。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "直接",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "顺序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "随机",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "索引",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yv0eaq2qkz5arcgtppglow",
+        "questionType": 1,
+        "title": "在下述存储管理技术中，（）处理不当会产生抖动。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "固定分区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "可变分区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "简单分页",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "请求分页",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4n7safwqyrfe0hjj-75ixq",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;虚拟存储器的逻辑地址空间可划分为32个页面，每页长度位1KB，主存16KB，逻辑页面0、1、2、3分别对应的内存物理块号为5、10、4、7，虚拟地址0A6F对应的内存地址是（）。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "126F",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "0A6F",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2A6F",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "没有内存地址",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "3f0eaq2qxazl5cqysgdhlq",
+        "questionType": 1,
+        "title": "在请求分页系统中，一个进程初始执行连续访问页面的次序为：0、2、1、3、0、2、4、0、2、1、3、4，利用FIFO页面淘汰算法，进程内存只能保存3个页面，共发生的缺页次数为（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "8",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "9",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "7",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "10",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xf0eaq2qiktbnsz5hjeuqw",
+        "questionType": 1,
+        "title": "在进程管理中，当（）时，进程从阻塞状态变为就绪状态。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "进程被进程调度程序选中",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "等待某一事件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "等待的事件发生",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "时间片用完",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xf0eaq2qjj9c5hxkw81l-q",
+        "questionType": 1,
+        "title": "进程在系统中是否存在的惟一标志是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "数据集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "目标程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "源程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "进程控制块",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4v0eaq2qwlthw5nr5rafow",
+        "questionType": 1,
+        "title": "设备驱动程序专门用于在请求I/O的进程与设备控制器之间传输信息。下面的选项中不是设备驱动程序功能的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "检查用户I/O请求的合法性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "及时响应由控制器或通道发来的中断请求",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "控制I/O设备的具体I/O操作",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "了解I/O设备的状态，传送有关参数，设置设备的工作方式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5v0eaq2qrpblyadx49q12q",
+        "questionType": 1,
+        "title": "进程和程序的本质区别是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "内存和外存",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "动态和静态特征",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "共享和独占使用计算机资源",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "顺序和非顺序执行机器指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-v0eaq2qi5xojfgugexy3q",
+        "questionType": 1,
+        "title": "任何两个并发进程之间(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一定存在互斥关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "一定存在同步关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "一定彼此独立无关",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "可能存在同步或互斥关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4v0eaq2qf7dbzptqkyjfxa",
+        "questionType": 1,
+        "title": "在有直接存取需求和允许文件长度可以动态增长的情况下，宜选择下面哪种文件形式（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "索引文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "顺序文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "链接文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "库文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6l0eaq2qvzbjr8unw9zipq",
+        "questionType": 1,
+        "title": "在操作系统中，并发性是指若干个事件（）发生。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "在同一时刻",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "一定在不同时刻",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "某一时间间隔内",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "依次在不同时间间隔内",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "810eaq2qbppokvstlyw8pw",
+        "questionType": 1,
+        "title": "在具有挂起状态的系统中，若当前内存空间高度吃紧，系统将请求I/O的一个执行状态的进程进入（）状态。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "活动就绪",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "静止就绪",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "活动阻塞",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "静止阻塞",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "110eaq2qujfm5byq0yonuq",
+        "questionType": 1,
+        "title": "进程从执行状态到阻塞状态是由（）完成的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "进程调度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "其它进程调用阻塞原语",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "硬件自动",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "进程自身调用阻塞原语",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yv0eaq2q4pjbwyx1qi08mq",
+        "questionType": 1,
+        "title": "下述解决死锁的方法中，属于死锁预防策略的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "银行家算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "资源有序分配法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "死锁避免方法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "撤销进程法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "110eaq2qj4ldt4sgydst2w",
+        "questionType": 1,
+        "title": "在引入线程的操作系统中，处理机分派和调度的单位是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "进程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "线程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "作业",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wf0eaq2qbrlpb5t89fxcka",
+        "questionType": 1,
+        "title": "在计算机系统中，操作系统是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一般应用软件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "系统软件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "用户应用软件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "系统支撑软件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "mknsafwqwbhiq1pqvoikwg",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;操作系统核心部分的主要特点是（）。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一个程序模块",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "常驻内存",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "有头有尾的程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "串行执行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6l0eaq2qeidblol9gefjfa",
+        "questionType": 1,
+        "title": "若系统中有五台绘图仪，有多个进程均需要使用两台，规定每个进程一次仅允许申请一台，则至多允许（）个进程参于竞争，而不会发生死锁。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "710eaq2qx6te7dwphqqp9w",
+        "questionType": 1,
+        "title": "主要由于（）原因，使UNIX易于移植。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "UNIX是由机器指令书写的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "UNIX大部分由汇编少部分用C语言编写",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "UNIX是用汇编语言编写的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "UNIX小部分由汇编大部分用C语言编写",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "810eaq2qwqjhtqilts-o0q",
+        "questionType": 1,
+        "title": "在UNIX系统中，请求调用是采用（）算法。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "LFU",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "FIFO",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "LRU",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "LIFO",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5v0eaq2q85doqk6sv4ypoq",
+        "questionType": 1,
+        "title": "设两个进程共用一个临界资源的互斥信号量mutex，当mutex=-1时表示（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一个进程进入了临界区，另一个进程等待",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "没有一个进程进入临界区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "两个进程都进入了临界区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "两个进程都在等待",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yv0eaq2qs5bcvbbhvpcmia",
+        "questionType": 1,
+        "title": "在段式存储管理中，一个段是一个（）区域。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "定长的连续",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "不定长的连续",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "定长的不连续",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "不定长的不连续",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "al4eaq2qpbbbomoyqhbhww",
+        "questionType": 1,
+        "title": "文件系统采用多级目录结构后，对于不同用户的文件，其文件名(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "应该相同",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "应该不同",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "可以相同，也可以不同",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "受系统约束",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xf0eaq2qnkfkwwvrvhgfqq",
+        "questionType": 1,
+        "title": "虚拟存储器的最大容量是由（）决定的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "计算机系统的地址结构和外存空间",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "页表长度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "内存空间",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "逻辑空间",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yv0eaq2qyjjavwwv1bdzpq",
+        "questionType": 1,
+        "title": "（）是一种只能进行P操作和V操作的特殊变量。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "调度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "进程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "同步",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "信号量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "810eaq2qeobjbihvbg184q",
+        "questionType": 1,
+        "title": "下列诸项中，（）不是影响缺页中断率的主要因素。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "缺页中断服务速度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "分配给作业的物理块数",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "系统规定页面的大小",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "页面调度算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5v0eaq2qp4vcgv2sgx2vuq",
+        "questionType": 1,
+        "title": "由于系统无法预先知道一个作业未来访问页面的情况，所以（）在实际上是无法实现的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "先进先出淘汰算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "最近最少使用淘汰算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "最优淘汰算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "最不常用页面淘汰算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zl0eaq2qspxcq357cjv6oq",
+        "questionType": 1,
+        "title": "分区管理中采用“最佳适应算法”时，宜把空闲区按（）次序登记在空闲区表中。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "长度递增",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "长度递减",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "地址递增",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "地址递减",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "bl4eaq2qxqdb6b-jlb9sea",
+        "questionType": 1,
+        "title": "在可变式分区分配方案中，某一作业完成后，系统收回其主存空间，并与相邻空闲区合并，为此需修改空闲区表，造成空闲区数减1的情况是(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "无上邻空闲区，也无下邻空闲区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "有上邻空闲区，但无下邻空闲区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "有下邻空闲区，但无上邻空闲区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "有上邻空闲区，也有下邻空闲区",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xf0eaq2qd6pm4v9fmxl-qa",
+        "questionType": 1,
+        "title": "磁带机属于（）设备。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "顺序存取",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "直接存取",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "链接存取",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "随机存取",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yv0eaq2qfydfoypdibqlia",
+        "questionType": 1,
+        "title": "在UNIX中，通常把设备作为（）文件来处理。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "特殊",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "普通",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "目录文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "设备",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "6l0eaq2q2krdkxfsui2fig",
+        "questionType": 1,
+        "title": "虚拟设备是指（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "允许用户使用比系统中具有的物理设备更多的设备",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "允许用户以标准化方式来使用物理设备",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "把一个物理设备变换成多个对应的逻辑设备",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "允许用户程序不必全部装入主存便可使用系统中的设备",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wf0eaq2qxlvlza-7tqfd5q",
+        "questionType": 1,
+        "title": "索引式文件组织的一个主要优点是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "不需要链接指针",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "用户存取方便",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "回收实现比较简单",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "能实现物理块的动态分配",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "810eaq2qjrlinbdycgp5da",
+        "questionType": 1,
+        "title": "下列的进程状态变化中，（）的变化是不可能发生的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "等待—运行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "运行—等待",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "运行—就绪",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "等待—就绪",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "710eaq2q-5lin0pphnn8iq",
+        "questionType": 1,
+        "title": "UNIX操作系统是一种（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "单用户多进程系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "多用户单进程系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "单用户单进程系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "多用户多进程系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wf0eaq2q4phnxex8wjiqka",
+        "questionType": 1,
+        "title": "文件目录的主要作用是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "按名存取",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "提高速度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "节省空间",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "提高外存利用率",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-v0eaq2qkihfovnwrqgrvw",
+        "questionType": 1,
+        "title": "下列算法中用于磁盘移臂调度的是(  )",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "时间片轮转法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "LRU算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "最短寻找时间优先算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "优先级高者优先算法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rljsafwqfjrgarqnahayla",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;一个32位的虚拟地址分成4个域，每个域的长度分别为a、b、c、d位，其中d为页内地址，则系统最多可有（）虚拟页面。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "a+b+c",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2a+b+c",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "d",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "2d",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "u10eaq2qbqbig7ghqbt2mg",
+        "questionType": 1,
+        "title": "操作系统中用得最多的数据结构是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "堆栈",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "队列",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "表格",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "树",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "810eaq2ql6lcnavfhwaxww",
+        "questionType": 1,
+        "title": "对于硬盘上存放的信息，物理上读写的最小单位是一个（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "二进位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "字节",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "物理块",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "逻辑记录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "u10eaq2q4bdpamo-mibmcg",
+        "questionType": 1,
+        "title": "逻辑地址就是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "用户地址",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "物理地址",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "相对地址",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "绝对地址",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-lzvafwqqrlfnvskcv-uwa",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;MS—DOS的存储管理采用了( &nbsp;)</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "段式存储管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "段页式存储管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "单用户连续存储管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "固定式分区存储管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "5v0eaq2q9l9gbvdp-mbclg",
+        "questionType": 1,
+        "title": "在文件管理中，采用位示图主要是用于实现（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "磁盘的驱动调度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "磁盘空间的分配和回收",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "文件目录的查找",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "页面置换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4v0eaq2qzrnewcar407o9w",
+        "questionType": 1,
+        "title": "调用银行家算法进行安全序列检查时，（）不是必须要提供的参数。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "系统资源总量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "当前可用量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "用户最大需求量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "用户已占有资源量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "3f0eaq2q47pkm-b3clkgdq",
+        "questionType": 1,
+        "title": "一个计算机系统有7台可互换的磁带机供N个进程竞争使用。每个进程在一段时间内需要占用2台磁带机。N最多为（）不会发生死锁。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "12",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "4v0eaq2qq41agy8x9wn1bq",
+        "questionType": 1,
+        "title": "在调试程序时，可以把所有输出送到屏幕显示，而不必正式输出到打印设备，其运用了（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "SPOOLing技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "I/O重定向",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "共享技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "缓冲技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "110eaq2qcpnhgeody22nlw",
+        "questionType": 1,
+        "title": "在下列存储管理方案中，不适用于多道程序设计的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "单一连续分配",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "固定式分区分配",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "可变式分区分配",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "段页式存储管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "y4fxafyqjjbgvmfr1asstq",
+    "title": "多项选择题",
+    "remark": "下列各题，有两个或两个以上正确答案，多选、错选、不选、少选均不得分。",
+    "totalScore": 10,
+    "stuQuestions": [
+      {
+        "id": "dxesaa6qcpdhlwk4oa4d5q",
+        "questionType": 2,
+        "title": "驱动调度算法中(  )和(  )算法可能会随时改变移动臂的运动方向。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "电梯调度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "先来先服务",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "扫描",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "单向扫描",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "最短寻找时间优先",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,4",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dxesaa6qzivhnz3jj9g12g",
+        "questionType": 2,
+        "title": "文件的二级目录结构由(  )和(  )组成。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "根目录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "子目录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "主文件目录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "用户文件目录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "当前目录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2,3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "enesaa6qj69pkqhyqsecvw",
+        "questionType": 2,
+        "title": "MS—DOS的文件类型为(  )和(  )的文件是不可执行的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "OBJ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "EXE",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "COM",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "BAK",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "BAT",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dxesaa6qpj9pnpq2git4lq",
+        "questionType": 2,
+        "title": "作业与进程的主要区别是(  )和(  )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "前者是由用户提交，后者是由系统自动生成",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "两者执行不同的程序段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "前者以用户任务为单位，后者是操作系统控制的单位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "前者是批处理的，后者是分时的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "后者可并发执行，前者则不行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "chesaa6qeynpq30-t3nosa",
+        "questionType": 2,
+        "title": "能影响中断响应次序的技术是(  )和(  )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "时间片",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "中断",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "中断优先级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "中断屏蔽",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "4",
+            "content": "特权指令",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2,3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]

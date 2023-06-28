@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "otivaaiqh4rfjo2dam4wpa",
+    "title": "单项选择题",
+    "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
+    "totalScore": 50,
+    "stuQuestions": [
+      {
+        "id": "kzifaryqbjpgfjv-qz3erq",
+        "questionType": 1,
+        "title": "UDP的首部长度是：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "4字节",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "8字节",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "16字节",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "20字节",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jjifaryqa79i6yh-nqcrbg",
+        "questionType": 1,
+        "title": "C类IPv4网络的网络号的二进制位数是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "32位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "24位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "16位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "8位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lpifaryqgzro9cvhkhdeog",
+        "questionType": 1,
+        "title": "下列的域名服务器中只提供缓存服务的是：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "根域名服务器",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "顶级域名服务器",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "权限域名服务器",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "本地域名服务器",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ijifaryqzzhjrpimivkmlg",
+        "questionType": 1,
+        "title": "计算机网络最重要的功能是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "通信",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "资源共享",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "通信和资源共享",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "服务",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jjifaryq2ixd7pny5at0iw",
+        "questionType": 1,
+        "title": "下列的哪一个不是物理层的特性？（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "机械特性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "电气特性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "材质特性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "过程特性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jjifaryqq6fkx-17j2ln6g",
+        "questionType": 1,
+        "title": "以太网帧的类型值为______时表示数据部分是IP数据报。（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "0x0600",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "0x0700",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "0x0800",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "0x0900",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jjifaryqxk5bifmwnd0idw",
+        "questionType": 1,
+        "title": "位串0110111111111100经过0比特填充后将变成（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1101111101111100",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1101111111111000",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "11011111001111100",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "11011111011111000",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lpifaryq-knn7jgc8vdvoa",
+        "questionType": 1,
+        "title": "TCP报文段中的序号长度是：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "4位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "16位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "32位",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "32字节",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ijifaryqaajp5rzzay-e-a",
+        "questionType": 1,
+        "title": "下列中的哪一个不是结点的时延？（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "计算时延",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "发送时延",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "传播时延",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "排队时延",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kzifaryq25tm1bhal9kuma",
+        "questionType": 1,
+        "title": "IP数据报的固定部分有____个字节。（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "10",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "20",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "30",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "40",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ijifaryqd51fmubygfjnoa",
+        "questionType": 1,
+        "title": "计算机网络采用的数据交换方式是（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "报文交换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "分组交换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "电路交换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "信息交换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kzifaryq1bpp6pjfavieug",
+        "questionType": 1,
+        "title": "下面的第____组是常用的路由协议（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "RIP、HTTP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "OSPF、PPP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "HTTP、PPP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "RIP、OSPF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lpifaryqeyxkdjuuco0ong",
+        "questionType": 1,
+        "title": "以下的____不属于万维网涉及的内容。（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "URL",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "FTP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "HTML",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "HTTP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lpifaryqwj5gyznn8blyhw",
+        "questionType": 1,
+        "title": "TCP判断网络发生拥塞的事件有：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "超时、三次重复的ACK",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "超长、三次重复的ACK",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "超时、二次重复的ACK",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "超长、二次重复的ACK",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kzifaryqcqzd3ncttlkhaw",
+        "questionType": 1,
+        "title": "C类网络的默认子网掩码是：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "255.0.0.0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "255.255.0.0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "255.255.255.0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "255.255.255.255",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kzifaryqi6dmfg4skt3yqa",
+        "questionType": 1,
+        "title": "TCP是一个面向连接的协议，因而其工作过程包括如下____中的三个阶段。（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "开机、工作、关机",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "联网、上网、断网",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "输入网址、打开网页、关闭网页",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "连接建立、通信与连接维护、连接释放",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kzifaryq065ob0x0gcgcgg",
+        "questionType": 1,
+        "title": "默认路由使用的地址是：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "0.0.0.0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "255.255.255.255",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "FF.FF.FF.FF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1.1.1.1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kzifaryq-pvkohybpb01bq",
+        "questionType": 1,
+        "title": "承载ICMP报文的协议是：（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "IP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "TCP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "UDP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "ARP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ijifaryqsp5ct8jlu41lig",
+        "questionType": 1,
+        "title": "下列的哪一个不是网络协议的要素？（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "语法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "语义",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "规程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "分层",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jjifaryqpobg0cz8xgwpta",
+        "questionType": 1,
+        "title": "下列的哪一个不是常用的信道复用技术？（）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "FDM",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "PDM",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "CDMA",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "TDM",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "puqyacwq7zzjrlu4awpxqa",
+    "title": "判断题",
+    "remark": "请选择正确的答案。",
+    "totalScore": 50,
+    "stuQuestions": [
+      {
+        "id": "bpd7abyqkk9na-xchca5hq",
+        "questionType": 3,
+        "title": "<p>基本的带通调制方法包括AM、FM和PM。( &nbsp; &nbsp;)</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "7gn9abyqxoljrraarg0hvw",
+        "questionType": 3,
+        "title": "<p>128.14.35.7/20表示的网络中主机号有20位。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z79abyqkjnjv0tngwykjw",
+        "questionType": 3,
+        "title": "<p>ARP协议是用来根据已知的物理地址获取IP地址的。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "65h9abyqiktnq-nkekuirg",
+        "questionType": 3,
+        "title": "<p>内部网关协议指的是内网使用的协议，外部网关协议指的是外网使用的协议。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nav-abyqg5rd2isy7vkeeg",
+        "questionType": 3,
+        "title": "<p>万维网以P2P方式工作。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jrd9abyqikhkwx4a98dxsa",
+        "questionType": 3,
+        "title": "<p>IP数据报中的协议字段用来说明它所携带的数据对应的高层协议。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "84v7abyq-q1esghfdsu8fw",
+        "questionType": 3,
+        "title": "<p>因特网的运输层包括TCP和IP协议。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "bpj8abyq7rxbr6kfnypq-g",
+        "questionType": 3,
+        "title": "<p>以太网最短帧为512字节，最长帧为1518字节。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cul8abyq9rzgwhviuiiosq",
+        "questionType": 3,
+        "title": "<p>全1的IP地址255.255.255.255用于通过路由器进行广播。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hvp-abyqqr1k4pqdpj5f-g",
+        "questionType": 3,
+        "title": "<p>TCP协议中，建立连接是用三次握手机制实现的。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "icr6abyqaithuxtmqoloaa",
+        "questionType": 3,
+        "title": "<p>Internet是一个资源网络，WWW是一个基础设施网络。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "chv-abyqrk1fit241hniww",
+        "questionType": 3,
+        "title": "<p>DNS可以实现域名地址到硬件地址的解析。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zgt8abyqkobootbcp3rn-a",
+        "questionType": 3,
+        "title": "<p>数据链路层协议要解决三个基本问题，即封装成帧、透明传输和差错检测。（ &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oqp-abyqqqvjacajb0yzra",
+        "questionType": 3,
+        "title": "<p>停止等待协议中，报文编号仅需要一个二进制位。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uwl7abyqsltmquvldgiinq",
+        "questionType": 3,
+        "title": "<p>&nbsp;LAN是局域网的简写。（ &nbsp; ）</p><p><br/></p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "psx8abyq3y9nzddb-9mm7g",
+        "questionType": 3,
+        "title": "<p>ADSL是在传统的有线电视电缆上实现宽带数据业务的技术。（ &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zhp7abyqdkrh9ldhubrrmq",
+        "questionType": 3,
+        "title": "<p>路由器是因特网的核心构件。（ &nbsp; ）</p><p><br/></p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zr79abyq0rficgbnlsqplq",
+        "questionType": 3,
+        "title": "<p>10开头和192.168开头的地址只能是内网地址。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wyr-abyqg4bjk1nnxlyuyq",
+        "questionType": 3,
+        "title": "<p>TCP报文段的检验和字段只对报文的数据进行检验。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vn-9abyqk5faxik9pvcfig",
+        "questionType": 3,
+        "title": "<p>UDP的端口号长度是16字节。（ &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]

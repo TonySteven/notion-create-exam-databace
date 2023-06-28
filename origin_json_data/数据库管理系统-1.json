@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "3b7rabgqlpfi95ytfrdnla",
+    "title": "单项选择题",
+    "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
+    "totalScore": 72,
+    "stuQuestions": [
+      {
+        "id": "wd-rabgqw6tihhu2ymuicq",
+        "questionType": 1,
+        "title": "数据库的网状模型应满足的条件是（　  　）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "允许一个以上结点无双亲，也允许一个结点有多个双亲",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "必须有两个以上的结点",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "有且仅有一个结点无双亲，其余结点都只有一个双亲",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "每个结点有且仅有一个双亲",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uz-rabgqoorota2y9tp-rw",
+        "questionType": 1,
+        "title": "设关系R和关系S的元数分别是3和4，关系T是R与S的广义笛卡尔积，即：T=R×S，则关系T的元数是（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "7",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "9",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "12",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "16",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pd-rabgquovbp7c9ef-6sa",
+        "questionType": 1,
+        "title": "建立数据字典的时机是(       )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "需求分析阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "数据库物理设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "数据库实施",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "概念结构设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xt-rabgqclrpyuaorgaw3a",
+        "questionType": 1,
+        "title": "下列聚合函数中不忽略空值(') 的是  (    )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "SUM (列名)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "MAX (列名)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "COUNT ( * )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "AVG (列名)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqx65cgovowul0vg",
+        "questionType": 1,
+        "title": "把对关系SC的属性GRADE的修改权授予用户ZHAO的T-SQL语句是（　  　）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "GRANT GRADE ON SC TO ZHAO",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "GRANT UPDATE ON SC TO ZHAO",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "GRANT UPDATE (GRADE) ON SC TO ZHAO",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "GRANT UPDATE ON SC (GRADE) TO ZHAO",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zj-rabgqp41aojtr5yb-nw",
+        "questionType": 1,
+        "title": "在对象联系图中，双线箭头表示对象间的(   )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "函数值为多值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "属性值为多值",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "泛化/细化联系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "对象之间包含联系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z-rabgqfa1npjmvct04da",
+        "questionType": 1,
+        "title": "在数据管理技术的发展过程中，经历了人工管理阶段、文件系统阶段和数据库系统阶段。在这几个阶段中，数据独立性最高的是（  ）阶段。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "数据库系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "文件系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "人工管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "数据项管理",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uz-rabgqaihdwk4yvs1ifg",
+        "questionType": 1,
+        "title": "设有关系R（A，B，C）和S（C，D）。与SQL语句select A,B,D from R,S where R.C=S.C等价的关系代数表达式是（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "σR.C=S.C(πA，B，D(R×S))",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "πA，B，D(σR，C= S.C (R×S))",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "σR.C=S.C((πA，B R)×(πDS))",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "σR，C=S.C(πD((πA，BR)×S)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xt-rabgqxlrlasss-vahhq",
+        "questionType": 1,
+        "title": "五种基本关系代数运算是(      )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "∪，-，×，π和σ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "∪，-，?，π和σ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "∪，∩，×，π和σ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "∪，∩，?，π和σ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "halsalwrhybebw2jsbipqw",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;设U是所有属性的集合，X、Y、Z都是U的子集，且Z=U-X-Y。下面关于多值依赖的叙述中，不正确的是( &nbsp; )。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "若X→→Y，则X→→Z",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "若X→Y，则X→→Y",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "<p><img data-url=\"http://file.zhaomingedu.com/data/test/2010/0313/14/141709_873_KJxCMGi.png\" data-preview_url_ueditor=\"http://file.zhaomingedu.com/data/test/2010/0313/14/141709_873_KJxCMGi.png\" src=\"http://file.zhaomingedu.com/doc/download/KJxCMGi\"></p>",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "若Z=Φ，则X→→Y",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pd-rabgqzppmo9a0kk-gfw",
+        "questionType": 1,
+        "title": "若系统在运行过程中，由于某种硬件故障，使存储在外存上的数据部分损失或全部损失，这种情况称为(       )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "事务故障",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "系统故障",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "介质故障",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "运行故障",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wd-rabgqb4bnqrdpeieicg",
+        "questionType": 1,
+        "title": "数据库管理系统能实现对数据库中数据的查询、插入、修改和删除等操作的数据库语言称为（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "数据定义语言（DDL）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "数据管理语言",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "数据操纵语言（DML）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "数据控制语言",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z-rabgqvzxauyqecmaj0w",
+        "questionType": 1,
+        "title": "在数据库设计中，将E－R图转换成关系数据模型的过程属于（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "需求分析阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "物理设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "逻辑设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "概念设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zj-rabgqj4fmtnoi4ywmhq",
+        "questionType": 1,
+        "title": "在SQL语言的SELECT语句中，实现投影操作的是哪个子句？（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "select",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "from",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "Where",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "group by",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hjnwabgqe5vphrl2mzjv1q",
+        "questionType": 1,
+        "title": "<p><img data-url=\"doc/a@8B5314BDE644B8D6B33EC47E01550E8A.png\" data-preview_url_ueditor=\"doc/a@8B5314BDE644B8D6B33EC47E01550E8A.png\" src=\"http://dianbo.upol.upc.edu.cn/doc/a@8B5314BDE644B8D6B33EC47E01550E8A.png/download?time=636882571756934059&token=BE1D2FCDDAA2D6778AF42EFF5018A529&filename=png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "该操作不存在问题",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "该操作丢失修改",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "修改该操作不能重复读",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "该操作读“脏\"数据",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zj-rabgqjy5brargwnwsgg",
+        "questionType": 1,
+        "title": "在SQL中，可以用谓词EXISTS来测试一个集合中是否（   ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "有相同元组存在",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "为空集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "有相同分量存在",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "为非空集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqizbfwlp8jynicw",
+        "questionType": 1,
+        "title": "对关系模型叙述错误的是（     ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "建立在严格的数学理论、集合论和谓词演算公式的基础之上",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "微机DBMS绝大部分采取关系数据模型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "用二维表表示关系模型是其一大特点",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "不具有连接操作的DBMS也可以是关系数据库系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqo5laizsjvcjpfa",
+        "questionType": 1,
+        "title": "关系演算的基础是(       )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "形式逻辑中的逻辑演算",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "形式逻辑中的关系演算",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "数理逻辑中的谓词演算",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "数理逻辑中的形式演算",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqaixjlwafrq1m8g",
+        "questionType": 1,
+        "title": "假定学生关系是S（S＃，SNAME，SEX，AGE），课程关系是C（C＃，CNAME，TEACHER），学生选课关系是SC（S＃，C＃，GRADE）。要查找选修“COMPUTER”课程的“女”学生姓名，将涉及到关系（     ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "S",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "SC，C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "S，SC",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "S，C，SC",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xt-rabgqrqrd0d0dooht0a",
+        "questionType": 1,
+        "title": "下面哪个不是数据库系统必须提供的数据控制功能（     ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "安全性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "可移植性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "完整性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "并发控制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z-rabgqiqjntrsr57eueg",
+        "questionType": 1,
+        "title": "在合并分E-R图时必须消除各分图中的不一致。各分E-R图之间的冲突主要有三类，即属性冲突、命名冲突和结构冲突，其中命名冲突是指（     ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "命名太长或太短",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "同名异义或同义异名",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "属性类型冲突",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "属性取值单位冲突",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wd-rabgqxkvegmwa6kksog",
+        "questionType": 1,
+        "title": "设有关系模式EMP（职工号，姓名，年龄，技能）。假设职工号唯一，每个职工有多项技能，则EMP表的主码是（　    ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "职工号",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "姓名，技能",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "技能",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "职工号，技能",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xt-rabgqwpnaph9b3k9vig",
+        "questionType": 1,
+        "title": "数据库系统与文件系统的主要区别是（　  　）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "数据库系统复杂，而文件系统简单",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "文件系统不能解决数据冗余和数据独立性问题，而数据库系统可以解决",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "文件系统只能管理程序文件，而数据库系统能够管理各种类型的文件",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "文件系统管理的数据量较少，而数据库系统可以管理庞大的数据量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "85r0abgqgyxogcj9ab-q0w",
+        "questionType": 1,
+        "title": "<p><img data-url=\"doc/a@1CE877D49F00866E4248C50AC3B19E5B.png\" data-preview_url_ueditor=\"doc/a@1CE877D49F00866E4248C50AC3B19E5B.png\" src=\"http://dianbo.upol.upc.edu.cn/doc/a@1CE877D49F00866E4248C50AC3B19E5B.png/download?time=636882576837822943&token=0D9092B97D2CAAC46482F7FC68857BBA&filename=png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "A",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "B",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "C",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "D",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgq5ajiy0yuru9tta",
+        "questionType": 1,
+        "title": "给定关系模式SCP（Sno,Cno,P），其中Sno表示学号，Cno表示课程号，P表示名次。若每一名学生每门课程有一定的名次，每门课程每一名次只有一名学生，则以下叙述中错误的是（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "（Sno，Cno）和（Cno，P）都可以作为候选码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "（Sno，Cno）是唯一的候选码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "关系模式SCP既属于3NF也属于BCNF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "关系模式SCP没有非主属性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xt-rabgq8rljmb7z5sn0la",
+        "questionType": 1,
+        "title": "下列哪种运算不属于关系代数的基本运算（   ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "连接",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "笛卡尔积",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "相减",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "投影",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wd-rabgqqkbgd67tpwozna",
+        "questionType": 1,
+        "title": "事务的原子性是指（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一个事务内部的操作及使用的数据对并发的其他事务是隔离的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "事务一旦提交，对数据库的改变是永久的",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "事务中包括的所有操作要么都做，要么都不做",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "事务必须是使数据库从一个一致性状态变到另一个一致性状态",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z-rabgqalldrj612267ow",
+        "questionType": 1,
+        "title": "在关系数据库设计中，设计关系模式是（     ）的任务。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "需求分析阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "概念设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "逻辑设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "物理设计阶段",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zj-rabgqjillkmfreyzzgw",
+        "questionType": 1,
+        "title": "在关系代数中，对一个关系做投影操作后，新关系的元组个数（     ）原来关系的元组个数。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "小于",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "小于或等于",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "等于",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "大于",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqrbfpiwgn2syyfa",
+        "questionType": 1,
+        "title": "查询优化策略中，正确的策略是（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "尽可能早地执行笛卡尔积操作",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "尽可能早地执行并操作",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "尽可能早地执行差操作",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "尽可能早地执行选择操作",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqkijezohe228yvq",
+        "questionType": 1,
+        "title": "关系运算中花费时间可能最长的运算是（     ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "投影",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "选择",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "笛卡尔积",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "除",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "mj-rabgqnanbjm4mk1v2xw",
+        "questionType": 1,
+        "title": "ER图是一种直观表示何种模型的工具（   ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "结构数据模型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "关系数据模型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "概念数据模型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "层次和网状模型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wd-rabgqql9j7lvz-xgfzg",
+        "questionType": 1,
+        "title": "数据库类型是按照(       )来划分的。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "文件形式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "数据模型",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "记录形式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "数据存取方法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqw4niqsfv2vufug",
+        "questionType": 1,
+        "title": "FoxBASE、FoxPro属于（    ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "表式系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "最小关系系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "关系完备的系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "全关系系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nz-rabgqsilbqnahjsg4-q",
+        "questionType": 1,
+        "title": "关系规范化中的删除操作异常是指（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "不该删除的数据被删除",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "不该插入的数据被插入",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "应该删除的数据未被删除",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "应该插入的数据未被插入",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uz-rabgqhibbrphjrfly2w",
+        "questionType": 1,
+        "title": "设属性A是关系R的主属性，则属性A不能取空值（'）。这是（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "实体完整性规则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "参照完整性规则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "用户定义完整性规则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "域完整性规则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yt-rabgqu6vbjhjsge6hwg",
+        "questionType": 1,
+        "title": "在DB应用中，一般一条SQL 语句可产生或处理一组记录，而DB主语言语句一般一次只能处理一条记录，其协调可通过哪种技术实现（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "指针",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "游标",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "数组",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "栈",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yt-rabgqiz1fklrkawd73a",
+        "questionType": 1,
+        "title": "约束”年龄限制在18—30岁之间”属于DBMS的哪种功能（   ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "安全性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "完整性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "并发控制",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "恢复",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pd-rabgqsi1obov-1jmkjg",
+        "questionType": 1,
+        "title": "若事务T对数据对象A加上S锁，则（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "事务T可以读A和修改A，其它事务只能再对A加S锁，而不能加X 锁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "事务T可以读A但不能修改A，其它事务能对A加S锁和X锁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "事务T可以读A但不能修改A，其它事务只能再对A加S锁，而不能加X 锁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "事务T可以读A和修改A，其它事务能对A加S锁和X锁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z-rabgqjjzekzcmyiflhw",
+        "questionType": 1,
+        "title": "在关系模型中，实现关系中不允许出现相同的元组的约束是通过(   )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "侯选键",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "主键",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "外键",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "超键",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "svh-avsqfadbkgnx8efdda",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;在数据库系统的三级模式结构中，用来描述数据的全局逻辑结构的是（ &nbsp;）。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "子模式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "用户模式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "模式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "存储模式",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xt-rabgqzadkitfo48iq-a",
+        "questionType": 1,
+        "title": "学校数据库中有学生和宿舍两个关系：学生（学号，姓名）和 宿舍（楼名，房间号，床位号，学号），假设有的学生不住宿，床位也可能空闲。如果要列出所有学生住宿和宿舍分配的情况，包括没有住宿的学生和空闲的床位，则应执行（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "全外联接",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "左外联接",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "右外联接",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "自然联接",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vrp-avsq1qvla-3cifc0qa",
+        "questionType": 1,
+        "title": "<p>&nbsp; &nbsp;从E-R模型向关系模型转换时，一个M:N联系转换为关系模型时，该关系模型的码是（ &nbsp; &nbsp; ）。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "M端实体的码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "N端实体的码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "M端实体码与N端实体码组合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "重新选取其他属性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lj-rabgqrqlidrklvim1xw",
+        "questionType": 1,
+        "title": "1级封锁协议加上T要读取的数据R加S锁，这是(       )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3级封锁协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "4级封锁协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2级封锁协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1级封锁协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yt-rabgqm6thyzv7my9n9w",
+        "questionType": 1,
+        "title": "语句delete from sc 表明（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "删除sc中的全部记录",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "删除基本表sc",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "删除基本表sc中的列数据",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "删除基本表sc中的部分行",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0z-rabgqkjnp632-bd9v-g",
+        "questionType": 1,
+        "title": "在下列实体类型的联系中，一对多联系的是（  ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "学校与课程的学习联系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "班级与学生的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "省与省会的关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "顾客与商品的购买关系",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pd-rabgqii9bzf065s03gq",
+        "questionType": 1,
+        "title": "若要求分解保持函数依赖，那么模式分解一定能够达到(       )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "2NF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "3NF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "BCNF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1NF",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wd-rabgqglrfnziwozva8g",
+        "questionType": 1,
+        "title": "数据的逻辑独立性是指（      ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "内模式改变，模式不变",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "模式改变，内模式不变",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "模式改变，外模式和应用程序不变",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "内模式改变，外模式和应用程序不变",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 1.5,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "mrdtabgqb5vk4e6kalwfla",
+    "title": "多项选择题",
+    "remark": "下列各题，有两个或两个以上正确答案，多选、错选、不选、少选均不得分。",
+    "totalScore": 28,
+    "stuQuestions": [
+      {
+        "id": "xvcvabgqyolelryxxeqiqg",
+        "questionType": 3,
+        "title": "设R、S是任意两个同类关系，U是R的关系框架中所有属性的集合，属性集A3、数据库事务的原子性是指事物在执行过程中不能出现中断。（           ）",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oxeaavsqwpxl73z06vb4ma",
+        "questionType": 3,
+        "title": "<p>一个关系的主关键字一定是唯一的。</p>",
+        "resultAnalysis": "<p>无</p>",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wfcvabgqjblpftq5yzvgyw",
+        "questionType": 3,
+        "title": "访问控制是防止对数据库进行非法访问的主要方法。",
+        "resultAnalysis": "无",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yvcvabgq0phh9gzwzwmnlq",
+        "questionType": 3,
+        "title": "在IMS系统中，如果使用HSAM存储结构，那么检索、插入、删除都很方便。（              ）",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yvcvabgqqzhpnqoogaon-q",
+        "questionType": 3,
+        "title": "一个关系模式就是一张二维表的表头。",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yvcvabgqoalfphh52jifwa",
+        "questionType": 3,
+        "title": "完整约束条件的检查总是在事务的每个维护操作执行后立即进行。",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zlcvabgq97ff68njpqjzyw",
+        "questionType": 3,
+        "title": "在OROB中，超表中的每个元组最多可以与每个子表中的一个元组相对应。（        ）",
+        "resultAnalysis": "无",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wfcvabgqgk5bgnf-yunkkq",
+        "questionType": 3,
+        "title": "对一个数据库系统来说，概念级对应于它实际存储的数据。",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "u1cvabgqypdc6hw6yudssw",
+        "questionType": 3,
+        "title": "对关系模式来说，范式级别越高，实际应用效果越好。（           ）",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "yvcvabgqzapfsfgbzf3-xq",
+        "questionType": 3,
+        "title": "数据字典是一个特殊的数据库。",
+        "resultAnalysis": "无",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "u1cvabgqpqzkgtdqpkvupq",
+        "questionType": 3,
+        "title": "对一个客观事物，可以用多种数据模型来描述（   ）。",
+        "resultAnalysis": "无",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "u1cvabgqu6do0ohfxtzppw",
+        "questionType": 3,
+        "title": "层次数据模型可以很好地表示多对多联系。",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xvcvabgqz4hewd74zr-reg",
+        "questionType": 3,
+        "title": "实体间的联系用实体模型来描述。",
+        "resultAnalysis": "无",
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zlcvabgq84xmmyz0cqhmca",
+        "questionType": 3,
+        "title": "在向量结构的顺序文件中，插入记录比较困难。",
+        "resultAnalysis": "无",
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      }
+    ]
+  }
+]
