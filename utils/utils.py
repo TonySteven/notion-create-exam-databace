@@ -22,16 +22,17 @@ def t2s(t):
         return ''
 
 
-def stu_question2options(stuQuestion_options):
+def stu_question2options(stu_question_options):
     """
 
-    :param stuQuestion_options:
+    :param stu_question_options:
     :return:
     """
-    rusult = []
-    for stuQuestion_option in stuQuestion_options:
-        sort_order = stuQuestion_option["sortOrder"]
-        content = stuQuestion_option["content"]
-        rusult.append({"name": sort_order + ' ' + content})
+    result = []
+    for item in stu_question_options:
+        sort_order = item["sortOrder"]
+        # content内容截取前80个字符
+        content = item["content"][0:80]
+        result.append({"name": sort_order + ' ' + content})
 
-    return rusult
+    return result
