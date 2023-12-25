@@ -1,1660 +1,327 @@
 [
   {
-    "id": "pnfxafyqwjbcae9abcu59a",
-    "title": "单项选择题",
-    "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
-    "totalScore": 90,
+    "id": "jzu4aaqrbatodtehqomitw",
+    "title": "多项选择题",
+    "remark": "",
+    "totalScore": 50,
     "stuQuestions": [
       {
-        "id": "710eaq2qx6te7dwphqqp9w",
-        "questionType": 1,
-        "title": "主要由于（）原因，使UNIX易于移植。",
-        "resultAnalysis": "无",
+        "id": "-0nnaa2rl4vijtggjxc08g",
+        "questionType": 2,
+        "title": "<p>下面哪几项表达式在编译运行时会出现错误提示？（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "UNIX是由机器指令书写的",
+            "content": "int a=Integer.parseInt(abc789);",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "UNIX大部分由汇编少部分用C语言编写",
+            "content": "int a=(int)u0027我u0027;",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "UNIX是用汇编语言编写的",
+            "content": "int a=int(u0027我u0027);",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "UNIX小部分由汇编大部分用C语言编写",
+            "content": "int a=Integer.parseInt(u0027au0027);",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "3",
-        "stuAnswer": "3",
+        "answer": "0,2,3",
+        "stuAnswer": "0,2,3",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "810eaq2qgzhfllsqneshsw",
-        "questionType": 1,
-        "title": "下列哪些技术和虚拟存储具有相近之处（）。",
-        "resultAnalysis": "无",
+        "id": "9cloaa2rblrdc9fpfmy30w",
+        "questionType": 2,
+        "title": "<p>若类Inner是类Outer的内部类，则下面说法正确的是（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "覆盖和对换",
+            "content": "Inner不能被Outer的子类继承",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "紧凑和对换",
+            "content": "定义Inner可以用protected修饰",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "共享和覆盖",
+            "content": "Inner是Outer重要的类成员",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "紧凑和覆盖",
+            "content": "Inner可以被Outer的子类继承",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "0",
-        "stuAnswer": "3",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "4v0eaq2q1afdp-20vtv5oq",
-        "questionType": 1,
-        "title": "下面对索引文件描述不正确的选项是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "索引文件和主文件配合使用",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "一般来说主文件为变长记录文件，使用索引文件是为了加快对主文件的检索速度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "索引文件和顺序文件没有什么联系",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "可以说利用索引文件，是用空间来换时间",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
+        "answer": "0,1",
+        "stuAnswer": "0,1",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "4v0eaq2qzrnewcar407o9w",
-        "questionType": 1,
-        "title": "调用银行家算法进行安全序列检查时，（）不是必须要提供的参数。",
-        "resultAnalysis": "无",
+        "id": "evdnaa2rorziyijs8ti55w",
+        "questionType": 2,
+        "title": "<p>下面能体现Java面向对象特性的有？（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "系统资源总量",
+            "content": "类是Java程序的基本单元",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "当前可用量",
+            "content": "动态绑定机制可以实现方法的覆盖",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "用户最大需求量",
+            "content": "Java是高级编程语言",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "用户已占有资源量",
+            "content": "Java有通用类Object",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "0",
-        "stuAnswer": "0",
+        "answer": "0,1,3",
+        "stuAnswer": "0,1,3",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "6l0eaq2qokveu-32bgfrkg",
-        "questionType": 1,
-        "title": "动态重定位是在作业的（）中进行的。",
-        "resultAnalysis": "无",
+        "id": "dipnaa2raqrmueundgrj8q",
+        "questionType": 2,
+        "title": "<p>下面关于Java语言中实例方法和类方法的说法，哪几项是对的？（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "编译过程",
+            "content": "实例方法可以直接通过类名调用",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "装入过程",
+            "content": "类方法可以直接通过类名调用",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "连接过程",
+            "content": "实例方法可以操作实例/类变量",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "执行过程",
+            "content": "类方法可以直接操作类/实例变量",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "3",
-        "stuAnswer": "3",
+        "answer": "1,2",
+        "stuAnswer": "1,2",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "6l0eaq2qqzvbsslno-vlzw",
-        "questionType": 1,
-        "title": "产生死锁的基本原因是（）和进程推进顺序非法。",
-        "resultAnalysis": "无",
+        "id": "ibxnaa2rhrlerkz94xd8-w",
+        "questionType": 2,
+        "title": "<p>下面正确声明一个一维数组的是（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "资源分配不当",
+            "content": "boolean[] a",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "系统资源不足",
+            "content": "int a[]",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "作业调度不当",
+            "content": "char a[][]",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "进程调度不当",
+            "content": "double a[10]",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "0",
-        "stuAnswer": "0",
+        "answer": "0,1",
+        "stuAnswer": "0,1",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "wf0eaq2q4phnxex8wjiqka",
-        "questionType": 1,
-        "title": "文件目录的主要作用是（）。",
-        "resultAnalysis": "无",
+        "id": "lp3laa2rdrnb2fmqatax8q",
+        "questionType": 2,
+        "title": "<p>下列选项代码正确的有（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "按名存取",
+            "content": "int i=0; if (i) { System.out.println(\"OK\"); }",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "提高速度",
+            "content": "boolean b=true; boolean b2=true; if(b==b2) { System.out.println(\"OK\"); }",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "节省空间",
+            "content": "int i=1; int j=2; if(i==1 &| j==2) System.out.println(\"OK\"); ",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "提高外存利用率",
+            "content": "int i=1; int j=2; if (i==1 || j==2) System.out.println(\"OK\");",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "0",
-        "stuAnswer": "0",
+        "answer": "1,3",
+        "stuAnswer": "1,3",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "5v0eaq2q9l9gbvdp-mbclg",
-        "questionType": 1,
-        "title": "在文件管理中，采用位示图主要是用于实现（）。",
-        "resultAnalysis": "无",
+        "id": "rcpnaa2rxkfgdfdwjmranq",
+        "questionType": 2,
+        "title": "<p>下面关于Java语言说法正确的是（&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "磁盘的驱动调度",
+            "content": "Java语言是面向对象的、解释执行的、可以进行网络编程的语言。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "磁盘空间的分配和回收",
+            "content": "Java语言具有可移植性，是与平台无关的编程语言。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "文件目录的查找",
+            "content": "Java语言可对内存垃圾自动收集。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "页面置换",
+            "content": "Java程序虽然是“一次编译，到处运行\"，但必须要有Java的运行环境。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "1",
-        "stuAnswer": "1",
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
         "isRight": 1,
         "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
+        "totalScore": 2,
+        "giveScore": 2,
         "answerPicUrl": ""
       },
       {
-        "id": "krrwafwqayflruxskzgjqa",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;用磁带作为文件存储介质时，文件只能组织成( &nbsp;)</p>",
-        "resultAnalysis": "<p>无</p>",
+        "id": "v-dmaa2rujljy-pq9q-afw",
+        "questionType": 2,
+        "title": "<p>在下面代码中a为何值时输出结果为&quot;2&quot;？（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/13/135946_17720_gFeeAzi.png\"/></p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "顺序文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "链接文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "索引文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "目录文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-v0eaq2q04zpklgok-f8aa",
-        "questionType": 1,
-        "title": "进程从运行状态进入就绪状态的原因可能是(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "被选中占有处理机",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "等待某一事件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "等待的事件已发生",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "时间片用完",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "1",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xf0eaq2qd6pm4v9fmxl-qa",
-        "questionType": 1,
-        "title": "磁带机属于（）设备。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "顺序存取",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "直接存取",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "链接存取",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "随机存取",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "al4eaq2qpbbbomoyqhbhww",
-        "questionType": 1,
-        "title": "文件系统采用多级目录结构后，对于不同用户的文件，其文件名(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "应该相同",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "应该不同",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "可以相同，也可以不同",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "受系统约束",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "5v0eaq2q0azjphzwah9nga",
-        "questionType": 1,
-        "title": "当前运行的进程（），将引发系统进行进程调度。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "执行了一条转移指令",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "要求增加主存空间，经系统调用银行家算法进行测算认为是安全的。",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "执行了一条I/O指令",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "执行程序期间发生了I/O完成中断",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-v0eaq2qhytlvst6dbajlw",
-        "questionType": 1,
-        "title": "已知，作业的周转时间=作业完成时间－作业的到达时间。现有三个同时到达的作业J1，J2和J3，它们的执行时间分别是T1，T2和T3，且T1<T2<T3。系统按单道方式运行且采用短作业优先算法，则平均周转时间是(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "T1＋T2＋T3",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "(T1＋T2＋T3)",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "T1＋ T2＋ T3",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "T1＋ T2＋T3",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "5v0eaq2q85doqk6sv4ypoq",
-        "questionType": 1,
-        "title": "设两个进程共用一个临界资源的互斥信号量mutex，当mutex=-1时表示（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "一个进程进入了临界区，另一个进程等待",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "没有一个进程进入临界区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "两个进程都进入了临界区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "两个进程都在等待",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-v0eaq2qkihfovnwrqgrvw",
-        "questionType": 1,
-        "title": "下列算法中用于磁盘移臂调度的是(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "时间片轮转法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "LRU算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "最短寻找时间优先算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "优先级高者优先算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "110eaq2qlk1dycmlumxgwa",
-        "questionType": 1,
-        "title": "在引入线程的操作系统中，资源拥有的单位是（）",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "进程",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "线程",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "作业",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "1",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "710eaq2qskxnjfrnueipxq",
-        "questionType": 1,
-        "title": "（）的物理结构对文件随机存取时必须按指针进行，但效率较低。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "连续文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "索引文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "链接文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "多级索引文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yv0eaq2qyjjavwwv1bdzpq",
-        "questionType": 1,
-        "title": "（）是一种只能进行P操作和V操作的特殊变量。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "调度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "进程",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "同步",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "信号量",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wf0eaq2qlbdfu8ngedfcmg",
-        "questionType": 1,
-        "title": "原语是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "一条机器指令",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "若干条机器指令组成",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "一条特定指令",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "中途能打断的指令",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yv0eaq2q4pjbwyx1qi08mq",
-        "questionType": 1,
-        "title": "下述解决死锁的方法中，属于死锁预防策略的是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "银行家算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "资源有序分配法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "死锁避免方法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "撤销进程法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "zl0eaq2qspxcq357cjv6oq",
-        "questionType": 1,
-        "title": "分区管理中采用“最佳适应算法”时，宜把空闲区按（）次序登记在空闲区表中。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "长度递增",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "长度递减",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "地址递增",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "地址递减",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "bl4eaq2qxqdb6b-jlb9sea",
-        "questionType": 1,
-        "title": "在可变式分区分配方案中，某一作业完成后，系统收回其主存空间，并与相邻空闲区合并，为此需修改空闲区表，造成空闲区数减1的情况是(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "无上邻空闲区，也无下邻空闲区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "有上邻空闲区，但无下邻空闲区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "有下邻空闲区，但无上邻空闲区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "有上邻空闲区，也有下邻空闲区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "zl0eaq2q6a9pk0tg0fcvjg",
-        "questionType": 1,
-        "title": "通道是一种（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "I/O端口",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "数据通道",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "I/O专用处理器",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "软件工具",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "1",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xf0eaq2qnkfkwwvrvhgfqq",
-        "questionType": 1,
-        "title": "虚拟存储器的最大容量是由（）决定的。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "计算机系统的地址结构和外存空间",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "页表长度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "内存空间",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "逻辑空间",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-hzwafwqt7fa75zhxd9dcg",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;在以下存储管理方案中，不适用于多道程序设计系统的是( &nbsp;)</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "单用户连续分配",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "固定式分区分配",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "可变式分区分配",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "页式存储管理",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "f-bvafwqljlh-zeofvr2vw",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;位示图方法可用于( &nbsp;)</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "盘空间的管理",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "盘的驱动调度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "文件目录的查找",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "页式虚拟存储管理中的页面调度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "al4eaq2qibjbhe8xyi9r-g",
-        "questionType": 1,
-        "title": "多道程序设计是指(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "在实时系统中并发运行多个程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "在分布系统中同一时刻运行多个程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "在一台处理机上同一时刻运行多个程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "在一台处理机上并发运行多个程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "6l0eaq2qvzbjr8unw9zipq",
-        "questionType": 1,
-        "title": "在操作系统中，并发性是指若干个事件（）发生。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "在同一时刻",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "一定在不同时刻",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "某一时间间隔内",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "依次在不同时间间隔内",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-f0eaq2qi7lgakyke87vhg",
-        "questionType": 1,
-        "title": "某系统采用固定分区分配存储管理，内存空间为640K，其中地址0到40K被系统占用，其他空间按分区大小相等的方法划为4个分区，则当有大小分别为7KB、90KB、30KB、20KB的作业进入内存时，浪费的内存为（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "3KB",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "453KB",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "450KB",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "147KB",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "u10eaq2q4bdpamo-mibmcg",
-        "questionType": 1,
-        "title": "逻辑地址就是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "用户地址",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "物理地址",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "相对地址",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "绝对地址",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-f0eaq2qrkjcytdiepsrlw",
-        "questionType": 1,
-        "title": "MS—DOS中用于软盘整盘复制的命令是(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "COMP",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "DISKCOPY",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "SYS",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "BACKUP",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yv0eaq2qfydfoypdibqlia",
-        "questionType": 1,
-        "title": "在UNIX中，通常把设备作为（）文件来处理。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "特殊",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "普通",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "目录文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "设备",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yv0eaq2qkz5arcgtppglow",
-        "questionType": 1,
-        "title": "在下述存储管理技术中，（）处理不当会产生抖动。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "固定分区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "可变分区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "简单分页",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "请求分页",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "810eaq2ql6lcnavfhwaxww",
-        "questionType": 1,
-        "title": "对于硬盘上存放的信息，物理上读写的最小单位是一个（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "二进位",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "字节",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "物理块",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "逻辑记录",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "010eaq2qjqbj4rjt6ca-rw",
-        "questionType": 1,
-        "title": "Unix操作系统的进程控制块中常驻内存的是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "proc结构",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "proc结构和核心栈",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "ppda区",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "proc结构和user结构",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "1",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "810eaq2qwqjhtqilts-o0q",
-        "questionType": 1,
-        "title": "在UNIX系统中，请求调用是采用（）算法。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "LFU",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "FIFO",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "LRU",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "LIFO",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "5v0eaq2qp4vcgv2sgx2vuq",
-        "questionType": 1,
-        "title": "由于系统无法预先知道一个作业未来访问页面的情况，所以（）在实际上是无法实现的。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "先进先出淘汰算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "最近最少使用淘汰算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "最优淘汰算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "最不常用页面淘汰算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "al4eaq2qq6xpr0e-sortwq",
-        "questionType": 1,
-        "title": "一作业8：00到达系统，估计运行时间为1小时，若10：00开始执行该作业，其响应比是(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "2",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
             "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1668,975 +335,14 @@
           },
           {
             "sortOrder": "3",
-            "content": "0.5",
+            "content": "default",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xf0eaq2qiktbnsz5hjeuqw",
-        "questionType": 1,
-        "title": "在进程管理中，当（）时，进程从阻塞状态变为就绪状态。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "进程被进程调度程序选中",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "等待某一事件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "等待的事件发生",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "时间片用完",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "4v0eaq2qq41agy8x9wn1bq",
-        "questionType": 1,
-        "title": "在调试程序时，可以把所有输出送到屏幕显示，而不必正式输出到打印设备，其运用了（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "SPOOLing技术",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "I/O重定向",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "共享技术",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "缓冲技术",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-lzvafwqqrlfnvskcv-uwa",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;MS—DOS的存储管理采用了( &nbsp;)</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "段式存储管理",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "段页式存储管理",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "单用户连续存储管理",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "固定式分区存储管理",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "4n7safwqyrfe0hjj-75ixq",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;虚拟存储器的逻辑地址空间可划分为32个页面，每页长度位1KB，主存16KB，逻辑页面0、1、2、3分别对应的内存物理块号为5、10、4、7，虚拟地址0A6F对应的内存地址是（）。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "126F",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "0A6F",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "2A6F",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "没有内存地址",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wf0eaq2qxlvlza-7tqfd5q",
-        "questionType": 1,
-        "title": "索引式文件组织的一个主要优点是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "不需要链接指针",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "用户存取方便",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "回收实现比较简单",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "能实现物理块的动态分配",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "mknsafwqwbhiq1pqvoikwg",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;操作系统核心部分的主要特点是（）。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "一个程序模块",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "常驻内存",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "有头有尾的程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "串行执行",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "810eaq2qeobjbihvbg184q",
-        "questionType": 1,
-        "title": "下列诸项中，（）不是影响缺页中断率的主要因素。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "缺页中断服务速度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "分配给作业的物理块数",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "系统规定页面的大小",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "页面调度算法",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "010eaq2q9rdd9n21-d4ltw",
-        "questionType": 1,
-        "title": "如果文件采用直接存取方式且文件的大小不固定，则宜选择（）文件结构。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "直接",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "顺序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "随机",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "索引",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wf0eaq2qbrlpb5t89fxcka",
-        "questionType": 1,
-        "title": "在计算机系统中，操作系统是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "一般应用软件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "系统软件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "用户应用软件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "系统支撑软件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "u10eaq2qfl1ntnncdlfrpq",
-        "questionType": 1,
-        "title": "系统调用是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "一条机器指令",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "用户子程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "中断子程序",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "提供编程人员的接口",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "3f0eaq2qxazl5cqysgdhlq",
-        "questionType": 1,
-        "title": "在请求分页系统中，一个进程初始执行连续访问页面的次序为：0、2、1、3、0、2、4、0、2、1、3、4，利用FIFO页面淘汰算法，进程内存只能保存3个页面，共发生的缺页次数为（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "8",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "9",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "7",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "10",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "tl0eaq2qlivpb2ibyiolsg",
-        "questionType": 1,
-        "title": "引入进程概念的关键在于（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "独享资源",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "共享资源",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "顺序执行",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "便于执行",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "710eaq2qsyzmeq55ycnr-g",
-        "questionType": 1,
-        "title": "UNIX系统中，进程调度采用的技术是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "时间片轮转",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "先来先服务",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "静态优先数",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "动态优先数",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "0",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "-f0eaq2qfo1hxid-ibkpla",
-        "questionType": 1,
-        "title": "用户程序在目态下使用特权指令将引起的中断是属于(  )",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "硬件故障中断",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "程序中断",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "外部中断",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "访管中断",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "110eaq2qaazlt-2eg1lshw",
-        "questionType": 1,
-        "title": "（）对用户是透明的。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "文件目录",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "虚拟存储器",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "文件名",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "键盘",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "010eaq2q9zfeqx0ljerqcg",
-        "questionType": 1,
-        "title": "UNIX系统中把设备分为（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "输入设备和输出设备",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "字符设备和块设备",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "系统设备和用户设备",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "共享设备和虚拟设备",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "0",
-        "isRight": 2,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "rljsafwqfjrgarqnahayla",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;一个32位的虚拟地址分成4个域，每个域的长度分别为a、b、c、d位，其中d为页内地址，则系统最多可有（）虚拟页面。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "a+b+c",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "2a+b+c",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "d",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "2d",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wf0eaq2qg5dgbfbt17oejw",
-        "questionType": 1,
-        "title": "几年前一位芬兰大学生在Internet 上公开发布了以下一种免费操作系统（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "Windows  NT",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "Linux",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "UNIX",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "OS2",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "1",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "110eaq2qujfm5byq0yonuq",
-        "questionType": 1,
-        "title": "进程从执行状态到阻塞状态是由（）完成的。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "进程调度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "其它进程调用阻塞原语",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "硬件自动",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "进程自身调用阻塞原语",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "3",
-        "stuAnswer": "3",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "zl0eaq2qpydhuemr1kna-a",
-        "questionType": 1,
-        "title": "如果I/O设备与存储设备进行数据交换不经过CPU来完成，这种数据交换方式是（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "程序查询",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "中断方式",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "DMA方式",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "无条件存取方式",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "2",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "u10eaq2qeo9jug3pltilpa",
-        "questionType": 1,
-        "title": "可重定位内存的分区分配目的为（）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "解决碎片问题",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "便于多作业共享内存",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "回收空白区方便",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "便于用户干预",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "0",
-        "isRight": 1,
-        "isAssignmented": 1,
-        "totalScore": 1.5,
-        "giveScore": 1.5,
-        "answerPicUrl": ""
-      }
-    ]
-  },
-  {
-    "id": "y4fxafyqjjbgvmfr1asstq",
-    "title": "多项选择题",
-    "remark": "下列各题，有两个或两个以上正确答案，多选、错选、不选、少选均不得分。",
-    "totalScore": 10,
-    "stuQuestions": [
-      {
-        "id": "dxesaa6qcpdhlwk4oa4d5q",
-        "questionType": 2,
-        "title": "驱动调度算法中(  )和(  )算法可能会随时改变移动臂的运动方向。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "电梯调度",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "先来先服务",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "扫描",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "单向扫描",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "4",
-            "content": "最短寻找时间优先",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1,4",
-        "stuAnswer": "1,4",
+        "answer": "1,2",
+        "stuAnswer": "1,2",
         "isRight": 1,
         "isAssignmented": 1,
         "totalScore": 2,
@@ -2644,49 +350,42 @@
         "answerPicUrl": ""
       },
       {
-        "id": "chesaa6qeynpq30-t3nosa",
+        "id": "vvvoaa2r5rnh3grirqjfjq",
         "questionType": 2,
-        "title": "能影响中断响应次序的技术是(  )和(  )。",
-        "resultAnalysis": "无",
+        "title": "<p>在Java语言中，下面哪些说法是正确的？（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "时间片",
+            "content": "一个接口只能继承一个父接口",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "中断",
+            "content": "一个类只允许继承一个父类",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "中断优先级",
+            "content": "一个类只能实现一个接口",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "中断屏蔽",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "4",
-            "content": "特权指令",
+            "content": "一个类可以实现多个接口",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "2,3",
-        "stuAnswer": "2,3",
+        "answer": "1,3",
+        "stuAnswer": "1,3",
         "isRight": 1,
         "isAssignmented": 1,
         "totalScore": 2,
@@ -2694,49 +393,42 @@
         "answerPicUrl": ""
       },
       {
-        "id": "dxesaa6q3prjj2bephvjwq",
+        "id": "wmtmaa2rh4ziyfr2i4htog",
         "questionType": 2,
-        "title": "下述MS—DOS的文件中(  )和(  )是有关设备管理的程序。",
-        "resultAnalysis": "无",
+        "title": "<p>下面哪些项正确演示了继承关系？（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "BOOT",
+            "content": "interface Component{ } \t\tclass Container extends Component{ }",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "COMMAND.COM",
+            "content": "class Father { } \t\tclass son extends Father { }",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "IBMBIO.COM",
+            "content": "abstract class Colorable { } \t\tclass Shape extends Colorable { }",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "IBMDOS.COM",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "4",
-            "content": "ROMBIOS",
+            "content": "interface Person { } \t\tpublic class Employee implements Person{ }",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "2,4",
-        "stuAnswer": "2,4",
+        "answer": "1,2,3",
+        "stuAnswer": "1,2,3",
         "isRight": 1,
         "isAssignmented": 1,
         "totalScore": 2,
@@ -2744,42 +436,207 @@
         "answerPicUrl": ""
       },
       {
-        "id": "dxesaa6qpj9pnpq2git4lq",
+        "id": "aa-paa2rzrtbkem-axt-ga",
         "questionType": 2,
-        "title": "作业与进程的主要区别是(  )和(  )。",
-        "resultAnalysis": "无",
+        "title": "<p>下面叙述哪些是正确的？(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "前者是由用户提交，后者是由系统自动生成",
+            "content": "java中，子类不可以访问父类的私有成员和受保护的成员。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "两者执行不同的程序段",
+            "content": "在java中，可以用异常（Exception）来抛出一些并非错误的消息。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "前者以用户任务为单位，后者是操作系统控制的单位",
+            "content": " java接口包含抽象方法定义和常量声明。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "前者是批处理的，后者是分时的",
+            "content": " java中的容器（如Vector）可以用来存储任何类型的对象。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "7-vpaa2rq5fjxurmizqvma",
+        "questionType": 2,
+        "title": "<p>public static void main方法可以通过Eclipse编译的参数描述是(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) 。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "String args[] ",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
-            "sortOrder": "4",
-            "content": "后者可并发执行，前者则不行",
+            "sortOrder": "1",
+            "content": "String[] args",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "String []args",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "String args",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2",
+        "stuAnswer": "0,1,2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "crbpaa2rwzxo6evnlqkwsq",
+        "questionType": 2,
+        "title": "<p>下面哪几个函数是public void example(){...}的重载函数？(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) 。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "public void example( int m){...}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "public int example(){...}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": " public void example2(){...} ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "public int example ( int m， float f){...}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,3",
+        "stuAnswer": "0,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cn7paa2rmr9p0pzzvn0peq",
+        "questionType": 2,
+        "title": "<p>在Java中，下面关于包的陈述中正确的是(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) 。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "包的声明必须在文件首行。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "包的声明必须紧跟在import语句的后面。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "只有公共类才能放在包中。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "多个文件生成的类可以放在同一个包中。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,3",
+        "stuAnswer": "0,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fdlraa2ri5zhnsavftvu1g",
+        "questionType": 2,
+        "title": "<p>若A、B是类，I1、I2是接口，则下面关于的语句哪些是正确的？ (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "class B extends A {\t\t……\t}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "class A extends I1 I2{\t\t……\t}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "class A implements I1， I2 {\t\t…… \t}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "class A implements I1， implements I2 {}",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -2794,53 +651,2256 @@
         "answerPicUrl": ""
       },
       {
-        "id": "dxesaa6qzivhnz3jj9g12g",
+        "id": "onlqaa2rtjrnnycesficmg",
         "questionType": 2,
-        "title": "文件的二级目录结构由(  )和(  )组成。",
-        "resultAnalysis": "无",
+        "title": "<p>下面有关变量及其作用域的陈述哪些是对的？(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "根目录",
+            "content": "非静态的局部变量失效即被被销毁。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "子目录",
+            "content": "形参变量只在定义它的方法内有效。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "主文件目录",
+            "content": "类变量可以被用户释放掉内存。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "用户文件目录",
+            "content": "静态变量会保持到程序运行结束。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,3",
+        "stuAnswer": "0,1,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "r43qaa2rairfmlen99zsvq",
+        "questionType": 2,
+        "title": "<p>下面有关抽象类，哪些叙述是对的？(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) 。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "抽象类一定包含抽象方法。",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
-            "sortOrder": "4",
-            "content": "当前目录",
+            "sortOrder": "1",
+            "content": "含有抽象方法的类是抽象类。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "抽象类可以包含非抽象方法。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "抽象类可以不包含抽象方法。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1,2,3",
+        "stuAnswer": "1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "o13qaa2r3knecytpimnnpa",
+        "questionType": 2,
+        "title": "<p>下列哪些表达式返回的是true？(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )&nbsp;</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "\"john\" == \"john\" ",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": " \"john\".equals(\"john\")",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": " \"john\" = \"john\"",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "\"john\".equals(new String(\"john\"))",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,3",
+        "stuAnswer": "0,1,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pevpaa2rtjnmbzecdgqj-g",
+        "questionType": 2,
+        "title": "<p>在Java中，关于final关键字的说法正确的是(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) 。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "修饰的变量只有一次赋值机会。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "如果修饰类，则该类只能被一个子类继承。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "修饰的方法不能在子类中被覆盖。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "修饰的方法所在的类不能被继承。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,2",
+        "stuAnswer": "0,2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "udzoaa2ry6bjp8jveesyjw",
+        "questionType": 2,
+        "title": "<p>下面哪些说法是错误的？(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) 。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "用New运算符来创建的对象，一旦失效则立即被做垃圾回收。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "java允许程序员直接释放对象的内存。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "java函数的参数传递规定，所有的原始类型（如整数）和对象都为地址传递。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "java函数的返回值类型不是函数重载的依据。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2",
+        "stuAnswer": "0,1,2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "rofsaa2ruzdpbytcruslaa",
+        "questionType": 2,
+        "title": "<p>存储一组数量不确定的数据应选下面哪些容器(&nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "LinkedList",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "Vector",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "Stack",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "ArrayList",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1,2,3",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "xrbsaa2rlbjfbeyrbbwe6w",
+        "questionType": 2,
+        "title": "<p>下面的表达式哪些是全部正确的? (&nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "String s=\"你好\";int i=1; s=i+s;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "String s=\"你好\"; int i=1; s+=i;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "String s=\"你好\";int i=1; s=++i;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "String s=\"你好\"; int i=1; if(i!=s){ s=i };",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,1",
+        "stuAnswer": "0,1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 2,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "2tbtaa2ruovbvqptmyle0w",
+        "questionType": 2,
+        "title": "<p>构造方法BufferedInputStream()的合适参数类型是哪些? (&nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "InputStream",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "FileOuterStream",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "FileInputStream",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "OutputStream",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,2",
+        "stuAnswer": "0,1,2,3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "q27taa2raqxgjrqkrwpzkg",
+        "questionType": 2,
+        "title": "<p>下列说法正确的是(&nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "抽象类不能被继承",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "接口只能被实现不能被继承",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "内部类不能被继承",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "Double a=1.0是正确的java语句",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
         "answer": "2,3",
-        "stuAnswer": "2,3",
+        "stuAnswer": "0,1",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "lufsaa2rzz1kgfh08qts3a",
+        "questionType": 2,
+        "title": "<p>选出合理的标识符(&nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "_sys1_lll",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2mail",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "$change",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "class",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0,2",
+        "stuAnswer": "0,2",
         "isRight": 1,
         "isAssignmented": 1,
         "totalScore": 2,
         "giveScore": 2,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "mvs4aaqryirhrl8j991lda",
+    "title": "单选题",
+    "remark": "",
+    "totalScore": 40,
+    "stuQuestions": [
+      {
+        "id": "achiaa2rwp5ojwmp-2lusw",
+        "questionType": 1,
+        "title": "<p>若在类A定义中定义方法：abstract int performDial( ); 则该方法属于（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "接口方法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "抽象方法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "最终方法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "空方法",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "bb-haa2rtlda85w6s6vfka",
+        "questionType": 1,
+        "title": "<p>下面的选项中，哪一项不属于“汽车类”的行为（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "启动",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "刹车",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "减速",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "速度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "byhgaa2rpo5iu5dxeo7lba",
+        "questionType": 1,
+        "title": "<p>编译Java程序的命令是：</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "appletviewer",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "javac",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "java",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "javadoc",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "afhgaa2rd59botn-iw-b4q",
+        "questionType": 1,
+        "title": "<p>执行语句int i = 1, j = ++i; 后i与j的值分别为（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1与1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2与1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2与2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "1与2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "3",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "culjaa2rklrhipwgbrb7lw",
+        "questionType": 1,
+        "title": "<p>System.out.println(&quot;5&quot; + 2);的输出结果应该是（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "52",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "7",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "dcphaa2rsz9dcmc-jtbe9w",
+        "questionType": 1,
+        "title": "<p>main方法是Java程序的入口，关于main方法的方法头以下哪项是合法的？（&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "public static void main()",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "public static void main(String[] args)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "public static int main(String [] arg)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "public void main(String arg[])",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-k-jaa2r4rzkocmiqipn3q",
+        "questionType": 1,
+        "title": "<p>在Java中，常量&quot;456&quot;属于（ &nbsp;&nbsp;）类的对象。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "int",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "String",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "Integer",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "char",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "gllhaa2rhjpaxcdrxhetoq",
+        "questionType": 1,
+        "title": "<p>下列哪个选项不是Java语言的特点？（&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "面向对象",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "高安全性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "平台无关",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "面向过程",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "finhaa2rv61oj-urshsx0a",
+        "questionType": 1,
+        "title": "<p>下列哪个是合法的Java标识符？（&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "Tree&Glasses",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "FirstJavaApplet",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "*theLastOne",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "273.5",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ddfjaa2rm5llyzb4qa6cqw",
+        "questionType": 1,
+        "title": "<p>有如下程序段：</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/12/121114_10443_kmYGeFi.png\"/></p><p>则执行完该程序段后total的值为：（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kehfaa2rijvehgsf9wlk-w",
+        "questionType": 1,
+        "title": "<p>下面哪一个操作符的优先级最高？ （&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "&&",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "||",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "!",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "+",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "kihgaa2r4jdaenbyx7ibpg",
+        "questionType": 1,
+        "title": "<p>下列方法头中哪一个不与其他方法形成重载(overload)关系?（&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "void mmm()",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "void mmm(int i)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "void mmm(String s)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "int mm()",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fchkaa2rapvco6fh8mllha",
+        "questionType": 1,
+        "title": "<p>为类A的一个无参无返回值的方法method书写方法头，使之可用类名调用(&nbsp;&nbsp; )。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "static void method( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "public void method( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "final void method( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "abstract void method( )",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hxdjaa2r4pbglgfjff2zjg",
+        "questionType": 1,
+        "title": "<p>若某个变量只能被本类及其子类的成员使用 ,则使用下列哪个访问控制修饰（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "private",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "protected",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "默认",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "public",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iztiaa2rsorna3q4zm-rww",
+        "questionType": 1,
+        "title": "<p>有如下程序段:</p><p>&nbsp;&nbsp; &nbsp;int a, b; a = b = 5;&nbsp;&nbsp; &nbsp;String s1 = &quot;祝你今天考出好成绩！&quot;;&nbsp;&nbsp; &nbsp;String s2 = s1;</p><p>则表达式a == b与s2 == s1的结果分别是：（&nbsp;&nbsp; ）。</p><p><br/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "false与true",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "true与true",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "true与false",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "false与false",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "l07kaa2rh7fch6oqa-ctag",
+        "questionType": 1,
+        "title": "<p>下面声明数组的错误写法是（&nbsp;&nbsp; ）。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "int a[ ];",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "int[ ] a;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "int[ ][ ] a;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "int[ ][3] a;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "nyviaa2rvodgirwyucxhwg",
+        "questionType": 1,
+        "title": "<p>在Java中用什么关键字修饰的方法是不能被覆盖的？（&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "final",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "protected",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "public",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "void",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "tqvfaa2rvp5bo60dgdhg3w",
+        "questionType": 1,
+        "title": "<p>若 int a=3, c=1;&nbsp; 时，则下列程序段被执行后，c的值是多少？（&nbsp; &nbsp;）</p><p>&nbsp; if ( a&gt;0 )&nbsp; if ( a&gt;3 ) c = 2; &nbsp;else c = 3; &nbsp;else c = 4;</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "3",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "uvlhaa2rfpfa38cztah7tw",
+        "questionType": 1,
+        "title": "<p>下面哪一个循环会导致死循环？（&nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "for (int k = 0; k < 0; k++)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "for (int k = 10; k > 0; k--)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "for (int k = 0; k < 10; k--)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "for (int k = 0; k <1; k++)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wclgaa2rlrnm5m7jtd15ow",
+        "questionType": 1,
+        "title": "<p>编译Java源程序文件将产生相应的字节码文件，这些字节码文件的扩展名为(&nbsp; &nbsp;)。</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "byte",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": ".class",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": ".html",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": ".exe",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "0vfnaa2rpi9hyjtlra4isq",
+        "questionType": 1,
+        "title": "<p>类ClassDemo中定义了一个静态变量sum，分析下面程序段的输出结果。（&nbsp; &nbsp; &nbsp;）</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/12/122643_29412_pEAyndi.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "11",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "14-maa2r-4xlvf3ferjwtw",
+        "questionType": 1,
+        "title": "<p>下面说法正确的是(&nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一个子类的对象可以接收其父类对象能接收的全部消息。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "当子对象和父对象能接收同样的消息时，它们针对消息产生的行为一定相同。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "父类一定比它的子类的方法更多。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "子类在构造方法中可以借助super关键字来调用父类的构造方法。",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "2",
+        "isRight": 2,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "8mzoaa2rrzbfeejwshfrla",
+        "questionType": 1,
+        "title": "<p>下面哪个流的类属于面向字符的输入流 (&nbsp;&nbsp; &nbsp;&nbsp;)</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "BufferedWriter",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "FileInputStream",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "ObjectOutputStream",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "InputStreamReader",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "c4voaa2rmzpbun1dniczjq",
+        "questionType": 1,
+        "title": "<p>下列哪种异常是检查型异常，需要在编写程序时声明 （&nbsp; &nbsp; &nbsp;)</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "NullPointerException",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "ClassCastException",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": " FileNotFoundException",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "IndexOutOfBoundsException",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "afrmaa2rxldkckqw4um5ow",
+        "questionType": 1,
+        "title": "<p>给出下面代码段, 哪行将引起一个编译时错误？（&nbsp; &nbsp; &nbsp;）</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/12/122508_26045_MhUkCpi.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "行10",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "行4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "行6",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "行9",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "burmaa2rfz9ax-blhj14tw",
+        "questionType": 1,
+        "title": "<p>下面哪一个是合法的定义和创建一维数组的语句(&nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "int[] ages = [100];",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "int ages = new int[100];",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "int[] ages = new int[100];",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "int() ages = new int(100);",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cyxpaa2rek9clamuj-w-hw",
+        "questionType": 1,
+        "title": "<p>下面哪一行代码正确的声明了一个类方法(静态方法)？（&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "public int method(int i)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "protected method(int i)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "public static method(String s)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "protected static void method(Integer i)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cvbqaa2rulhhkqhryu6-5w",
+        "questionType": 1,
+        "title": "<p>Java的集合框架中重要的接口java.util.Collection定义了许多方法。选项中哪个方法不是Collection接口所定义的？(&nbsp; &nbsp;&nbsp;&nbsp;)</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "int size()",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "boolean containsAll(Collection c)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "compareTo(Object obj)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "boolean remove(Object obj)",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "hhbpaa2rvltdecoo8j6rhg",
+        "questionType": 1,
+        "title": "<p>下面的方法，当i值为2的时候返回值是多少?（&nbsp; &nbsp;&nbsp;&nbsp;）</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/12/123435_22011_XUFEEei.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "0",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "4",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "10",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "fylqaa2reolfgwiggspo9g",
+        "questionType": 1,
+        "title": "<p>一个线程在任何时刻都处于某种线程状态（thread state）,例如运行状态、阻塞状态、就绪状态等。一个线程可以由选项中的哪种线程状态直接到达运行状态？(&nbsp; &nbsp;&nbsp;&nbsp;)</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "死亡状态",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "阻塞状态（对象lock池内）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "阻塞状态（对象wait池内）",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "就绪状态",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "i57naa2rtq9ggujedd-oiw",
+        "questionType": 1,
+        "title": "<p>下面这些类型的应用，哪个通常不使用Java语言来编写？ （&nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "Asp",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "Applet",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "Servlet",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "Javca Swing",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "pqrlaa2rgkdpkwe6lbqkaa",
+        "questionType": 1,
+        "title": "<p>Java编程默认引用包为(&nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "java.sys包",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "java.lang包",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "java.util包",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以上都不是",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-snqaa2rq7xit25-7obcxg",
+        "questionType": 1,
+        "title": "<p>选项中哪一行代码可以替换题目中“//add code here”而不产生编译错误？（&nbsp; &nbsp;&nbsp;&nbsp;）</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/12/123919_12562_OMBktii.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "public abstract void method(int a);",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "public double method(){}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "public int method();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "public abstract void anotherMethod() {}",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "q-hlaa2r8qtiq-mxiinzdg",
+        "questionType": 1,
+        "title": "<p>下面语句在编译时不会出现警告或错误的是(&nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "float f=3.14;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "Boolean b=';",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "char c= \"c\";",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "int i=10.0;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "oxhqaa2rdizncbhi5lmelw",
+        "questionType": 1,
+        "title": "<p>新建一个字符串对象，下面哪个选项的代码是正确的？（&nbsp; &nbsp;&nbsp;&nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "String s= u00270u0027;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "String s=\"0\";",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "new char(\"0\");",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "String s;",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "najoaa2rvlzaj2aez8eopa",
+        "questionType": 1,
+        "title": "<p>声明成员变量时,如果不使用任何访问控制符(public, protected, private)，则以下哪种类型的类不能对该成员进行直接访问 （&nbsp; &nbsp; &nbsp; )</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "同一类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "同一包中的子类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "同一包中的非子类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "不同包中的子类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "2",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "s-dpaa2rf7vcclv0n--y7g",
+        "questionType": 1,
+        "title": "<p>getCustomerInfo()方法如下，try中可以捕获三种类型的异常，如果在该方法运行中产生了一个IOException，将会输出什么结果（&nbsp; &nbsp;&nbsp;&nbsp;）</p><p><img src=\"http://file.zhaomingedu.com/data/test/2009/0926/12/123551_45116_BFCWsBi.png\"/></p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "IOException!",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "IOException!Exception!",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "FileNotFoundException!IOException!",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "FileNotFoundException! Exception!",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wxzlaa2rji1iix70f2btdq",
+        "questionType": 1,
+        "title": "<p>要从文件&quot;file.dat&quot;中读出第10个字节到变量c中,执行“FileInputStream in=new FileInputStream(&quot;file.dat&quot;);”语句后，下列哪项代码适合? (&nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "in.skip(9); int c=in.read();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "in.skip(10); int c=in.read();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "int c=in.read();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": " in.skip(9); int c= in.readByte();",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "3",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wbhmaa2rekplxgu0zffoqg",
+        "questionType": 1,
+        "title": "<p>下面不是合法标识符的是(&nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "2ofUS",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "giveMes",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "whataQuiz",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "$d2000_",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "zlm4aaqrvqxc8mqw2muajq",
+    "title": "判断题",
+    "remark": "",
+    "totalScore": 10,
+    "stuQuestions": [
+      {
+        "id": "4pvwaa2r7knphq2xantpna",
+        "questionType": 3,
+        "title": "<p>Java允许程序员直接申请和释放对象内存。（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ae3waa2rua5bfw5a-vtc5g",
+        "questionType": 3,
+        "title": "<p>严格区分包内包外访问权限的修饰符是protected。（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "eerwaa2r7bxfugdvo9-fcw",
+        "questionType": 3,
+        "title": "<p>从键盘输入值为25的十六进制整数的形式是019。（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "usdwaa2rqrxe2brgwqj49w",
+        "questionType": 3,
+        "title": "<p>abstract可以修饰类与方法。（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zwpxaa2re5hm-ajpsymviq",
+        "questionType": 3,
+        "title": "<p>String类隐式创建的对象存在堆内存里。（&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ）</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cpbxaa2r74xcfnlq3lr-hg",
+        "questionType": 3,
+        "title": "<p>String类显式创建的对象存在堆内存中。(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "8xnxaa2rnzrbpdzyp-gqia",
+        "questionType": 3,
+        "title": "<p>Java的执行字节码文件的命令是javac.exe。(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "jq3xaa2rwk5g56bvqfp-5q",
+        "questionType": 3,
+        "title": "<p>方法中定义的局部内部类能访问的其所在方法的局部变量应该是final的。(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "answer": "1",
+        "stuAnswer": "1",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "-ppxaa2rirrcg9oq7w0yta",
+        "questionType": 3,
+        "title": "<p>static只能修饰方法与属性，不可以修饰类。(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ygbxaa2rfobkkumpdkd0ja",
+        "questionType": 3,
+        "title": "<p>十六进制数0x7B的正确的八进制表示是112。(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>",
+        "resultAnalysis": "",
+        "answer": "0",
+        "stuAnswer": "0",
+        "isRight": 1,
+        "isAssignmented": 1,
+        "totalScore": 1,
+        "giveScore": 1,
         "answerPicUrl": ""
       }
     ]

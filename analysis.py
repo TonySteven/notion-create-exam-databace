@@ -14,9 +14,9 @@ from redisbloom.client import Client as RedisBloomClient
 from utils.utils import stu_question2options
 
 # 加载文件
-file_name = '计算机网络-1'
+file_name = 'java技术-1'
 subject = file_name.split('-', 1)[0]
-path = r"../notion-create-exam-databace/origin_json_data/" + file_name + ".json"
+path = r"../notion-create-exam-database/origin_json_data/" + file_name + ".json"
 file = open(path, 'r', encoding='utf-8')
 
 # 创建 API 客户端

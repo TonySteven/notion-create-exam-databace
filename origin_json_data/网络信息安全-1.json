@@ -1,40 +1,40 @@
 [
   {
-    "id": "3b7rabgqlpfi95ytfrdnla",
+    "id": "8r67aaqriprdmneolpnykg",
     "title": "单项选择题",
     "remark": "下列各题，只有一个符合题意的正确答案，多选、错选、不选均不得分。",
-    "totalScore": 72,
+    "totalScore": 100,
     "stuQuestions": [
       {
-        "id": "zj-rabgqjy5brargwnwsgg",
+        "id": "q-uvab2qyqna41cne5weyg",
         "questionType": 1,
-        "title": "在SQL中，可以用谓词EXISTS来测试一个集合中是否（   ）。",
+        "title": "(     )是按照预定模式进行事件数据搜寻，最适用于对已知模式的可靠检测。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "有相同元组存在",
+            "content": "实时入侵检测",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "为空集合",
+            "content": "异常检测",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "有相同分量存在",
+            "content": "事后入侵检测",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "为非空集合",
+            "content": "误用检测",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -44,40 +44,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "nz-rabgqkijezohe228yvq",
+        "id": "cuuvab2qsr1gkws43ua9cq",
         "questionType": 1,
-        "title": "关系运算中花费时间可能最长的运算是（     ）。",
+        "title": "以下方法中，不适用于检测计算机病毒的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "投影",
+            "content": "特征代码法",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "选择",
+            "content": "校验和法",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "笛卡尔积",
+            "content": "加密",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "除",
+            "content": "软件模拟法",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -87,83 +87,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "halsalwrhybebw2jsbipqw",
+        "id": "aeuvab2qyptp1kncwdbkcq",
         "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;设U是所有属性的集合，X、Y、Z都是U的子集，且Z=U-X-Y。下面关于多值依赖的叙述中，不正确的是( &nbsp; )。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "若X→→Y，则X→→Z",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "若X→Y，则X→→Y",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "<p><img data-url=\"http://file.zhaomingedu.com/data/test/2010/0313/14/141709_873_KJxCMGi.png\" data-preview_url_ueditor=\"http://file.zhaomingedu.com/data/test/2010/0313/14/141709_873_KJxCMGi.png\" src=\"http://file.zhaomingedu.com/doc/download/KJxCMGi\"></p>",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "若Z=Φ，则X→→Y",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wd-rabgqi7jaqshoj9v-qa",
-        "questionType": 1,
-        "title": "数据库设计阶段分为（  ）。",
+        "title": "下列关于网络防火墙说法错误的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "物理设计阶段、逻辑设计阶段、编程和调试阶段",
+            "content": "网络防火墙不能解决来自内部网络的攻击和安全问题",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "概念设计阶段、逻辑设计阶段、物理设计阶段、实施和调试阶段",
+            "content": "网络防火墙能防止受病毒感染的文件的传输",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "方案设计阶段、总体设计阶段、个别设计和编程阶段",
+            "content": "网络防火墙不能防止策略配置不当或错误配置引起的安全威胁",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "模型设计阶段、程序设计阶段和运行阶段",
+            "content": "网络防火墙不能防止本身安全漏洞的威胁",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -173,40 +130,83 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "wd-rabgqxkvegmwa6kksog",
+        "id": "beuvab2qeqflchn9w83lea",
         "questionType": 1,
-        "title": "设有关系模式EMP（职工号，姓名，年龄，技能）。假设职工号唯一，每个职工有多项技能，则EMP表的主码是（　    ）。",
+        "title": "下面不是计算机信息系统安全管理的主要原则的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "职工号",
+            "content": "多人负责原则",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "姓名，技能",
+            "content": "追究责任原则",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "技能",
+            "content": "任期有限原则",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "职工号，技能",
+            "content": "职责分离原则",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "beuvab2qx4feqilsovtpgq",
+        "questionType": 1,
+        "title": "下面是个人防火墙的优点的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "运行时占用资源",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "对公共网络只有一个物理接口",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "只能保护单机，不能保护网络系统",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "增加保护级别",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -216,40 +216,814 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "85r0abgqgyxogcj9ab-q0w",
+        "id": "d-uvab2q4jxgllh3dcjy5g",
         "questionType": 1,
-        "title": "<p><img data-url=\"doc/a@1CE877D49F00866E4248C50AC3B19E5B.png\" data-preview_url_ueditor=\"doc/a@1CE877D49F00866E4248C50AC3B19E5B.png\" src=\"http://dianbo.upol.upc.edu.cn/doc/a@1CE877D49F00866E4248C50AC3B19E5B.png/download?time=636882576837822943&token=0D9092B97D2CAAC46482F7FC68857BBA&filename=png\"/></p>",
+        "title": "在下列4 项中，不属于计算机病毒特征的是(      )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "潜伏性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "传播性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "免疫性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "激发性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wuuvab2qhijdgg25wdsuaq",
+        "questionType": 1,
+        "title": "关于双钥密码体制的正确描述是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "双钥密码体制中加解密密钥不相同，从一个很难计算出另一个",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "双钥密码体制中加密密钥与解密密钥相同，或是实质上等同",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "双钥密码体制中加解密密钥虽不相同，但是可以从一个推导出另一个",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "双钥密码体制中加解密密钥是否相同可以根据用户要求决定",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "x-uvab2qybrm0cela8gtmw",
+        "questionType": 1,
+        "title": "假设使用一种加密算法，它的加密方法很简单：将每一个字母加5，即a加密成f。这种算法的密钥就是5，那么它属于(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "对称加密技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "分组密码技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "公钥加密技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "单向函数密码技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zouvab2qtobgadtu88jixa",
+        "questionType": 1,
+        "title": "网络安全技术有很多，下面哪一项不属于网络安全技术(      )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "防火墙和防病毒技术的局限性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "访问控制技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "网络存储备份技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "密码技术",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "aeuvab2q5yvi-fgzgaesnw",
+        "questionType": 1,
+        "title": "下列不属于行为监测法检测病毒的行为特征的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "占有INT 13H",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "修改DOS系统内存总量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "病毒程序与宿主程序的切换",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "不使用 INT 13H",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "beuvab2quphipdairnofjw",
+        "questionType": 1,
+        "title": "一般而言，Internet防火墙建立在一个网络的(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "内部网络与外部网络的交叉点",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "每个子网的内部",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "部分内部网络与外部网络的结合处",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "内部子网之间传送信息的中枢",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "beuvab2qkiladka6y31pyw",
+        "questionType": 1,
+        "title": "下面属于单钥密码体制算法的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "RSA",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "LUC",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "DES",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "DSA",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "souvab2q4ljenhjm2zggua",
+        "questionType": 1,
+        "title": "端口扫描的原理是向目标主机的(     )端口发送探测数据包，并记录目标主机响应。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "FTP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "UDP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "TCP/IP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "WWW",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "q-uvab2q-pbccv7lsmpa9w",
+        "questionType": 1,
+        "title": "（   ）协议主要用于加密机制。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "HTTP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "FTP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "TELNET",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "SSL",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "souvab2qkonm22gpwddn0w",
+        "questionType": 1,
+        "title": "对网络中两个相邻节点之间传输的数据进行加密保护的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "节点加密",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "链路加密",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "端到端加密",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "DES加密",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wuuvab2qzkznwfc8aggkzq",
+        "questionType": 1,
+        "title": "关于消息认证（如MAC等），下列说法中错误的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "消息认证有助于验证发送者的身份",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "消息认证有助于验证消息是否被篡改",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "当收发者之间存在利害冲突时，采用消息认证技术可以解决纠纷",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "当收发者之间存在利害冲突时，单纯采用消息认证技术无法彻底解决纠纷",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zouvab2qg65bpekjns8tuq",
+        "questionType": 1,
+        "title": "若漏洞威胁描述为“低影响度，中等严重度”，则该漏洞威胁等级为(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "1级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "2级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "3级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "4级",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cuuvab2q5ovaqtgiuypvxw",
+        "questionType": 1,
+        "title": "以下关于VPN的说法中的哪一项是正确的？（  ）",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "VPN是虚拟专用网的简称，它只能对ISP维护和实施",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "VPN是只能在第二层数据链路层上实现加密",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "IPSEC也是VPN的一种",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "VPN使用通道技术加密，但没有身份验证功能",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "cuuvab2q7o5jucm9nrt5mw",
+        "questionType": 1,
+        "title": "以下哪个协议被用于动态分配本地网络内的IP地址？（   ）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "DHCP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "ARP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "proxy ARP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "IGRP",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "souvab2qszne-y1bp0f3da",
+        "questionType": 1,
+        "title": "病毒的运行特征和过程是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "入侵、运行、驻留、传播、激活、破坏",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "传播、运行、驻留、激活、破坏、自毁",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "入侵、运行、传播、扫描、窃取、破坏",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "复制、运行、撤退、检查、记录、破坏",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "touvab2qv7npmo7jqhrzyw",
+        "questionType": 1,
+        "title": "根据美国联邦调查局的评估，80%的攻击和入侵来自(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "接入网",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "企业内部网",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "公用IP网",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "个人网",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zouvab2q5o1b9eh9ctucpg",
+        "questionType": 1,
+        "title": "属于被动攻击的恶意网络行为是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "缓冲区溢出",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "网络监听",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "端口扫描",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "IP欺骗",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "iaulab6qzalkkb-xr5btta",
+        "questionType": 1,
+        "title": "<p>端口扫描是一种（&nbsp; &nbsp;）型网络攻击。</p>",
         "resultAnalysis": "",
         "options": [
           {
             "sortOrder": "0",
-            "content": "A",
+            "content": "DoS",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "B",
+            "content": "利用",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "C",
+            "content": "信息收集",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "D",
+            "content": "虚假信息",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ueuvab2qlrdleoyw-99wbq",
+        "questionType": 1,
+        "title": "关于RSA算法说明正确的是(      )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "私钥持有人可以通过公钥推算私钥",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "因p，q需要保密，所以p，q的乘积n也需要保密",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "RSA不可用于身份验证或数字签名",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "公认的密钥分配方法是通过密钥分配中心来分配和管理公开密钥",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -259,83 +1033,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "0z-rabgqiqjntrsr57eueg",
+        "id": "vuuvab2qrz9pmjclxlyg4a",
         "questionType": 1,
-        "title": "在合并分E-R图时必须消除各分图中的不一致。各分E-R图之间的冲突主要有三类，即属性冲突、命名冲突和结构冲突，其中命名冲突是指（     ）。",
+        "title": "关于计算机病毒，下列说法错误的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "命名太长或太短",
+            "content": "计算机病毒是一个程序",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "同名异义或同义异名",
+            "content": "计算机病毒具有传染性",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "属性类型冲突",
+            "content": "计算机病毒的运行不消耗CPU资源",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "属性取值单位冲突",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "hjnwabgqe5vphrl2mzjv1q",
-        "questionType": 1,
-        "title": "<p><img data-url=\"doc/a@8B5314BDE644B8D6B33EC47E01550E8A.png\" data-preview_url_ueditor=\"doc/a@8B5314BDE644B8D6B33EC47E01550E8A.png\" src=\"http://dianbo.upol.upc.edu.cn/doc/a@8B5314BDE644B8D6B33EC47E01550E8A.png/download?time=636882571756934059&token=BE1D2FCDDAA2D6778AF42EFF5018A529&filename=png\"/></p>",
-        "resultAnalysis": "",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "该操作不存在问题",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "该操作丢失修改",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "修改该操作不能重复读",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "该操作读“脏\"数据",
+            "content": "病毒并不一定都具有破坏力",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -345,40 +1076,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "pd-rabgqsi1obov-1jmkjg",
+        "id": "cuuvab2qb7vje65dlc00bw",
         "questionType": 1,
-        "title": "若事务T对数据对象A加上S锁，则（      ）。",
+        "title": "在采用RSA公开钥加密系统中．若鲍勃想给艾丽斯发送一封邮件．并且想让艾丽斯知道邮件是鲍勃发出的，则鲍勃应陔选用的加密密钥是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "事务T可以读A和修改A，其它事务只能再对A加S锁，而不能加X 锁",
+            "content": "鲍勃的公钥",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "事务T可以读A但不能修改A，其它事务能对A加S锁和X锁",
+            "content": "艾丽斯的公钥",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "事务T可以读A但不能修改A，其它事务只能再对A加S锁，而不能加X 锁",
+            "content": "鲍勃的私钥",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "事务T可以读A和修改A，其它事务能对A加S锁和X锁",
+            "content": "艾丽斯的私钥",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -388,685 +1119,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "wd-rabgqqkbgd67tpwozna",
+        "id": "q-uvab2qsofbwvebb6ehwa",
         "questionType": 1,
-        "title": "事务的原子性是指（      ）。",
+        "title": "VPN一般通过用户名和口令限制非法用户的访问，请问这种策略方式是(       )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "一个事务内部的操作及使用的数据对并发的其他事务是隔离的",
+            "content": "入网访问控制",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "事务一旦提交，对数据库的改变是永久的",
+            "content": "网络的权限控制",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "事务中包括的所有操作要么都做，要么都不做",
+            "content": "目录级安全控制",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "事务必须是使数据库从一个一致性状态变到另一个一致性状态",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "0z-rabgqjjzekzcmyiflhw",
-        "questionType": 1,
-        "title": "在关系模型中，实现关系中不允许出现相同的元组的约束是通过(   )。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "侯选键",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "主键",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "外键",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "超键",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "0z-rabgqkjnp632-bd9v-g",
-        "questionType": 1,
-        "title": "在下列实体类型的联系中，一对多联系的是（  ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "学校与课程的学习联系",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "班级与学生的关系",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "省与省会的关系",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "顾客与商品的购买关系",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xt-rabgq8rljmb7z5sn0la",
-        "questionType": 1,
-        "title": "下列哪种运算不属于关系代数的基本运算（   ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "连接",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "笛卡尔积",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "相减",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "投影",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wd-rabgqb4bnqrdpeieicg",
-        "questionType": 1,
-        "title": "数据库管理系统能实现对数据库中数据的查询、插入、修改和删除等操作的数据库语言称为（      ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "数据定义语言（DDL）",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "数据管理语言",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "数据操纵语言（DML）",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "数据控制语言",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "zj-rabgqj4fmtnoi4ywmhq",
-        "questionType": 1,
-        "title": "在SQL语言的SELECT语句中，实现投影操作的是哪个子句？（  ）",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "select",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "from",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "Where",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "group by",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xt-rabgqwpnaph9b3k9vig",
-        "questionType": 1,
-        "title": "数据库系统与文件系统的主要区别是（　  　）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "数据库系统复杂，而文件系统简单",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "文件系统不能解决数据冗余和数据独立性问题，而数据库系统可以解决",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "文件系统只能管理程序文件，而数据库系统能够管理各种类型的文件",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "文件系统管理的数据量较少，而数据库系统可以管理庞大的数据量",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yt-rabgqm6thyzv7my9n9w",
-        "questionType": 1,
-        "title": "语句delete from sc 表明（  ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "删除sc中的全部记录",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "删除基本表sc",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "删除基本表sc中的列数据",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "删除基本表sc中的部分行",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yt-rabgqu6vbjhjsge6hwg",
-        "questionType": 1,
-        "title": "在DB应用中，一般一条SQL 语句可产生或处理一组记录，而DB主语言语句一般一次只能处理一条记录，其协调可通过哪种技术实现（  ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "指针",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "游标",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "数组",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "栈",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "nz-rabgqo5laizsjvcjpfa",
-        "questionType": 1,
-        "title": "关系演算的基础是(       )。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "形式逻辑中的逻辑演算",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "形式逻辑中的关系演算",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "数理逻辑中的谓词演算",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "数理逻辑中的形式演算",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xt-rabgqxlrlasss-vahhq",
-        "questionType": 1,
-        "title": "五种基本关系代数运算是(      )。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "∪，-，×，π和σ",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "∪，-，?，π和σ",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "∪，∩，×，π和σ",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "∪，∩，?，π和σ",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "0z-rabgqalldrj612267ow",
-        "questionType": 1,
-        "title": "在关系数据库设计中，设计关系模式是（     ）的任务。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "需求分析阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "概念设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "逻辑设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "物理设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "uz-rabgqhibbrphjrfly2w",
-        "questionType": 1,
-        "title": "设属性A是关系R的主属性，则属性A不能取空值（'）。这是（  ）",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "实体完整性规则",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "参照完整性规则",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "用户定义完整性规则",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "域完整性规则",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "lj-rabgqrqlidrklvim1xw",
-        "questionType": 1,
-        "title": "1级封锁协议加上T要读取的数据R加S锁，这是(       )。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "3级封锁协议",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "4级封锁协议",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "2级封锁协议",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "1级封锁协议",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "vrp-avsq1qvla-3cifc0qa",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;从E-R模型向关系模型转换时，一个M:N联系转换为关系模型时，该关系模型的码是（ &nbsp; &nbsp; ）。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "M端实体的码",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "N端实体的码",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "M端实体码与N端实体码组合",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "重新选取其他属性",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "svh-avsqfadbkgnx8efdda",
-        "questionType": 1,
-        "title": "<p>&nbsp; &nbsp;在数据库系统的三级模式结构中，用来描述数据的全局逻辑结构的是（ &nbsp;）。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "子模式",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "用户模式",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "模式",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "存储模式",
+            "content": "网络服务器安全控制",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1076,255 +1162,513 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "xt-rabgqrqrd0d0dooht0a",
+        "id": "souvab2q7rvf0h3gfjqgja",
         "questionType": 1,
-        "title": "下面哪个不是数据库系统必须提供的数据控制功能（     ）。",
+        "title": "端口扫描技术(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "安全性",
+            "content": "只能作为攻击工具",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "可移植性",
+            "content": "只能作为防御工具",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
+            "content": "只能作为检查系统漏洞的工具",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "既可以作为攻击工具，也可以作为防御工具",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "aeuvab2qnyhiepzoj-xesw",
+        "questionType": 1,
+        "title": "下面(     )不是机房安全等级划分标准。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "D类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "C类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "B类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "A类",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ueuvab2qykthnepamqx39w",
+        "questionType": 1,
+        "title": "关于防火墙说法正确的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "防火墙都是软件程序",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "防火墙安装后无须设置",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "防火墙防外不防内",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "防火墙的选择和配置不受物理结构干扰",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "vuuvab2qlrjiapmrdtuu7a",
+        "questionType": 1,
+        "title": "关于散列函数的特性说法正确的是（）。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "一致性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "随机性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "唯一性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "双向性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "beuvab2qoptn-jynvszlkg",
+        "questionType": 1,
+        "title": "下面关于恶意代码防范描述正确的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "及时更新系统，修补安全漏洞",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "设置安全策略，限制脚本",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "启用防火墙，过滤不必要的服务",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "以上都正确",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "ueuvab2qjbdhrfaxxrc3uq",
+        "questionType": 1,
+        "title": "关于A类机房应符合的要求，以下选项不正确的是(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "计算站应设专用可靠的供电线路",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "供电电源设备的容量应具有一定的余量",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "计算站场地宜采用开放式蓄电池",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "计算机系统应选用铜芯电缆",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "x-uvab2qaq5lkbnft8vciw",
+        "questionType": 1,
+        "title": "计算机网络安全体系结构是指(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "网络安全基本问题应对措施的集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "各种网络的协议的集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "网络层次结构与各层协议的集合",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "网络的层次结构的总称",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "0",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "zouvab2qsbpfim7zzbmvkq",
+        "questionType": 1,
+        "title": "数字签名技术可以用于对用户身份或信息的真实性进行验证与鉴定，但是下列的(      )行为不能用数字签名技术解决。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "抵赖",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "伪造",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "篡改",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "窃听",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "touvab2qxqdgdl4faahdzg",
+        "questionType": 1,
+        "title": "防火墙采用的最简单的技术是 (       )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "安装维护卡",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "隔离",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "包过滤",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "设置进入密码",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "2",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "x-uvab2qjajinosotufnwa",
+        "questionType": 1,
+        "title": "计算机网络安全的目标不包括(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "保密性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "不可否认性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "免疫性",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
             "content": "完整性",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "并发控制",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "uz-rabgqoorota2y9tp-rw",
-        "questionType": 1,
-        "title": "设关系R和关系S的元数分别是3和4，关系T是R与S的广义笛卡尔积，即：T=R×S，则关系T的元数是（  ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "7",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "9",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "12",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "16",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
           }
         ],
         "answer": "2",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "mj-rabgqnanbjm4mk1v2xw",
+        "id": "vuuvab2qlirdzof41fw-4a",
         "questionType": 1,
-        "title": "ER图是一种直观表示何种模型的工具（   ）。",
+        "title": "关于机房供电的要求和方式，说法不正确的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "结构数据模型",
+            "content": "电源应统一管理技术",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "关系数据模型",
+            "content": "电源过载保护技术和防雷击计算机",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "概念数据模型",
+            "content": "电源和设备的有效接地技术",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "层次和网状模型",
+            "content": "不同用途的电源分离技术",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "2",
+        "answer": "0",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "zj-rabgqjillkmfreyzzgw",
+        "id": "ueuvab2qg7hdfk6b-0a6ma",
         "questionType": 1,
-        "title": "在关系代数中，对一个关系做投影操作后，新关系的元组个数（     ）原来关系的元组个数。",
+        "title": "关于公开密钥密码体制说法不正确的是（）。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "小于",
+            "content": "密钥可以分发任何人",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "小于或等于",
+            "content": "公开密钥算法不需要联机密钥服务器",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "等于",
+            "content": "公共密钥可以通过电子邮件直接发给他人",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "大于",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "nz-rabgqx65cgovowul0vg",
-        "questionType": 1,
-        "title": "把对关系SC的属性GRADE的修改权授予用户ZHAO的T-SQL语句是（　  　）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "GRANT GRADE ON SC TO ZHAO",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "GRANT UPDATE ON SC TO ZHAO",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "GRANT UPDATE (GRADE) ON SC TO ZHAO",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "GRANT UPDATE ON SC (GRADE) TO ZHAO",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "nz-rabgqaixjlwafrq1m8g",
-        "questionType": 1,
-        "title": "假定学生关系是S（S＃，SNAME，SEX，AGE），课程关系是C（C＃，CNAME，TEACHER），学生选课关系是SC（S＃，C＃，GRADE）。要查找选修“COMPUTER”课程的“女”学生姓名，将涉及到关系（     ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "S",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "SC，C",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "S，SC",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "S，C，SC",
+            "content": "秘密密钥必须保密",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1334,169 +1678,126 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "wd-rabgqql9j7lvz-xgfzg",
+        "id": "x-uvab2qblfo1bzox1janq",
         "questionType": 1,
-        "title": "数据库类型是按照(       )来划分的。",
+        "title": "密码学的目的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "文件形式",
+            "content": "研究数据加密",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "数据模型",
+            "content": "研究数据解密",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "记录形式",
+            "content": "研究数据保密",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "数据存取方法",
+            "content": "研究信息安全",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "1",
+        "answer": "2",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "nz-rabgq5ajiy0yuru9tta",
+        "id": "souvab2qkynnpnw1n44ghq",
         "questionType": 1,
-        "title": "给定关系模式SCP（Sno,Cno,P），其中Sno表示学号，Cno表示课程号，P表示名次。若每一名学生每门课程有一定的名次，每门课程每一名次只有一名学生，则以下叙述中错误的是（      ）。",
+        "title": "包过滤型防火墙工作在(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "（Sno，Cno）和（Cno，P）都可以作为候选码",
+            "content": "会话层",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "（Sno，Cno）是唯一的候选码",
+            "content": "应用层",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "关系模式SCP既属于3NF也属于BCNF",
+            "content": "网络层",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "关系模式SCP没有非主属性",
+            "content": "数据链路层",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "1",
+        "answer": "2",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "nz-rabgqsilbqnahjsg4-q",
+        "id": "wuuvab2qg51kslpzdmw5zw",
         "questionType": 1,
-        "title": "关系规范化中的删除操作异常是指（      ）。",
+        "title": "计算机病毒通常是(      )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "不该删除的数据被删除",
+            "content": "一条命令",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "不该插入的数据被插入",
+            "content": "一个文件",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "应该删除的数据未被删除",
+            "content": "一个标记",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "应该插入的数据未被插入",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "nz-rabgqrbfpiwgn2syyfa",
-        "questionType": 1,
-        "title": "查询优化策略中，正确的策略是（  ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "尽可能早地执行笛卡尔积操作",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "尽可能早地执行并操作",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "尽可能早地执行差操作",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "尽可能早地执行选择操作",
+            "content": "一段程序代码",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1506,83 +1807,169 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "xt-rabgqzadkitfo48iq-a",
+        "id": "aeuvab2q-55p-nhypfndwq",
         "questionType": 1,
-        "title": "学校数据库中有学生和宿舍两个关系：学生（学号，姓名）和 宿舍（楼名，房间号，床位号，学号），假设有的学生不住宿，床位也可能空闲。如果要列出所有学生住宿和宿舍分配的情况，包括没有住宿的学生和空闲的床位，则应执行（      ）。",
+        "title": "下面不是计算机网络面临的主要威胁的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "全外联接",
+            "content": "恶意程序威胁",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "左外联接",
+            "content": "计算机软件面临威胁",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "右外联接",
+            "content": "计算机网络实体面临威胁",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "自然联接",
+            "content": "计算机网络系统面临威胁",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "0",
+        "answer": "3",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "pd-rabgqzppmo9a0kk-gfw",
+        "id": "beuvab2qs6za1xn3y23vgq",
         "questionType": 1,
-        "title": "若系统在运行过程中，由于某种硬件故障，使存储在外存上的数据部分损失或全部损失，这种情况称为(       )。",
+        "title": "下面有关机房安全要求的说法正确的是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "事务故障",
+            "content": "电梯和楼梯不能直接进入机房",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "系统故障",
+            "content": "机房进出口应设置应急电话",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "介质故障",
+            "content": "照明应达到规定范围",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "运行故障",
+            "content": "以上说法都正确",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "3",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "q-uvab2q1i1hq5kjxnjjia",
+        "questionType": 1,
+        "title": "CMIP的中文含义为(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "边界网关协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "公用管理信息协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "简单网络管理协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "分布式安全管理协议",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          }
+        ],
+        "answer": "1",
+        "stuAnswer": "",
+        "isRight": 2,
+        "isAssignmented": 2,
+        "totalScore": 2,
+        "giveScore": 0,
+        "answerPicUrl": ""
+      },
+      {
+        "id": "wuuvab2qsibfdg6v1kfhvg",
+        "questionType": 1,
+        "title": "机房中的三度不包括(     )。",
+        "resultAnalysis": "无",
+        "options": [
+          {
+            "sortOrder": "0",
+            "content": "温度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "1",
+            "content": "湿度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "2",
+            "content": "可控度",
+            "pictureAddress": "",
+            "answer": "",
+            "stuAnswer": ""
+          },
+          {
+            "sortOrder": "3",
+            "content": "洁净度",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1592,126 +1979,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "pd-rabgquovbp7c9ef-6sa",
+        "id": "zouvab2qib5axib1xbc3ag",
         "questionType": 1,
-        "title": "建立数据字典的时机是(       )。",
+        "title": "入侵检测是一门新兴的安全技术，是作为继(     )之后的第二层安全防护措施。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "需求分析阶段",
+            "content": "路由器",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "数据库物理设计阶段",
+            "content": "防火墙",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "数据库实施",
+            "content": "交换机",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "概念结构设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wd-rabgqw6tihhu2ymuicq",
-        "questionType": 1,
-        "title": "数据库的网状模型应满足的条件是（　  　）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "允许一个以上结点无双亲，也允许一个结点有多个双亲",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "必须有两个以上的结点",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "有且仅有一个结点无双亲，其余结点都只有一个双亲",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "每个结点有且仅有一个双亲",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "uz-rabgqaihdwk4yvs1ifg",
-        "questionType": 1,
-        "title": "设有关系R（A，B，C）和S（C，D）。与SQL语句select A,B,D from R,S where R.C=S.C等价的关系代数表达式是（  ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "σR.C=S.C(πA，B，D(R×S))",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "πA，B，D(σR，C= S.C (R×S))",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "σR.C=S.C((πA，B R)×(πDS))",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "σR，C=S.C(πD((πA，BR)×S)",
+            "content": "服务器",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1721,40 +2022,40 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "0z-rabgqfa1npjmvct04da",
+        "id": "q-uvab2qdarjkzlhqedkjw",
         "questionType": 1,
-        "title": "在数据管理技术的发展过程中，经历了人工管理阶段、文件系统阶段和数据库系统阶段。在这几个阶段中，数据独立性最高的是（  ）阶段。",
+        "title": "PPDR模型中的D代表的含义是(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "数据库系统",
+            "content": "检测",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "文件系统",
+            "content": "响应",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "人工管理",
+            "content": "关系",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "数据项管理",
+            "content": "安全",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
@@ -1764,494 +2065,89 @@
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "zj-rabgqp41aojtr5yb-nw",
+        "id": "q-uvab2qsjndey4--hh7rw",
         "questionType": 1,
-        "title": "在对象联系图中，双线箭头表示对象间的(   )。",
+        "title": "(     )的目的是发现目标系统中存在的安全隐患，分析所使用的安全机制是否能够保证系统的机密性、完整性和可用性。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "函数值为多值",
+            "content": "漏洞分析",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "属性值为多值",
+            "content": "入侵检测",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "泛化/细化联系",
+            "content": "安全评估",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "对象之间包含联系",
+            "content": "端口扫描",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "2",
+        "answer": "0",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
-        "totalScore": 1.5,
+        "totalScore": 2,
         "giveScore": 0,
         "answerPicUrl": ""
       },
       {
-        "id": "xt-rabgqclrpyuaorgaw3a",
+        "id": "touvab2ql5hctyblutrq3a",
         "questionType": 1,
-        "title": "下列聚合函数中不忽略空值(') 的是  (    )。",
+        "title": "恶意代码的特征不体现(     )。",
         "resultAnalysis": "无",
         "options": [
           {
             "sortOrder": "0",
-            "content": "SUM (列名)",
+            "content": "恶意的目的",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "1",
-            "content": "MAX (列名)",
+            "content": "本身是程序",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "2",
-            "content": "COUNT ( * )",
+            "content": "通过执行发生作用",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           },
           {
             "sortOrder": "3",
-            "content": "AVG (列名)",
+            "content": "不通过执行也能发生作用",
             "pictureAddress": "",
             "answer": "",
             "stuAnswer": ""
           }
         ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "nz-rabgqw4niqsfv2vufug",
-        "questionType": 1,
-        "title": "FoxBASE、FoxPro属于（    ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "表式系统",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "最小关系系统",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "关系完备的系统",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "全关系系统",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "0z-rabgqvzxauyqecmaj0w",
-        "questionType": 1,
-        "title": "在数据库设计中，将E－R图转换成关系数据模型的过程属于（      ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "需求分析阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "物理设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "逻辑设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "概念设计阶段",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wd-rabgqglrfnziwozva8g",
-        "questionType": 1,
-        "title": "数据的逻辑独立性是指（      ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "内模式改变，模式不变",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "模式改变，内模式不变",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "模式改变，外模式和应用程序不变",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "内模式改变，外模式和应用程序不变",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "2",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yt-rabgqiz1fklrkawd73a",
-        "questionType": 1,
-        "title": "约束”年龄限制在18—30岁之间”属于DBMS的哪种功能（   ）。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "安全性",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "完整性",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "并发控制",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "恢复",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "pd-rabgqii9bzf065s03gq",
-        "questionType": 1,
-        "title": "若要求分解保持函数依赖，那么模式分解一定能够达到(       )。",
-        "resultAnalysis": "无",
-        "options": [
-          {
-            "sortOrder": "0",
-            "content": "2NF",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "1",
-            "content": "3NF",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "2",
-            "content": "BCNF",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          },
-          {
-            "sortOrder": "3",
-            "content": "1NF",
-            "pictureAddress": "",
-            "answer": "",
-            "stuAnswer": ""
-          }
-        ],
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 1.5,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      }
-    ]
-  },
-  {
-    "id": "mrdtabgqb5vk4e6kalwfla",
-    "title": "多项选择题",
-    "remark": "下列各题，有两个或两个以上正确答案，多选、错选、不选、少选均不得分。",
-    "totalScore": 28,
-    "stuQuestions": [
-      {
-        "id": "xvcvabgqyolelryxxeqiqg",
-        "questionType": 3,
-        "title": "设R、S是任意两个同类关系，U是R的关系框架中所有属性的集合，属性集A3、数据库事务的原子性是指事物在执行过程中不能出现中断。（           ）",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "oxeaavsqwpxl73z06vb4ma",
-        "questionType": 3,
-        "title": "<p>一个关系的主关键字一定是唯一的。</p>",
-        "resultAnalysis": "<p>无</p>",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wfcvabgqjblpftq5yzvgyw",
-        "questionType": 3,
-        "title": "访问控制是防止对数据库进行非法访问的主要方法。",
-        "resultAnalysis": "无",
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yvcvabgq0phh9gzwzwmnlq",
-        "questionType": 3,
-        "title": "在IMS系统中，如果使用HSAM存储结构，那么检索、插入、删除都很方便。（              ）",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yvcvabgqqzhpnqoogaon-q",
-        "questionType": 3,
-        "title": "一个关系模式就是一张二维表的表头。",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yvcvabgqoalfphh52jifwa",
-        "questionType": 3,
-        "title": "完整约束条件的检查总是在事务的每个维护操作执行后立即进行。",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "zlcvabgq97ff68njpqjzyw",
-        "questionType": 3,
-        "title": "在OROB中，超表中的每个元组最多可以与每个子表中的一个元组相对应。（        ）",
-        "resultAnalysis": "无",
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "wfcvabgqgk5bgnf-yunkkq",
-        "questionType": 3,
-        "title": "对一个数据库系统来说，概念级对应于它实际存储的数据。",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "u1cvabgqypdc6hw6yudssw",
-        "questionType": 3,
-        "title": "对关系模式来说，范式级别越高，实际应用效果越好。（           ）",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "yvcvabgqzapfsfgbzf3-xq",
-        "questionType": 3,
-        "title": "数据字典是一个特殊的数据库。",
-        "resultAnalysis": "无",
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "u1cvabgqpqzkgtdqpkvupq",
-        "questionType": 3,
-        "title": "对一个客观事物，可以用多种数据模型来描述（   ）。",
-        "resultAnalysis": "无",
-        "answer": "1",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "u1cvabgqu6do0ohfxtzppw",
-        "questionType": 3,
-        "title": "层次数据模型可以很好地表示多对多联系。",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "xvcvabgqz4hewd74zr-reg",
-        "questionType": 3,
-        "title": "实体间的联系用实体模型来描述。",
-        "resultAnalysis": "无",
-        "answer": "0",
-        "stuAnswer": "",
-        "isRight": 2,
-        "isAssignmented": 2,
-        "totalScore": 2,
-        "giveScore": 0,
-        "answerPicUrl": ""
-      },
-      {
-        "id": "zlcvabgq84xmmyz0cqhmca",
-        "questionType": 3,
-        "title": "在向量结构的顺序文件中，插入记录比较困难。",
-        "resultAnalysis": "无",
-        "answer": "1",
+        "answer": "3",
         "stuAnswer": "",
         "isRight": 2,
         "isAssignmented": 2,
